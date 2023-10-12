@@ -1,0 +1,29 @@
+export default [
+    {
+        chapter: 1,
+        verse: 1,
+        word: 1,
+        greek: 'Ἀρχὴ',
+        english: 'The beginning',
+        grammar: 'N-NSF',
+        strongs: 'G746'
+    },
+    {
+        chapter: 1,
+        verse: 1,
+        word: 2,
+        greek: 'τοῦ',
+        english: 'of the',
+        strongs: 'G3588',
+        grammar: 'T-GSN'
+    },
+    {
+        chapter: 1,
+        verse: 1,
+        word: 3,
+        greek: 'εὐαγγελίου',
+        english: 'Good News',
+        strongs: 'G2098',
+        grammar: 'N-GSN'
+    }
+]
