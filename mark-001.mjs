@@ -25,5 +25,23 @@ export default [
         english: 'Good News',
         strongs: 'G2098',
         grammar: 'N-GSN'
+    },
+
+
+
+
+
+
+
+
+    {
+        chapter: 1,
+        verse: 15,
+        word: 15,
+        greek: 'πιστεύετε',
+        english: 'believe',
+        strongs: 'G4100',
+        grammar: 'V-PAM-2P',
+        christ: true
     }
 ]
