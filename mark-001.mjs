@@ -94,7 +94,7 @@ export default [
         chapter: 1,
         verse: 2,
         word:3,
-        greek: ἐν,
+        greek: 'ἐν',
         english: 'in',
         strongs: 'G1722',
         grammar: 'Prep',
@@ -1331,7 +1331,7 @@ export default [
         english: "voice",
         strongs: "G5456",
         grammar: "N-NSF"
-    }
+    },
 
     {
         chapter: 1,
@@ -1341,7 +1341,7 @@ export default [
         english: "came",
         strongs: "G1096",
         grammar: "V-2AAI-3S"
-    }
+    },
     
     {
         chapter: 1,
@@ -1351,7 +1351,7 @@ export default [
         english: "out of",
         strongs: "G1537",
         grammar: "PREP"
-    }
+    },
 
     {
         chapter: 1,
@@ -1362,7 +1362,7 @@ export default [
         strongs: "G3588",
         grammar: "T-GSM"
 
-    }
+    },
 
 
     {
@@ -1373,7 +1373,7 @@ export default [
         english: "sky",
         strongs: "G3772",
         grammar: "N-GSM" 
-    }
+    },
 
     {
         chapter: 1,
@@ -1383,7 +1383,7 @@ export default [
         english: "You",
         strongs: "G4771",
         grammar: "PP-2NS"
-    }
+    },
 
     {
         chapter: 1,
@@ -1393,7 +1393,7 @@ export default [
         english: "are",
         strongs: "G1510",
         grammar: "V-PXI-2S"
-    }
+    },
 
     {
         chapter: 1,
@@ -1403,7 +1403,7 @@ export default [
         english: "my",
         strongs: "G3588",
         grammar: "T-NSM"
-    }
+    },
 
     {
         chapter: 1,
@@ -1413,7 +1413,7 @@ export default [
         english: "beloved",
         strongs: "G27",
         grammar: "A-NSM"  
-    }
+    },
 
     {
         chapter: 1,
@@ -1423,7 +1423,7 @@ export default [
         english: "Son",
         strongs: "G5207",
         grammar: "N-NSM"
-    }
+    },
 
     {
         chapter: 1,
@@ -1433,7 +1433,7 @@ export default [
         english: "in",
         strongs: "G1722",
         grammar: "Prep"
-    }
+    },
 
     {
         chapter: 1,
@@ -1443,7 +1443,7 @@ export default [
         english: "whom",
         strongs: "G3739",
         grammar: "P-DSM"
-    }
+    },
 
     {
         chapter: 1,
@@ -1453,7 +1453,7 @@ export default [
         english: "I am well pleased",
         strongs: "G2106",
         grammar: "V-AAI-1S"
-    }
+    },
 
     {
         chapter: 1,
@@ -1463,7 +1463,7 @@ export default [
         "english": "immediately",
         "strongs": "G2112",
         "grammar": "Adv"
-    }
+    },
 
     {
         chapter: 1,
@@ -1474,7 +1474,7 @@ export default [
         strongs: "G3588",
         grammar: "T-GSM"
 
-    }
+    },
 
     {
         chapter: 1,
@@ -1484,7 +1484,7 @@ export default [
         english: "Spirit",
         strongs: "G4151",
         grammar: "N-NNS"
-    }
+    },
 
     {
         chapter: 1,
@@ -1494,7 +1494,7 @@ export default [
         english: "drove",
         strongs: "G1544",
         grammar: "V-PAI-3S"
-    }
+    },
 
     {
         chapter: 1,
@@ -1504,7 +1504,7 @@ export default [
         english: "him",
         strongs: "G846",
         grammar: "P-ASM"
-    }
+    },
 
     {
         chapter: 1,
@@ -1514,7 +1514,7 @@ export default [
         english: "into",
         strongs: "G1519",
         grammar: "Prep"
-    }
+    },
 
     {
         chapter: 1,
@@ -1524,7 +1524,7 @@ export default [
         english: "the",
         strongs: "G3588",
         grammar: "T-GSM"
-    }
+    },
 
     {
         chapter: 1,
@@ -1534,7 +1534,7 @@ export default [
         english: "wilderness",
         strongs: "G2048",
         grammar: "N-AFS"
-    }
+    },
 
 
     {
@@ -1545,7 +1545,7 @@ export default [
         english: "He was",
         strongs: "G2258",
         grammar: "V-IAI-3S"
-    }
+    },
 
     {
         chapter: 1,
@@ -1555,7 +1555,7 @@ export default [
         english: "there",
         strongs: "G1563",
         grammar: "Adv"  
-    }
+    },
 
     {
         chapter: 1,
@@ -1565,7 +1565,7 @@ export default [
         english: "in",
         strongs: "G1722",
         grammar: "Prep" 
-    }
+    },
 
     {
         chapter: 1,
@@ -1575,7 +1575,7 @@ export default [
         english: "the",
         strongs: "G3588",
         grammar: "T-GSM"
-    }
+    },
 
     {
         chapter: 1,
@@ -1585,7 +1585,7 @@ export default [
         english: "wilderness",
         strongs: "G2048",
         grammar: "N-DFS"
-    }
+    },
 
     {
         chapter: 1,
@@ -1595,7 +1595,7 @@ export default [
         english: "forty,",
         strongs: "G5062",
         grammar: "A-NPN"
-    }
+    },
 
     {
         chapter: 1,
@@ -1605,7 +1605,7 @@ export default [
         english: "days",
         strongs: "G2250",
         grammar: "N-GFS" 
-    }
+    },
 
     {
         chapter: 1,
@@ -1615,7 +1615,7 @@ export default [
         english: "tempted",
         strongs: "G3985",
         grammar: "V-PPP-NSM"
-    }
+    },
 
     {
         chapter: 1,
@@ -1625,7 +1625,7 @@ export default [
         english: "by",
         strongs: "G5259",
         grammar: "Prep"
-    }
+    },
 
     {
         chapter: 1,
@@ -1635,7 +1635,7 @@ export default [
         english: "Satan.",
         strongs: "G4567",
         grammar: "N-GMS"
-    }
+    },
 
     {
         chapter: 1,
@@ -1645,7 +1645,7 @@ export default [
         english: "He was",
         strongs: "G2532",
         grammar: "Conj"
-    }
+    },
 
     {
         chapter: 1,
@@ -1655,7 +1655,7 @@ export default [
         english: "with",
         strongs: "G3326",
         grammar: "Prep" 
-    }
+    },
 
     {
         chapter: 1,
@@ -1666,7 +1666,7 @@ export default [
         strongs: "G3588",
         grammar: "T-GSM"
 
-    }
+    },
 
     {
         chapter: 1,
@@ -1676,7 +1676,7 @@ export default [
         english: "wild animals;",
         strongs: "G2342",
         grammar: "N-GNP" 
-    }
+    },
 
     {
         chapter: 1,
@@ -1686,7 +1686,7 @@ export default [
         english: "and",
         strongs: "G2532",
         grammar: "Conj"
-    }
+    },
 
     {
         chapter: 1,
@@ -1697,7 +1697,7 @@ export default [
         strongs: "G3588",
         grammar: "T-GSM"
 
-    }
+    },
 
     {
         chapter: 1,
@@ -1707,7 +1707,7 @@ export default [
         english: "angels",
         strongs: "G32",
         grammar: "N-NMP" 
-    }
+    },
 
     {
         chapter: 1,
@@ -1717,7 +1717,7 @@ export default [
         english: "were serving",
         strongs: "G1247",
         grammar: "V-IAI-3P"
-    }
+    },
 
     {
         chapter: 1,
@@ -1727,7 +1727,7 @@ export default [
         english: "him.",
         trongs: "G846",
         grammar: "P-DSM"  
-    }
+    },
 
     {
         chapter: 1,
@@ -1738,7 +1738,7 @@ export default [
         strongs: "G2532",
         grammar: "Conj"
 
-    }
+    },
 
     {
         chapter: 1,
@@ -1748,7 +1748,7 @@ export default [
         english: "after",
         strongs: "G3326",
         grammar: "Prep"  
-    }
+    },
 
 
     {
@@ -1759,7 +1759,7 @@ export default [
         english: "John",
         strongs: "G2491",
         grammar: "N-ASM" 
-    }
+    },
 
     {
         chapter: 1,
@@ -1769,7 +1769,7 @@ export default [
         english: "was taken into custody,",
         strongs: "G3860",
         grammar: "V-APN"
-    }
+    },
 
     {
         chapter: 1,
@@ -1779,7 +1779,7 @@ export default [
         english: "Jesus",
         strongs: "G2064",
         grammar: "V-2AAI-3S"
-    }
+    },
 
     {
         chapter: 1,
@@ -1789,7 +1789,7 @@ export default [
         english: "came",
         strongs: "G3004",
         grammar: "V-PAP-NSM"
-    }
+    },
 
     {
         chapter: 1,
@@ -1799,7 +1799,7 @@ export default [
         english: "into",
         strongs: "G1519",
         grammar: "Prep"
-    }
+    },
 
     {
         chapter: 1,
@@ -1809,7 +1809,7 @@ export default [
         english: "Galilee,",
         strongs: "G1056",
         grammar: "N-ASF"
-    }
+    },
 
     {
         chapter: 1,
@@ -1819,7 +1819,7 @@ export default [
         english: "preaching",
         strongs: "G2784",
         grammar: "V-PAP-NSM"
-    }
+    },
 
     {
         chapter: 1,
@@ -1830,7 +1830,7 @@ export default [
         strongs: "G3588",
         grammar: "T-GSM"
 
-    }
+    },
 
 
     {
@@ -1841,7 +1841,7 @@ export default [
         english: "Good News",
         strongs: "G2098",
         grammar: "T-ANS"  
-    }
+    },
 
     {
         chapter: 1,
@@ -1851,7 +1851,7 @@ export default [
         english: "of",
         strongs: "G2098",
         grammar: "N-ANS"
-    }
+    },
 
     {
         chapter: 1,
@@ -1861,7 +1861,7 @@ export default [
         english: "God’s",
         strongs: "G2316",
         grammar: "N-GMS"
-    }
+    },
 
     {
         chapter: 1,
@@ -1871,7 +1871,7 @@ export default [
         english: "Kingdom,",
         strongs: "G932",
         grammar: "N-GNS"
-    }
+    },
 
     {
         chapter: 1,
@@ -1881,7 +1881,7 @@ export default [
         english: "and",
         strongs: "G2532",
         grammar: "CONJ" 
-    }
+    },
 
     {
         chapter: 1,
@@ -1891,7 +1891,7 @@ export default [
         "english": "saying",
         "strongs": "G3004",
         "grammar": "V-PAP-NSM" 
-    }
+    },
 
     {
         chapter: 1,
@@ -1901,7 +1901,7 @@ export default [
         english: "the",
         strongs: "G3588",
         grammar: "T-GSM" 
-    }
+    },
 
     {
         chapter: 1,
@@ -1911,7 +1911,7 @@ export default [
         english: "time",
         strongs: "G2540",
         grammar: "N-NSM"  
-    }
+    },
 
     {
         chapter: 1,
@@ -1921,7 +1921,7 @@ export default [
         english: "is",
         strongs: "G2076",
         grammar: "V-PXI-3S" 
-    }
+    },
 
     {
         chapter: 1,
@@ -1931,7 +1931,7 @@ export default [
         english: " fulfilled",
         strongs: "G4137",
         grammar: "V-RPI-3S"
-    }
+    },
 
     {
         chapter: 1,
@@ -1941,7 +1941,7 @@ export default [
         english: "and",
         strongs: "G2532",
         grammar: "CONJ"
-    }
+    },
 
     {
         chapter: 1,
@@ -1951,7 +1951,7 @@ export default [
         english: "God",
         strongs: "G2316",
         grammar: "N-GSM" 
-    }
+    },
 
     {
         chapter: 1,
@@ -1961,7 +1961,7 @@ export default [
         english: "kingdom",
         strongs: "G932",
         grammar: "N-GSF"
-    }
+    },
 
     {
         chapter: 1,
@@ -1971,7 +1971,7 @@ export default [
         english: "is at hand",
         strongs: "G1448",
         grammar: "V-RAI-3S"
-    }
+    },
 
     {
         chapter: 1,
@@ -1981,7 +1981,7 @@ export default [
         english: "Repent",
         strongs: "G3340",
         grammar: "V-PAM-2P" 
-    }
+    },
 
     {
         chapter: 1,
@@ -1991,7 +1991,7 @@ export default [
         "english": "and",
         "strongs": "G2532",
         "grammar": "CONJ"  
-    }
+    },
 
     {
         chapter: 1,
@@ -2001,7 +2001,7 @@ export default [
         english: "believe",
         strongs: "G4100",
         grammar: "V-PAM-2P" 
-    }
+    },
 
     {
         chapter: 1,
@@ -2011,7 +2011,7 @@ export default [
         english: "in",
         strongs: "G1722",
         grammar: "PREP"  
-    }
+    },
 
     {
         chapter: 1,
@@ -2021,7 +2021,7 @@ export default [
         english: "the",
         strongs: "G3588",
         grammar: "T-GSM" 
-    }
+    },
 
     {
         chapter: 1,
@@ -2031,7 +2031,7 @@ export default [
         english: "Good News.",
         strongs: "G2098",
         grammar: "N-DSM"  
-    }
+    },
 
     {
         chapter: 1,
@@ -2042,7 +2042,7 @@ export default [
         strongs: "G3855",
         grammar: "V-PAP-NSM"
 
-    }
+    },
 
     {
         chapter: 1,
@@ -2052,7 +2052,7 @@ export default [
         english: "along",
         strongs: "G3844",
         grammar: "Prep"
-    }
+    },
 
     {
         chapter: 1,
@@ -2062,7 +2062,7 @@ export default [
         english: "by",
         strongs: "G3588",
         grammar: "T-ASF" 
-    }
+    },
 
     {
         chapter: 1,
@@ -2072,7 +2072,7 @@ export default [
         english: "the",
         strongs: "G3588",
         grammar: "T-GSM"   
-    }
+    },
 
     {
         chapter: 1,
@@ -2082,7 +2082,7 @@ export default [
         english: "sea",
         strongs: "G2281",
         grammar: "N-GSF"  
-    }
+    },
 
     {
         chapter: 1,
@@ -2092,7 +2092,7 @@ export default [
         english: "of",
         strongs: "G3588",
         grammar: "T-GSF"
-    }
+    },
 
 
     {
@@ -2103,7 +2103,7 @@ export default [
         english: "Galilee",
         strongs: "G1056",
         grammar: "N-GSF" 
-    }
+    },
 
     {
         chapter: 1,
@@ -2113,7 +2113,7 @@ export default [
         english: "he",
         strongs: "G846",
         grammar: "P-ASM"  
-    }
+    },
 
     {
         chapter: 1,
@@ -2123,7 +2123,7 @@ export default [
         english: "saw",
         strongs: "G1492",
         grammar: "V-AAI-3S"
-    }
+    },
 
     {
         chapter: 1,
@@ -2133,7 +2133,7 @@ export default [
         english: "Simon",
         strongs: "G4613",
         grammar: "N-ASM"  
-    }
+    },
 
     {
         chapter: 1,
@@ -2143,7 +2143,7 @@ export default [
         english: "and",
         strongs: "G2532",
         grammar: "CONJ"
-    }
+    },
 
     {
         chapter: 1,
@@ -2153,7 +2153,7 @@ export default [
         english: "Andrew",
         strongs: "G406",
         grammar: "N-ASM"  
-    }
+    },
 
     {
         chapter: 1,
@@ -2163,7 +2163,7 @@ export default [
         english: "the",
         strongs: "G3588",
         grammar: "T-GSM" 
-    }
+    },
 
     {
         chapter: 1,
@@ -2173,7 +2173,7 @@ export default [
         english: "brother",
         strongs: "G80",
         grammar: "N-ASM" 
-    }
+    },
 
     {
         chapter: 1,
@@ -2183,7 +2183,7 @@ export default [
         english: "of",
         strongs: "G3588",
         grammar: "T-GSF"
-    }
+    },
 
     {
         chapter: 1,
@@ -2193,7 +2193,7 @@ export default [
         english: "Simon",
         strongs: "G4613",
         grammar: "N-ASM"
-    }
+    },
 
     {
         chapter: 1,
@@ -2203,7 +2203,7 @@ export default [
         english: "casting",
         strongs: "G906",
         grammar: "V-PAP-ASM"
-    }
+    },
 
     {
         chapter: 1,
@@ -2213,7 +2213,7 @@ export default [
         english: "net",
         strongs: "G293",
         grammar: "N-ASN"
-    }
+    },
 
     {
         chapter: 1,
@@ -2223,7 +2223,7 @@ export default [
         english: "into",
         strongs: "G3588",
         grammar: "T-ASF"  
-    }
+    },
 
     {
         chapter: 1,
@@ -2233,7 +2233,7 @@ export default [
         english: "the",
         strongs: "G3588",
         grammar: "T-GSM"
-    }
+    },
 
     {
         chapter: 1,
@@ -2243,7 +2243,7 @@ export default [
         english: "the",
         strongs: "G3588",
         grammar: "T-GSM" 
-    }
+    },
 
     {
         chapter: 1,
@@ -2253,7 +2253,7 @@ export default [
         english: "sea",
         strongs: "G2281",
         grammar: "N-ASF" 
-    }
+    },
 
     {
         chapter: 1,
@@ -2263,7 +2263,7 @@ export default [
         english: "for they",
         strongs: "G3754",
         grammar: "Conj"
-    }
+    },
 
     {
         chapter: 1,
@@ -2273,7 +2273,7 @@ export default [
         english: "were",
         strongs: "G1510",
         grammar: "V-IAI-3P"  
-    }
+    },
 
     {
         chapter: 1,
@@ -2284,7 +2284,7 @@ export default [
         strongs: "G231",
         grammar: "N-NPM"
     
-    }
+    },
 
     {
         chapter: 1,
@@ -2294,7 +2294,7 @@ export default [
         english: "Jesus",
         strongs: "G2424",
         grammar: "N-NSM"
-    }
+    },
 
     {
         chapter: 1,
@@ -2304,7 +2304,7 @@ export default [
         english: "said",
         strongs: "G2036",
         grammar: "V-2AAI-3S"  
-    }
+    },
 
     {
         chapter: 1,
@@ -2314,7 +2314,7 @@ export default [
         english: "to them",
         strongs: "G846",
         grammar: "P-2D"
-    }
+    },
 
     {
         chapter: 1,
@@ -2324,7 +2324,7 @@ export default [
         english: "Come",
         strongs: "G1204",
         grammar: "V-PAM-2P"  
-    }
+    },
 
     {
         chapter: 1,
@@ -2334,7 +2334,7 @@ export default [
         english: "after",
         strongs: "G3694",
         grammar: "PREP"  
-    }
+    },
 
     {
         chapter: 1,
@@ -2344,7 +2344,7 @@ export default [
         english: "me,",
         strongs: "G3450",
         grammar: "P-1GS" 
-    }
+    },
 
     {
         chapter: 1,
@@ -2354,7 +2354,7 @@ export default [
         english: "and",
         strongs: "G2532",
         grammar: "CONJ" 
-    }
+    },
 
     {
         chapter: 1,
@@ -2364,7 +2364,7 @@ export default [
         english: "I will make",
         strongs: "G4160",
         grammar: "V-FAI-1S"
-    }
+    },
 
     {
         chapter: 1,
@@ -2374,7 +2374,7 @@ export default [
         english: "you",
         strongs: "G5209",
         grammar: "P-2AP"  
-    }
+    },
 
     {
         chapter: 1,
@@ -2384,7 +2384,7 @@ export default [
         english: "into",
         strongs: "G1096",
         grammar: "V-2AMM-2P"
-    }
+    },
 
     {
         chapter: 1,
@@ -2394,7 +2394,7 @@ export default [
         english: "fishers",
         strongs: "G231",
         grammar: "N-NPM"  
-    }
+    },
 
     {
         chapter: 1,
@@ -2404,7 +2404,7 @@ export default [
         english: "for men.",
         strongs: "G444",
         grammar: "N-GPM" 
-    }
+    },
 
     {
         chapter: 1,
@@ -2414,7 +2414,7 @@ export default [
         english: "Immediately",
         strongs: "G2112",
         grammar: "ADV"
-    }
+    },
 
     {
         chapter: 1,
@@ -2424,7 +2424,7 @@ export default [
         english: "they left",
         strongs: "G863",
         grammar: "V-2AAP-NPM"
-    }
+    },
 
     {
         chapter: 1,
@@ -2434,7 +2434,7 @@ export default [
         english: "their",
         strongs: "G3588",
         grammar: "T-APN" 
-    }
+    },
 
     {
         chapter: 1,
@@ -2444,7 +2444,7 @@ export default [
         english: "nets,",
         strongs: "G1350",
         grammar: "N-APN"  
-    }
+    },
 
     {
         chapter: 1,
@@ -2454,7 +2454,7 @@ export default [
         english: "and followed",
         strongs: "G190",
         grammar: "V-AAI-3P"  
-    }
+    },
 
     {
         chapter: 1,
@@ -2464,7 +2464,7 @@ export default [
         english: "him.",
         strongs: "G846",
         grammar: "PP-DSM"
-    }
+    },
 
     {
         chapter: 1,
@@ -2474,7 +2474,7 @@ export default [
         english: "Going on",
         strongs: "G2532",
         grammar: "CONJ"  
-    }
+    },
 
     {
         chapter: 1,
@@ -2484,7 +2484,7 @@ export default [
         english: "a little further",
         strongs: "G3855",
         grammar: "V-PAP-NSM"
-    }
+    },
 
     {
         chapter: 1,
@@ -2494,7 +2494,7 @@ export default [
         english: "from there,",
         strongs: "G1759",
         grammar: "ADV"  
-    }
+    },
 
     {
         chapter: 1,
@@ -2504,7 +2504,7 @@ export default [
         english: "he saw",
         strongs: "G1492",
         grammar: "V-2AAI-3S" 
-    }
+    },
 
     {
         chapter: 1,
@@ -2514,7 +2514,7 @@ export default [
         english: "James",
         strongs: "G2385",
         grammar: "N-ASM"
-    }
+    },
 
     {
         chapter: 1,
@@ -2524,7 +2524,7 @@ export default [
         english: "the son of",
         strongs: "G3588",
         grammar: "T-ASM" 
-    }
+    },
 
     {
         chapter: 1,
@@ -2534,7 +2534,7 @@ export default [
         english: "Zebedee,",
         strongs: "G2199",
         grammar: "N-GSM" 
-    }
+    },
 
     {
         chapter: 1,
@@ -2544,7 +2544,7 @@ export default [
         english: "and",
         strongs: "G2532",
         grammar: "CONJ"
-    }
+    },
 
     {
         chapter: 1,
@@ -2554,7 +2554,7 @@ export default [
         english: "John",
         strongs: "G2491",
         grammar: "N-ASM"
-    }
+    },
 
     {
         chapter: 1,
@@ -2564,7 +2564,7 @@ export default [
         english: "his brother,",
         strongs: "G3588",
         grammar: "T-ASM"  
-    }
+    },
 
     {
         chapter: 1,
@@ -2574,7 +2574,7 @@ export default [
         english: "who were also",
         strongs: "G3739",
         grammar: "R-NPM"
-    }
+    },
 
     {
         chapter: 1,
@@ -2584,7 +2584,7 @@ export default [
         english: "in the boat",
         strongs: "G1510",
         grammar: "V-IAI-3P"
-    }
+    },
 
     {
         chapter: 1,
@@ -2594,7 +2594,7 @@ export default [
         english: "mending",
         strongs: "G1722",
         grammar: "PREP"  
-    }
+    },
 
     {
         chapter: 1,
@@ -2604,7 +2604,7 @@ export default [
         english: "the nets.",
         strongs: "G3588",
         grammar: "T-DSM"
-    }
+    },
 
     {
         chapter: 1,
@@ -2614,7 +2614,7 @@ export default [
         english: "Immediately",
         strongs: "G2112",
         grammar: "ADV"
-    }
+    },
 
     {
         chapter: 1,
@@ -2624,7 +2624,7 @@ export default [
         english: "he called",
         strongs: "G2564",
         grammar: "V-AAI-3S"
-    }
+    },
 
     {
         chapter: 1,
@@ -2634,7 +2634,7 @@ export default [
         english: "them,",
         strongs: "G846",
         grammar: "PP-AMP" 
-    }
+    },
 
     {
         chapter: 1,
@@ -2644,7 +2644,7 @@ export default [
         english: "and",
         strongs: "G2532",
         grammar: "CONJ"
-    }
+    },
 
     {
         chapter: 1,
@@ -2664,7 +2664,7 @@ export default [
         english: "their father,",
         strongs: "G3588",
         grammar: "T-ASM" 
-    }
+    },
 
     {
         chapter: 1,
@@ -2674,7 +2674,7 @@ export default [
         english: "Zebedee,",
         strongs: "G2199",
         grammar: "N-ASM" 
-    }
+    },
 
     {
         chapter: 1,
@@ -2684,7 +2684,7 @@ export default [
         english: "in",
         strongs: "G1722",
         grammar: "PREP"
-    }
+    },
     
     {
         chapter: 1,
@@ -2694,7 +2694,7 @@ export default [
         english: "the boat",
         strongs: "G3588",
         grammar: "T-DSM"
-    }
+    },
 
     {
         chapter: 1,
@@ -2704,7 +2704,7 @@ export default [
         english: "with",
         strongs: "G3326",
         grammar: "PREP"  
-    }
+    },
 
     {
         chapter: 1,
@@ -2714,7 +2714,7 @@ export default [
         english: "the hired servants,",
         strongs: "G3588",
         grammar: "T-GPM" 
-    }
+    },
 
     {
         chapter: 1,
@@ -2724,7 +2724,7 @@ export default [
         english: "and",
         strongs: "G3411",
         grammar: "N-GPM"
-    }
+    },
 
     {
         chapter: 1,
@@ -2734,7 +2734,7 @@ export default [
         english: "went after",
         strongs: "G190",
         grammar: "V-AAI-3P"
-    }
+    },
 
     {
         chapter: 1,
@@ -2744,2632 +2744,2752 @@ export default [
         english: "him.",
         strongs: "G846",
         grammar: "PP-DSM"
-    }
+    },
 
     {
         chapter: 1,
         verse: 21,
         word:1,
-        "greek": "Καὶ",
-        "english": "They went",
-        "strongs": "G2532",
-        "grammar": "CONJ"
-    }
+        greek: "Καὶ",
+        english: "They went",
+        strongs: "G2532",
+        grammar: "CONJ"
+    },
 
     {
         chapter: 1,
         verse: 21,
-        word:1,
-        "greek": "ἔρχονται",
-        "english": "into",
-        "strongs": "G2064",
-        "grammar": "V-PNI-3P" 
-    }
+        word:2,
+        greek: "ἔρχονται",
+        english: "into",
+        strongs: "G2064",
+        grammar: "V-PNI-3P" 
+    },
 
     {
         chapter: 1,
         verse: 21,
-        word:1,
-        "greek": "εἰς",
-        "english": "Capernaum,",
-        "strongs": "G1519",
-        "grammar": "PREP" 
-    }
+        word:3,
+        greek: "εἰς",
+        english: "Capernaum,",
+        strongs: "G1519",
+        grammar: "PREP" 
+    },
 
     {
         chapter: 1,
         verse: 21,
-        word:1,
-        "greek": "καὶ",
-        "english": "and",
-        "strongs": "G2532",
-        "grammar": "CONJ"
-    }
+        word:4,
+        greek: "καὶ",
+        english: "and",
+        strongs: "G2532",
+        grammar: "CONJ"
+    },
 
     {
         chapter: 1,
         verse: 21,
-        word:1,
-        "greek": "εὐθὺς",
-        "english": "immediately",
-        "strongs": "G2112",
-        "grammar": "ADV"
-    }
+        word:5,
+        greek: "εὐθὺς",
+        english: "immediately",
+        strongs: "G2112",
+        grammar: "ADV"
+    },
 
     {
         chapter: 1,
         verse: 21,
-        word:1,
-        "greek": "τοῖς",
-        "english": "on",
-        "strongs": "G3588",
-        "grammar": "T-DPM"
-    }
+        word:6,
+        greek: "τοῖς",
+        english: "on",
+        strongs: "G3588",
+        grammar: "T-DPM"
+    },
 
     {
         chapter: 1,
         verse: 21,
-        word:1,
-        "greek": "σάββασιν",
-        "english": "the Sabbath",
-        "strongs": "G4521",
-        "grammar": "N-DPN"
-    }
+        word:7,
+        greek: "σάββασιν",
+        english: "the Sabbath",
+        strongs: "G4521",
+        grammar: "N-DPN"
+    },
 
     {
         chapter: 1,
         verse: 21,
-        word:1,
-        "greek": "εἰσελθὼν",
-        "english": "day",
-        "strongs": "G1525",
-        "grammar": "V-2AAP-NSM"
-    }
+        word:8,
+        greek: "εἰσελθὼν",
+        english: "day",
+        strongs: "G1525",
+        grammar: "V-2AAP-NSM"
+    },
 
     {
         chapter: 1,
         verse: 21,
-        word:1,
-        "greek": "εἰς",
-        "english": "he entered",
-        "strongs": "G1519",
-        "grammar": "PREP"
+        word:9,
+        greek: "εἰς",
+        english: "he entered",
+        strongs: "G1519",
+        grammar: "PREP"
     
-    }
+    },
 
     {
         chapter: 1,
         verse: 21,
-        word:1,
-        "greek": "τὴν",
-        "english": "into",
-        "strongs": "G3588",
-        "grammar": "T-ASF"  
-    }
+        word:10,
+        greek: "τὴν",
+        english: "into",
+        strongs: "G3588",
+        grammar: "T-ASF"  
+    },
 
     {
         chapter: 1,
         verse: 21,
-        word:1,
+        word:11,
         greek: "τοῦ",
         english: "the",
         strongs: "G3588",
         grammar: "T-GSM"   
-    }
+    },
 
     {
         chapter: 1,
         verse: 21,
-        word:1,
-        "greek": "συναγωγὴν",
-        "english": "synagogue",
-        "strongs": "G4864",
-        "grammar": "N-ASF" 
-    }
+        word:12,
+        greek: "συναγωγὴν",
+        english: "synagogue",
+        strongs: "G4864",
+        grammar: "N-ASF" 
+    },
 
     {
         chapter: 1,
         verse: 21,
-        word:1,
-        "greek": "ἐδίδασκεν.",
-        "english": "and",
-        "strongs": "G1321",
-        "grammar": "V-IAI-3S" 
-    }
+        word:13,
+        greek: "ἐδίδασκεν.",
+        english: "and",
+        strongs: "G1321",
+        grammar: "V-IAI-3S" 
+    },
 
     {
         chapter: 1,
         verse: 21,
-        word:1,
-        "greek": "ἐδίδασκεν.",
-        "english": "taught.",
-        "strongs": "G1321",
-        "grammar": "V-IAI-3S"
-    }
+        word:14,
+        greek: "ἐδίδασκεν.",
+        english: "taught.",
+        strongs: "G1321",
+        grammar: "V-IAI-3S"
+    },
 
     {
         chapter: 1,
         verse: 22,
         word:1, 
-        "greek": "αὐτοὶ",
-        "english": "they",
-        "strongs": "G846",
-        "grammar": "P-NPM"
-    }
+        greek: "αὐτοὶ",
+        english: "they",
+        strongs: "G846",
+        grammar: "P-NPM"
+    },
 
     {
         chapter: 1,
         verse: 22,
-        word:1,
-        "greek": "ἐθαύμαζον",
-        "english": "were astonished",
-        "strongs": "G2296",
-        "grammar": "V-IPI-3P" 
-    }
+        word:2,
+        greek: "ἐθαύμαζον",
+        english: "were astonished",
+        strongs: "G2296",
+        grammar: "V-IPI-3P" 
+    },
 
     {
         chapter: 1,
         verse: 22,
-        word:1,
-        "greek": "ἐπὶ",
-        "english": "at",
-        "strongs": "G1909",
-        "grammar": "Prep"
-    }
+        word:3,
+        greek: "ἐπὶ",
+        english: "at",
+        strongs: "G1909",
+        grammar: "Prep"
+    },
 
     {
         chapter: 1,
         verse: 22,
-        word:1,
-        "greek": "αὐτοῦ",
-        "english": "his",
-        "strongs": "G846",
-        "grammar": "P-GSM"
-    }
+        word:4,
+        greek: "αὐτοῦ",
+        english: "his",
+        strongs: "G846",
+        grammar: "P-GSM"
+    },
 
     {
         chapter: 1,
         verse: 22,
-        word:1,
-        "greek": "διδάσκοντος",
-        "english": "teaching",
-        "strongs": "G1321",
-        "grammar": "V-PAP-GSM"
-    }
+        word:5,
+        greek: "διδάσκοντος",
+        english: "teaching",
+        strongs: "G1321",
+        grammar: "V-PAP-GSM"
+    },
 
     {
         chapter: 1,
         verse: 22,
-        word:1,
-        "greek": "γὰρ",
-        "english": "for",
-        "strongs": "G1063",
-        "grammar": "CONJ"
-    }
+        word:6,
+        greek: "γὰρ",
+        english: "for",
+        strongs: "G1063",
+        grammar: "CONJ"
+    },
 
     {
         chapter: 1,
         verse: 22,
-        word:1,
-        "greek": "αὐτῷ",
-        "english": "he",
-        "strongs": "G846",
-        "grammar": "PPro-DM3S"
-    }
+        word:7,
+        greek: "αὐτῷ",
+        english: "he",
+        strongs: "G846",
+        grammar: "PPro-DM3S"
+    },
 
     {
         chapter: 1,
         verse: 22,
-        word:1,
-        "greek": "ἐδίδασκεν.",
-        "english": "taught.",
-        "strongs": "G1321",
-        "grammar": "V-IAI-3S" 
-    }
+        word:8,
+        greek: "ἐδίδασκεν.",
+        english: "taught.",
+        strongs: "G1321",
+        grammar: "V-IAI-3S" 
+    },
 
     {
         chapter: 1,
         verse: 22,
-        word:1,
-        "greek": "αὐτοὺς",
-        "english": "them",
-        "strongs": "G846",
-        "grammar": "P-APM"
-    }
+        word:9,
+        greek: "αὐτοὺς",
+        english: "them",
+        strongs: "G846",
+        grammar: "P-APM"
+    },
 
     {
         chapter: 1,
         verse: 22,
-        word:1,
-        "greek": "ὡς",
-        "english": "as",
-        "strongs": "G5613",
-        "grammar": "ADV"
-    }
+        word:10,
+        greek: "ὡς",
+        english: "as",
+        strongs: "G5613",
+        grammar: "ADV"
+    },
 
     {
         chapter: 1,
         verse: 22,
-        word:1,
-        "greek": "ἔχοντος",
-        "english": "having",
-        "strongs": "G2192",
-        "grammar": "V-PAP-GSM"
-    }
+        word:11,
+        greek: "ἔχοντος",
+        english: "having",
+        strongs: "G2192",
+        grammar: "V-PAP-GSM"
+    },
     
     {
         chapter: 1,
         verse: 22,
-        word:1,
-        "greek": "ἐξουσίαν",
-        "english": "authority",
-        "strongs": "G1849",
-        "grammar": "N-ASF"
-    }
+        word:12,
+        greek: "ἐξουσίαν",
+        english: "authority",
+        strongs: "G1849",
+        grammar: "N-ASF"
+    },
 
     {
         chapter: 1,
         verse: 22,
-        word:1,
-        "greek": "καὶ",
-        "english": "and",
-        "strongs": "G2532",
-        "grammar": "CONJ"
-    }
+        word:13,
+        greek: "καὶ",
+        english: "and",
+        strongs: "G2532",
+        grammar: "CONJ"
+    },
 
     {
         chapter: 1,
         verse: 22,
-        word:1,
-        "greek": "οὐχ",
-        "english": "not",
-        "strongs": "G3756",
-        "grammar": "PRT-N"
-    }
+        word:14,
+        greek: "οὐχ",
+        english: "not",
+        strongs: "G3756",
+        grammar: "PRT-N"
+    },
 
     {
         chapter: 1,
         verse: 22,
-        word:1,
-        "greek": "ὡς",
-        "english": "as",
-        "strongs": "G5613",
-        "grammar": "ADV" 
-    }
+        word:15,
+        greek: "ὡς",
+        english: "as",
+        strongs: "G5613",
+        grammar: "ADV" 
+    },
 
     {
         chapter: 1,
         verse: 22,
-        word:1,
-        "greek": "οἱ",
-        "english": "the",
-        "strongs": "G3588",
-        "grammar": "T-NPM"  
-    }
+        word:16,
+        greek: "οἱ",
+        english: "the",
+        strongs: "G3588",
+        grammar: "T-NPM"  
+    },
 
     {
         chapter: 1,
         verse: 22,
-        word:1,
-        "greek": "γραμματεῖς.",
-        "english": "scribes.",
-        "strongs": "G1122",
-        "grammar": "N-NPM" 
-    }
+        word:17,
+        greek: "γραμματεῖς.",
+        english: "scribes.",
+        strongs: "G1122",
+        grammar: "N-NPM" 
+    },
 
     {
         chapter: 1,
         verse: 23,
         word:1,
-        "greek": "Καὶ",
-        "english": "Immediately",
-        "strongs": "G2112",
-        "grammar": "ADV"
-    }
+        greek: "Καὶ",
+        english: "Immediately",
+        strongs: "G2112",
+        grammar: "ADV"
+    },
 
     {
         chapter: 1,
         verse: 23,
-        word:1,
+        word:2,
         greek: "ἦν",
-        "english": "there was",
-        "strongs": "G2258",
-        "grammar": "V-IIA-3S" 
-    }
+        english: "there was",
+        strongs: "G2258",
+        grammar: "V-IIA-3S" 
+    },
 
     {
         chapter: 1,
         verse: 23,
-        word:1,
-        "greek": "ἐν",
-        "english": "in",
-        "strongs": "G1722",
-        "grammar": "PREP"
-    }
+        word:3,
+        greek: "ἐν",
+        english: "in",
+        strongs: "G1722",
+        grammar: "PREP"
+    },
 
     {
         chapter: 1,
         verse: 23,
-        word:1,
-        "english": "their",
-        "strongs": "G3588",
-        "grammar": "T-DSF"
-    }
+        word:4,
+        english: "their",
+        strongs: "G3588",
+        grammar: "T-DSF"
+    },
 
     {
         chapter: 1,
         verse: 23,
-        word:1,
-        "greek": "συναγωγῇ",
-        "english": "synagogue",
-        "strongs": "G4864",
-        "grammar": "N-DSF" 
-    }
+        word:5,
+        greek: "συναγωγῇ",
+        english: "synagogue",
+        strongs: "G4864",
+        grammar: "N-DSF" 
+    },
 
     {
         chapter: 1,
         verse: 23,
-        word:1, 
-        "greek": "ἀνθρωπος",
-        "english": "man",
-        "strongs": "G444",
-        "grammar": "N-NSM"
-    }
+        word:6, 
+        greek: "ἀνθρωπος",
+        english: "man",
+        strongs: "G444",
+        grammar: "N-NSM"
+    },
 
     {
         chapter: 1,
         verse: 23,
-        word:1, 
-        "greek": "ἐν",
-        "english": "with",
-        "strongs": "G1722",
-        "grammar": "PREP" 
-    }
+        word:7, 
+        greek: "ἐν",
+        english: "with",
+        strongs: "G1722",
+        grammar: "PREP" 
+    },
 
     {
         chapter: 1,
         verse: 23,
-        word:1,
-        "greek": "πνεύματι",
-        "english": "an unclean spirit",
-        "strongs": "G4151",
-        "grammar": "N-DSN" 
-    }
+        word:8,
+        greek: "πνεύματι",
+        english: "an unclean spirit",
+        strongs: "G4151",
+        grammar: "N-DSN" 
+    },
 
     {
         chapter: 1,
         verse: 23,
-        word:1,
-        "greek": "καὶ",
-        "english": "and",
-        "strongs": "G2532",
-        "grammar": "CONJ"  
-    }
+        word:9,
+        greek: "καὶ",
+        english: "and",
+        strongs: "G2532",
+        grammar: "CONJ"  
+    },
 
     {
         chapter: 1,
         verse: 23,
-        word:1,
-        "greek": "ἀνεκραύγασεν",
-        "english": "he cried out",
-        "strongs": "G349",
-        "grammar": "V-AAI-3S" 
-    }
+        word:10,
+        greek: "ἀνεκραύγασεν",
+        english: "he cried out",
+        strongs: "G349",
+        grammar: "V-AAI-3S" 
+    },
 
     {
         chapter: 1,
         verse: 24,
         word:1,
-        "greek": "λέγων",
-        "english": "saying",
-        "strongs": "G3004",
-        "grammar": "V-PAP-NSM"
+        greek: "λέγων",
+        english: "saying",
+        strongs: "G3004",
+        grammar: "V-PAP-NSM"
     },
+
+
     {
         chapter: 1,
         verse: 24,
-        word:1,
-        "greek": "Εἰ",
-        "english": "Ha!",
-        "strongs": "G1487",
-        "grammar": "COND"
+        word:2,
+        greek: "Εἰ",
+        english: "Ha!",
+        strongs: "G1487",
+        grammar: "COND"
     },
+
+
     {
         chapter: 1,
         verse: 24,
-        word:1,
-        "greek": "τί",
-        "english": "What",
-        "strongs": "G5101",
-        "grammar": "I-NSN"
+        word:3,
+        greek: "τί",
+        english: "What",
+        strongs: "G5101",
+        grammar: "I-NSN"
     },
+
+
     {
         chapter: 1,
         verse: 24,
-        word:1,
-        "greek": "ἡμῖν",
-        "english": "do we",
-        "strongs": "G2254",
-        "grammar": "P-1NP"
+        word:4,
+        greek: "ἡμῖν",
+        english: "do we",
+        strongs: "G2254",
+        grammar: "P-1NP"
     },
+
+
     {
         chapter: 1,
         verse: 24,
-        word:1,
-        "greek": "καὶ",
-        "english": "have to",
-        "strongs": "G2532",
-        "grammar": "CONJ"
+        word:5,
+        greek: "καὶ",
+        english: "have to",
+        strongs: "G2532",
+        grammar: "CONJ"
     },
+
+
     {
         chapter: 1,
         verse: 24,
-        word:1,
-        "greek": "σοί",
-        "english": "do with you",
-        "strongs": "G4671",
-        "grammar": "P-2DS"
+        word:6,
+        greek: "σοί",
+        english: "do with you",
+        strongs: "G4671",
+        grammar: "P-2DS"
     },
+
+
     {
         chapter: 1,
         verse: 24,
-        word:1,
-        "greek": "Ἰησοῦ",
-        "english": "Jesus",
-        "strongs": "G2424",
-        "grammar": "N-VSM"
+        word:7,
+        greek: "Ἰησοῦ",
+        english: "Jesus",
+        strongs: "G2424",
+        grammar: "N-VSM"
     },
+
+
     {
         chapter: 1,
         verse: 24,
-        word:1,
-        "greek": "Ναζαρηνέ",
-        "english": "Nazarene",
-        "strongs": "G3480",
-        "grammar": "N-VSM"
+        word:8,
+        greek: "Ναζαρηνέ",
+        english: "Nazarene",
+        strongs: "G3480",
+        grammar: "N-VSM"
     },
+
     {
         chapter: 1,
         verse: 24,
-        word:1,
-        "greek": "ἦλθες",
-        "english": "Have you come",
-        "strongs": "G2064",
-        "grammar": "V-2AAI-2S"
+        word:9,
+        greek: "ἦλθες",
+        english: "Have you come",
+        strongs: "G2064",
+        grammar: "V-2AAI-2S"
     },
+
     {
         chapter: 1,
         verse: 24,
-        word:1,
-        "greek": "ἀπολέσαι",
-        "english": "to destroy",
-        "strongs": "G622",
-        "grammar": "V-AAN"
+        word:10,
+        greek: "ἀπολέσαι",
+        english: "to destroy",
+        strongs: "G622",
+        grammar: "V-AAN"
     },
+
+
     {
         chapter: 1,
         verse: 24,
-        word:1,
-        "greek": "ἡμᾶς;",
-        "english": "us?",
-        "strongs": "G2248",
-        "grammar": "P-1AP"
+        word:11,
+        greek: "ἡμᾶς;",
+        english: "us?",
+        strongs: "G2248",
+        grammar: "P-1AP"
     },
+
+
     {
         chapter: 1,
         verse: 24,
-        word:1,
-        "greek": "οἶδά",
-        "english": "I know",
-        "strongs": "G1492",
-        "grammar": "V-RAI-1S"
+        word:12,
+        greek: "οἶδά",
+        english: "I know",
+        strongs: "G1492",
+        grammar: "V-RAI-1S"
     },
+
     {
         chapter: 1,
         verse: 24,
-        word:1,
-        "greek": "σε",
-        "english": "who you are",
-        "strongs": "G4571",
-        "grammar": "P-2AS"
+        word:13,
+        greek: "σε",
+        english: "who you are",
+        strongs: "G4571",
+        grammar: "P-2AS"
     },
+
+
     {
         chapter: 1,
         verse: 24,
-        word:1,
-        "greek": "τίς",
-        "english": "the Holy One",
-        "strongs": "G5101",
-        "grammar": "I-NSM"
+        word:14,
+        greek: "τίς",
+        english: "the Holy One",
+        strongs: "G5101",
+        grammar: "I-NSM"
     },
+
+
     {
         chapter: 1,
         verse: 24,
-        word:1,
-        "greek": "εἶ",
-        "english": "of God!",
-        "strongs": "G1488",
-        "grammar": "V-PXI-2S"
-    }
+        word:15,
+        greek: "εἶ",
+        english: "of God!",
+        strongs: "G1488",
+        grammar: "V-PXI-2S"
+    },
     
     {
         chapter: 1,
         verse: 25,
         word:1,
-        "greek": "Ἰησοῦς",
-        "english": "Jesus",
-        "strongs": "G2424",
-        "grammar": "N-NSM" 
-    }
+        greek: "Ἰησοῦς",
+        english: "Jesus",
+        strongs: "G2424",
+        grammar: "N-NSM" 
+    },
 
 
     {
         chapter: 1,
         verse: 25,
-        word:1,
-        "greek": "ἐπετίμησεν",
-        "english": "rebuked",
-        "strongs": "G2008",
-        "grammar": "V-AAI-3S"
+        word:2,
+        greek: "ἐπετίμησεν",
+        english: "rebuked",
+        strongs: "G2008",
+        grammar: "V-AAI-3S"
     },
+
+
     {
         chapter: 1,
         verse: 25,
-        word:1,
-        "greek": "αὐτῷ",
-        "english": "him,",
-        "strongs": "G846",
-        "grammar": "P-DSM"
+        word:3,
+        greek: "αὐτῷ",
+        english: "him,",
+        strongs: "G846",
+        grammar: "P-DSM"
     },
+
+
     {
         chapter: 1,
         verse: 25,
-        word:1,
-        "greek": "καὶ",
-        "english": "saying,",
-        "strongs": "G2532",
-        "grammar": "CONJ"
+        word:4,
+        greek: "καὶ",
+        english: "saying,",
+        strongs: "G2532",
+        grammar: "CONJ"
     },
+
+
     {
         chapter: 1,
         verse: 25,
-        word:1,
-        "greek": "λέγει",
-        "english": "Be quiet,",
-        "strongs": "G3004",
-        "grammar": "V-PAI-2S"
+        word:5,
+        greek: "λέγει",
+        english: "Be quiet,",
+        strongs: "G3004",
+        grammar: "V-PAI-2S"
     },
+
+
     {
         chapter: 1,
         verse: 25,
-        word:1,
-        "greek": "Εἰσέλθετε",
-        "english": "and come out",
-        "strongs": "G1831",
-        "grammar": "V-PAM-2P"
+        word:6,
+        greek: "Εἰσέλθετε",
+        english: "and come out",
+        strongs: "G1831",
+        grammar: "V-PAM-2P"
     },
+
     {
         chapter: 1,
         verse: 25,
-        word:1,
-        "greek": "ἐξ",
-        "english": "of him!",
-        "strongs": "G1537",
-        "grammar": "PREP"
-    }
+        word:7,
+        greek: "ἐξ",
+        english: "of him!",
+        strongs: "G1537",
+        grammar: "PREP"
+    },
 
     {
         chapter: 1,
         verse: 26,
         word:1, 
-        "greek": "οἱ",
-        "english": "the",
-        "strongs": "G3588",
-        "grammar": "T-NPM"
-    }
+        greek: "οἱ",
+        english: "the",
+        strongs: "G3588",
+        grammar: "T-NPM"
+    },
 
     {
         chapter: 1,
         verse: 26,
-        word:1,
-        "greek": "ἀκαθάρτῳ",
-        "english": "unclean",
-        "strongs": "G169",
-        "grammar": "A-DSM"   
-    }
+        word:2,
+        greek: "ἀκαθάρτῳ",
+        english: "unclean",
+        strongs: "G169",
+        grammar: "A-DSM"   
+    },
 
     {
         chapter: 1,
         verse: 26,
-        word:1,
-        "greek": "πνεῦμα",
-        "english": "spirit",
-        "strongs": "G4151",
-        "grammar": "N-NSN"  
-    }
+        word:3,
+        greek: "πνεῦμα",
+        english: "spirit",
+        strongs: "G4151",
+        grammar: "N-NSN"  
+    },
 
     {
         chapter: 1,
         verse: 26,
-        word:1,
-        "greek": "σπαράσσον",
-        "english": "convulsing",
-        "strongs": "G4682",
-        "grammar": "V-PAP-NSN" 
-    }
+        word:4,
+        greek: "σπαράσσον",
+        english: "convulsing",
+        strongs: "G4682",
+        grammar: "V-PAP-NSN" 
+    },
 
     {
         chapter: 1,
         verse: 26,
-        word:1,
-        "greek": "αὐτόν",
-        "english": "him",
-        "strongs": "G846",
-        "grammar": "P-ASM" 
-    }
+        word:5,
+        greek: "αὐτόν",
+        english: "him",
+        strongs: "G846",
+        grammar: "P-ASM" 
+    },
 
     {
         chapter: 1,
         verse: 26,
-        word:1,
-        "greek": "καὶ",
-        "english": "and",
-        "strongs": "G2532",
-        "grammar": "CONJ"
+        word:6,
+        greek: "καὶ",
+        english: "and",
+        strongs: "G2532",
+        grammar: "CONJ"
 
-    }
+    },
 
     {
         chapter: 1,
         verse: 26,
-        word:1,
-        "greek": "κράζον",
-        "english": "crying",
-        "strongs": "G2896",
-        "grammar": "V-PAP-NSM"
-    }
+        word:7,
+        greek: "κράζον",
+        english: "crying",
+        strongs: "G2896",
+        grammar: "V-PAP-NSM"
+    },
         
     {
         chapter: 1,
         verse: 26,
-        word:1,
-        "greek": "φωνῇ",
-        "english": "with a loud voice",
-        "strongs": "G5456",
-        "grammar": "N-DSF"
-    }
+        word:8,
+        greek: "φωνῇ",
+        english: "with a loud voice",
+        strongs: "G5456",
+        grammar: "N-DSF"
+    },
 
     {
         chapter: 1,
         verse: 26,
-        word:1,
-        "greek": "ἐξῆλθεν",
-        "english": "came out",
-        "strongs": "G1831",
-        "grammar": "V-2AAI-3S" 
-    }
+        word:9,
+        greek: "ἐξῆλθεν",
+        english: "came out",
+        strongs: "G1831",
+        grammar: "V-2AAI-3S" 
+    },
 
 
     {
         chapter: 1,
         verse: 26,
-        word:1,
-        "greek": "ἐκ",
-        "english": "of",
-        "strongs": "G1537",
-        "grammar": "Prep"
-    }
+        word:10,
+        greek: "ἐκ",
+        english: "of",
+        strongs: "G1537",
+        grammar: "Prep"
+    },
 
     {
         chapter: 1,
         verse: 26,
-        word:1,
-        "greek": "αὐτοῦ",
-        "english": "him",
-        "strongs": "G846",
-        "grammar": "P-GSM" 
-    }
+        word:11,
+        greek: "αὐτοῦ",
+        english: "him",
+        strongs: "G846",
+        grammar: "P-GSM" 
+    },
 
     {
         chapter: 1,
         verse: 27,
         word:1,
-        "greek": "Καὶ",
-        "english": "They",
-        "strongs": "G2532",
-        "grammar": "CONJ"
-    }
+        greek: "Καὶ",
+        english: "They",
+        strongs: "G2532",
+        grammar: "CONJ"
+    },
         
     {
         chapter: 1,
         verse: 27,
-        word:1,
-        "greek": "ἐξίσταντο",
-        "english": "amazed",
-        "strongs": "G1839",
-        "grammar": "V-IPI-3P"
-    }
+        word:2,
+        greek: "ἐξίσταντο",
+        english: "amazed",
+        strongs: "G1839",
+        grammar: "V-IPI-3P"
+    },
         
     {
         chapter: 1,
         verse: 27,
-        word:1,
-        "greek": "ὥστε",
-        "english": "so that",
-        "strongs": "G5620",
-        "grammar": "CONJ"  
-    }
-
-    {
-        chapter: 1,
-        verse: 27,
-        word:1,
-        "greek": "Καὶ",
-        "english": "They",
-        "strongs": "G2532",
-        "grammar": "CONJ"
-    }
-
-    {
-        chapter: 1,
-        verse: 27,
-        word:1,
-        "greek": "συζητοῦντες",
-        "english": "questioned",
-        "strongs": "G4802",
-        "grammar": "V-PAP-NPM"
-    }
-
-    {
-        chapter: 1,
-        verse: 27,
-        word:1,
-        "greek": "πρὸς",
-        "english": "among",
-        "strongs": "G4314",
-        "grammar": "PREP" 
-    }
-
-    {
-        chapter: 1,
-        verse: 27,
-        word:1,
-        "greek": "ἑαυτούς",
-        "english": "themselves",
-        "strongs": "G1438",
-        "grammar": "REFL-3APN" 
-    }
-
-    {
-        chapter: 1,
-        verse: 27,
-        word:1,
-        "greek": "λέγοντες",
-        "english": "saying",
-        "strongs": "G3004",
-        "grammar": "V-PAP-NPM"
-    }
-
-    {
-        chapter: 1,
-        verse: 27,
-        word:1,
-        "greek": "Τίς",
-        "english": "What",
-        "strongs": "G5101",
-        "grammar": "I-NSF" 
-    }
-
-    {
-        chapter: 1,
-        verse: 27,
-        word:1,
-        "greek": "ἐστιν",
-        "english": "is",
-        "strongs": "G2076",
-        "grammar": "V-PXI-3S"
-    }
-
-    {
-        chapter: 1,
-        verse: 27,
-        word:1,
-        "greek": "τοῦτο;",
-        "english": "this?",
-        "strongs": "G3778",
-        "grammar": "D-NSN"
-    }
-
-    {
-        chapter: 1,
-        verse: 27,
-        word:1,
-        "greek": "καινή;",
-        "english": "new",
-        "strongs": "G2537",
-        "grammar": "A-NSF" 
-    }
-
-    {
-        chapter: 1,
-        verse: 27,
-        word:1,
-        "greek": "διδαχή",
-        "english": "teaching",
-        "strongs": "G1322",
-        "grammar": "N-NSF" 
-    }
-
-    {
-        chapter: 1,
-        verse: 27,
-        word:1,
-        "greek": "ὅτι",
-        "english": "For",
-        "strongs": "G3754",
-        "grammar": "CONJ"
+        word:3,
+        greek: "ὥστε",
+        english: "so that",
+        strongs: "G5620",
+        grammar: "CONJ"  
     },
-    {
-        chapter: 1,
-        verse: 27,
-        word:1,
-        "greek": "ἐν",
-        "english": "with",
-        "strongs": "G1722",
-        "grammar": "PREP"
-    },
-    {
-        chapter: 1,
-        verse: 27,
-        word:1,
-        "greek": "ἐξουσίᾳ",
-        "english": "authority",
-        "strongs": "G1849",
-        "grammar": "N-DSF"
 
-    }
+    {
+        chapter: 1,
+        verse: 27,
+        word:4,
+        greek: "Καὶ",
+        english: "They",
+        strongs: "G2532",
+        grammar: "CONJ"
+    },
+
+    {
+        chapter: 1,
+        verse: 27,
+        word:5,
+        greek: "συζητοῦντες",
+        english: "questioned",
+        strongs: "G4802",
+        grammar: "V-PAP-NPM"
+    },
+
+    {
+        chapter: 1,
+        verse: 27,
+        word:6,
+        greek: "πρὸς",
+        english: "among",
+        strongs: "G4314",
+        grammar: "PREP" 
+    },
+
+    {
+        chapter: 1,
+        verse: 27,
+        word:7,
+        greek: "ἑαυτούς",
+        english: "themselves",
+        strongs: "G1438",
+        grammar: "REFL-3APN" 
+    },
+
+    {
+        chapter: 1,
+        verse: 27,
+        word:8,
+        greek: "λέγοντες",
+        english: "saying",
+        strongs: "G3004",
+        grammar: "V-PAP-NPM"
+    },
+
+    {
+        chapter: 1,
+        verse: 27,
+        word:9,
+        greek: "Τίς",
+        english: "What",
+        strongs: "G5101",
+        grammar: "I-NSF" 
+    },
+
+    {
+        chapter: 1,
+        verse: 27,
+        word:10,
+        greek: "ἐστιν",
+        english: "is",
+        strongs: "G2076",
+        grammar: "V-PXI-3S"
+    },
+
+    {
+        chapter: 1,
+        verse: 27,
+        word:11,
+        greek: "τοῦτο;",
+        english: "this?",
+        strongs: "G3778",
+        grammar: "D-NSN"
+    },
+
+    {
+        chapter: 1,
+        verse: 27,
+        word:12,
+        greek: "καινή;",
+        english: "new",
+        strongs: "G2537",
+        grammar: "A-NSF" 
+    },
+
+    {
+        chapter: 1,
+        verse: 27,
+        word:13,
+        greek: "διδαχή",
+        english: "teaching",
+        strongs: "G1322",
+        grammar: "N-NSF" 
+    },
+
+    {
+        chapter: 1,
+        verse: 27,
+        word:14,
+        greek: "ὅτι",
+        english: "For",
+        strongs: "G3754",
+        grammar: "CONJ"
+    },
+
+
+    {
+        chapter: 1,
+        verse: 27,
+        word:15,
+        greek: "ἐν",
+        english: "with",
+        strongs: "G1722",
+        grammar: "PREP"
+    },
+
+    {
+        chapter: 1,
+        verse: 27,
+        word:16,
+        greek: "ἐξουσίᾳ",
+        english: "authority",
+        strongs: "G1849",
+        grammar: "N-DSF"
+
+    },
     
     {
         chapter: 1,
         verse: 27,
-        word:1,
-        "greek": "αὐτῷ",
-        "english": "him",
-        "strongs": "G846",
-        "grammar": "PP-DSM" 
-    }
+        word:17,
+        greek: "αὐτῷ",
+        english: "him",
+        strongs: "G846",
+        grammar: "PP-DSM" 
+    },
 
     {
         chapter: 1,
         verse: 27,
-        word:1,
-        "greek": "ἐπιτάσσει",
-        "english": "commands",
-        "strongs": "G2004",
-        "grammar": "V-PAI-3S" 
-    }
+        word:18,
+        greek: "ἐπιτάσσει",
+        english: "commands",
+        strongs: "G2004",
+        grammar: "V-PAI-3S" 
+    },
 
     {
         chapter: 1,
         verse: 27,
-        word:1,
-        "greek": "καὶ",
-        "english": "even",
-        "strongs": "G2532",
-        "grammar": "CONJ"
-    }
+        word:19,
+        greek: "καὶ",
+        english: "even",
+        strongs: "G2532",
+        grammar: "CONJ"
+    },
 
     {
         chapter: 1,
         verse: 27,
-        word:1,
-        "greek": "τοῖς",
-        "english": "the",
-        "strongs": "G3588",
-        "grammar": "T-DPM"
-    }
+        word:20,
+        greek: "τοῖς",
+        english: "the",
+        strongs: "G3588",
+        grammar: "T-DPM"
+    },
 
     {
         chapter: 1,
         verse: 27,
-        word:1,
-        "greek": "ἀκαθάρτοις",
-        "english": "unclean",
-        "strongs": "G169",
-        "grammar": "A-DPN" 
-    }
+        word:21,
+        greek: "ἀκαθάρτοις",
+        english: "unclean",
+        strongs: "G169",
+        grammar: "A-DPN" 
+    },
 
     {
         chapter: 1,
         verse: 27,
-        word:1,
-        "greek": "πνεύμασιν",
-        "english": "spirits",
-        "strongs": "G4151",
-        "grammar": "N-DPN"
-    }
+        word:22,
+        greek: "πνεύμασιν",
+        english: "spirits",
+        strongs: "G4151",
+        grammar: "N-DPN"
+    },
 
     {
         chapter: 1,
         verse: 27,
-        word:1,
-        "greek": "καὶ",
-        "english": "and",
-        "strongs": "G2532",
-        "grammar": "CONJ"  
-    }
+        word:23,
+        greek: "καὶ",
+        english: "and",
+        strongs: "G2532",
+        grammar: "CONJ"  
+    },
 
     {
         chapter: 1,
         verse: 27,
-        word:1,
-        "greek": "τοῖς",
-        "english": "they",
-        "strongs": "G3588",
-        "grammar": "T-DPM"  
-    }
+        word:24,
+        greek: "τοῖς",
+        english: "th    ey",
+        strongs: "G3588",
+        grammar: "T-DPM"  
+    },
 
     {
         chapter: 1,
         verse: 27,
-        word:1,
-        "greek": "ὑπακούουσιν",
-        "english": "obey",
-        "strongs": "G5219",
-        "grammar": "V-PAI-3P"
-    }
+        word:25,
+        greek: "ὑπακούουσιν",
+        english: "obey",
+        strongs: "G5219",
+        grammar: "V-PAI-3P"
+    },
 
     {
         chapter: 1,
         verse: 27,
-        word:1,
-        "greek": "αὐτῷ.",
-        "english": "him!",
-        "strongs": "G846",
-        "grammar": "PP-DSM
-    }
+        word:26,
+        greek: "αὐτῷ.",
+        english: "him!",
+        strongs: "G846",
+        grammar: "PP-DSM"
+    },
 
 
     {
         chapter: 1,
         verse: 28,
         word:1,
-        "greek": "τοῖς",
-        "english": "the",
-        "strongs": "G3588",
-        "grammar": "T-DPM"
-    }
+        greek: "τοῖς",
+        english: "the",
+        strongs: "G3588",
+        grammar: "T-DPM"
+    },
 
     {
         chapter: 1,
         verse: 28,
+        word:2,
+        greek: "φήμη",
+        english: "report",
+        strongs: "G5345",
+        grammar: "N-NSF" 
+    },
+
+    {
+        chapter: 1,
+        verse: 28,
+        word:3,
+        greek: "τῆς",
+        english: "of",
+        strongs: "G3588",
+        grammar: "T-GSF"
+    },
+
+    {
+        chapter: 1,
+        verse: 28,
+        word:4,
+        greek: "αὐτοῦ",
+        english: "him",
+        strongs: "G846",
+        grammar: "P-GSM"
+    },
+
+    {
+        chapter: 1,
+        verse: 28,
+        word:5, 
+        greek: "ἐξῆλθεν",
+        english: "went out",
+        strongs: "G1831",
+        grammar: "V-2AAI-3S"
+    },
+
+    {
+        chapter: 1,
+        verse: 28,
+        word:6,
+        greek: "εὐθὺς",
+        english: "immediately",
+        strongs: "G2112",
+        grammar: "ADV" 
+    },
+
+    {
+        chapter: 1,
+        verse: 28,
+        word:7,
+        greek: "πανταχοῦ",
+        english: "everywhere",
+        strongs: "G3837",
+        grammar: "ADV"
+    },
+
+    {
+        chapter: 1,
+        verse: 28,
+        word:8,
+        greek: "εἰς",
+        english: "into",
+        strongs: "G1519",
+        grammar: "PREP"
+    },
+
+
+    {
+        chapter: 1,
+        verse: 28,
+        word:9,
+        greek: "ὁ",
+        english: "all",
+        strongs: "G3588",
+        grammar: "T-NSM"
+    },
+
+    {
+        chapter: 1,
+        verse: 28,
+        word:10,
+        greek: "χώραν",
+        english: "region",
+        strongs: "G5561",
+        grammar: "N-ASF"
+    },
+
+    {
+        chapter: 1,
+        verse: 28,
+        word:11,
+        greek: "τῆς",
+        english: "of",
+        strongs: "G3588",
+        grammar: "T-GSF"
+    },
+
+    {
+        chapter: 1,
+        verse: 28,
+        word:12,
+        greek: "Γαλιλαίας",
+        english: "Galilee",
+        strongs: "G1056",
+        grammar: "N-GSF"
+    },
+
+    {
+        chapter: 1,
+        verse: 28,
+        word:13,
+        greek: "καὶ",
+        english: "and",
+        strongs: "G2532",
+        grammar: "CONJ"
+    },
+
+    {
+        chapter: 1,
+        verse: 28,
+        word:14,
+        greek: "ὁ",
+        english: "its",
+        strongs: "G3588",
+        grammar: "T-NSM"
+    },
+
+    {
+        chapter: 1,
+        verse: 28,
+        word:15,
+        greek: "περίχωρος",
+        english: "surrounding area",
+        strongs: "G4066",
+        grammar: "N-NSF"
+    },
+    
+    {
+        chapter: 1,
+        verse: 29,
         word:1,
-        "greek": "φήμη",
-        "english": "report",
-        "strongs": "G5345",
-        "grammar": "N-NSF" 
-    }
+        greek: "Καὶ",
+        english: "Immediately, when",
+        strongs: "G2532",
+        grammar: "CONJ"
+    },
 
     {
         chapter: 1,
-        verse: 28,
+        verse: 29,
+        word:2,
+        greek: "ἐξελθόντες",
+        english: "they had come out",
+        strongs: "G1831",
+        grammar: "V-2AAP-NPM"
+    },
+
+    {
+        chapter: 1,
+        verse: 29,
+        word:3,
+        greek: "ἀπὸ",
+        english: "of",
+        strongs: "G575",
+        grammar: "PREP"
+    },
+
+    {
+        chapter: 1,
+        verse: 29,
+        word:4,
+        greek: "τῆς",
+        english: "the",
+        strongs: "G3588",
+        grammar: "T-GSF"
+    },
+
+    {
+        chapter: 1,
+        verse: 29,
+        word:5,
+        greek: "συναγωγῆς,",
+        english: "synagogue",
+        strongs: "G4864",
+        grammar: "N-GSF"
+    },
+
+
+    {
+        chapter: 1,
+        verse: 29,
+        word:6,
+        greek: "ἦλθον",
+        english: "they came",
+        strongs: "G2064",
+        grammar: "V-2AAI-3P"
+    },
+
+    {
+        chapter: 1,
+        verse: 29,
+        word:7,
+        greek: "εἰς",
+        english: "into",
+        strongs: "G1519",
+        grammar: "PREP"
+    },
+
+    {
+        chapter: 1,
+        verse: 29,
+        word:8,
+        greek: "τὴν",
+        english: "the",
+        strongs: "G3588",
+        grammar: "T-ASF"
+    },
+
+    {
+        chapter: 1,
+        verse: 29,
+        word:9,
+        greek: "οἰκίαν",
+        english: "house",
+        strongs: "G3614",
+        grammar: "N-ASF"
+    },
+
+    {
+        chapter: 1,
+        verse: 29,
+        word:10,
+        greek: "Σίμωνος",
+        english: "of Simon",
+        strongs: "G4613",
+        grammar: "N-GSM"
+    },
+
+    {
+        chapter: 1,
+        verse: 29,
+        word:11,
+        greek: "καὶ",
+        english: "and",
+        strongs: "G2532",
+        grammar: "CONJ"
+    },
+
+    {
+        chapter: 1,
+        verse: 29,
+        word:12,
+        greek: "Ἀνδρέου",
+        english: "Andrew",
+        strongs: "G406",
+        grammar: "N-GSM"
+    },
+
+    {
+        chapter: 1,
+        verse: 29,
+        word:13,
+        greek: "μετὰ",
+        english: "with",
+        strongs: "G3326",
+        grammar: "PREP"
+    },
+
+    {
+        chapter: 1,
+        verse: 29,
+        word:14,
+        greek: "Ἰακώβου",
+        english: "James",
+        strongs: "G2385",
+        grammar: "N-GSM"
+    },
+
+    {
+        chapter: 1,
+        verse: 29,
+        word:15,
+        greek: "καὶ",
+        english: "and",
+        strongs: "G2532",
+        grammar: "CONJ"
+    },
+
+    {
+        chapter: 1,
+        verse: 29,
+        word:16,
+        greek: "Ἰωάννου.",
+        english: "John",
+        strongs: "G2491",
+        grammar: "N-GSM"
+    },
+
+    {
+        chapter: 1,
+        verse: 30,
         word:1,
-        "greek": "τῆς",
-        "english": "of",
-        "strongs": "G3588",
-        "grammar": "T-GSF"
-    }
+        greek: "ἡ",
+        english: "Now",
+        strongs: "G3588",
+        grammar: "T-NSF"
+    },
 
     {
         chapter: 1,
-        verse: 28,
+        verse: 30,
+        word:2,
+        greek: "πενθερὰ",
+        english: "Simon's wife's mother",
+        strongs: "G3994",
+        grammar: "N-NSF"
+    },
+
+    {
+        chapter: 1,
+        verse: 30,
+        word:3,
+        greek: "δὲ",
+        english: "lay",
+        strongs: "G2258",
+        grammar: "V-IXI-3S"
+    },
+
+    {
+        chapter: 1,
+        verse: 30,
+        word:4,
+        greek: "κατεκείμενος",
+        english: "sick",
+        strongs: "G2621",
+        grammar: "V-RPP-NSM"
+    },
+
+    {
+        chapter: 1,
+        verse: 30,
+        word:5,
+        greek: "πυρέσσουσα,",
+        english: "with a fever",
+        strongs: "G4445",
+        grammar: "N-NSF"
+    },
+
+    {
+        chapter: 1,
+        verse: 30,
+        word:6,
+        greek: "εὐθὺς",
+        english: "and immediately",
+        strongs: "G2112",
+        grammar: "ADV"
+    },
+
+    {
+        chapter: 1,
+        verse: 30,
+        word:7,
+        greek: "λέγουσιν",
+        english: "they told",
+        strongs: "G3004",
+        grammar: "V-PAI-3P"
+    },
+
+    {
+        chapter: 1,
+        verse: 30,
+        word:8,
+        greek: "αὐτῷ",
+        english: "him",
+        strongs: "G846",
+        grammar: "P-DSM"
+    },
+
+
+    {
+        chapter: 1,
+        verse: 30,
+        word:9,
+        greek: "περὶ",
+        english: "about",
+        strongs: "G4012",
+        grammar: "PREP"
+    },
+
+    {
+        chapter: 1,
+        verse: 30,
+        word:10,
+        greek: "αὐτῆς.",
+        english: "her",
+        strongs: "G846",
+        grammar: "P-GSF"
+    },
+    
+    {
+        chapter: 1,
+        verse: 31,
         word:1,
-        "greek": "αὐτοῦ",
-        "english": "him",
-        "strongs": "G846",
-        "grammar": "P-GSM"
-    }
+        greek: "προσλαβόμενος",
+        english: "He came and took",
+        strongs: "G4355",
+        grammar: "V-ADP-NSM"
+    },
 
     {
         chapter: 1,
-        verse: 28,
+        verse: 31,
+        word:2,
+        greek: "τῆς",
+        english: "her",
+        strongs: "G3588",
+        grammar: "T-GSF"
+    },
+
+    {
+        chapter: 1,
+        verse: 31,
+        word:3,
+        greek: "χειρός",
+        english: "by the hand",
+        strongs: "G5495",
+        grammar: "N-GSF"
+    },
+
+    {
+        chapter: 1,
+        verse: 31,
+        word:4,
+        greek: "ἠγέρθη,",
+        english: "and raised her up.",
+        strongs: "G1453",
+        grammar: "V-API-3S"
+    },
+
+    {
+        chapter: 1,
+        verse: 31,
+        word:5,
+        greek: "καὶ",
+        english: "The fever",
+        strongs: "G2532",
+        grammar: "CONJ"
+    },
+
+    {
+        chapter: 1,
+        verse: 31,
+        word:6,
+        greek: "ἀφῆκεν",
+        english: "left",
+        strongs: "G863",
+        grammar: "V-AAI-3S"
+    },
+
+
+    {
+        chapter: 1,
+        verse: 31,
+        word:7,
+        greek: "αὐτήν,",
+        english: "her",
+        strongs: "G846",
+        grammar: "P-ASF"
+    },
+
+    {
+        chapter: 1,
+        verse: 31,
+        word:8,
+        greek: "καὶ",
+        english: "and",
+        strongs: "G2532",
+        grammar: "CONJ"
+    },
+
+
+    {
+        chapter: 1,
+        verse: 31,
+        word:9,
+        greek: "διηκόνει",
+        english: "she served",
+        strongs: "G1247",
+        grammar: "V-IAI-3S"
+    },
+
+    {
+        chapter: 1,
+        verse: 31,
+        word:10,
+        greek: "αὐτοῖς.",
+        english: "them.",
+        strongs: "G846",
+        grammar: "P-DPM"
+    },    
+
+    {
+        chapter: 1,
+        verse: 32,
+        word:1,
+        greek: "Ὀψίας",
+        english: "At evening,",
+        strongs: "G3798",
+        grammar: "N-GSF"
+    },
+
+    {
+        chapter: 1,
+        verse: 32,
+        word:2,
+        greek: "δὲ",
+        english: "when",
+        strongs: "G1161",
+        grammar: "CONJ"
+    },
+
+    {
+        chapter: 1,
+        verse: 32,
+        word:3,
+        greek: "ἡλίου",
+        english: "the sun",
+        strongs: "G2246",
+        grammar: "N-GSM"
+    },
+
+    {
+        chapter: 1,
+        verse: 32,
+        word:4,
+        greek: "δύνοντος",
+        english: "had set,",
+        strongs: "G1416",
+        grammar: "V-PAP-GSM"
+    },
+
+    {
+        chapter: 1,
+        verse: 32,
+        word:5,
+        greek: "ἔφερον",
+        english: "they brought",
+        strongs: "G5342",
+        grammar: "V-IAI-3P"
+    },
+
+    {
+        chapter: 1,
+        verse: 32,
+        word:6,
+        greek: "πρὸς",
+        english: "to him",
+        strongs: "G4314",
+        grammar: "PREP"
+    },
+
+    {
+        chapter: 1,
+        verse: 32,
+        word:7,
+        greek: "αὐτὸν",
+        english: "all who",
+        strongs: "G846",
+        grammar: "P-ASM"
+    },
+
+    {
+        chapter: 1,
+        verse: 32,
+        word:8,
+        greek: "ἀσθενοῦντας",
+        english: "were sick",
+        strongs: "G770",
+        grammar: "V-PAP-APM"
+    },
+
+    {
+        chapter: 1,
+        verse: 32,
+        word:9,
+        greek: "καὶ",
+        english: "and",
+        strongs: "G2532",
+        grammar: "CONJ"
+    },
+
+    {
+        chapter: 1,
+        verse: 32,
+        word:10,
+        greek: "δαιμονιζομένους.",
+        english: "those who were possessed by demons.",
+        strongs: "G1139",
+        grammar: "V-PNP-APM"
+    },
+
+    {
+        chapter: 1,
+        verse: 33,
+        word:1,
+        greek: "ἅπασα",
+        english: "All the",
+        strongs: "G537",
+        grammar: "A-NSF"
+    },
+
+    {
+        chapter: 1,
+        verse: 33,
+        word:2,
+        greek: "δὲ",
+        english: "city",
+        strongs: "G4172",
+        grammar: "N-NSF"
+    },
+
+    {
+        chapter: 1,
+        verse: 33,
+        word:3,
+        greek: "ἧν",
+        english: "was gathered",
+        strongs: "G2258",
+        grammar: "V-IXI-3S"
+    },
+
+    {
+        chapter: 1,
+        verse: 33,
+        word:4,
+        greek: "ἐπὶ",
+        english: "together",
+        strongs: "G1909",
+        grammar: "PREP"
+    },
+
+    {
+        chapter: 1,
+        verse: 33,
+        word:5,
+        greek: "τῇ",
+        english: "at",
+        strongs: "G3588",
+        grammar: "T-DSF"
+    },
+
+    {
+        chapter: 1,
+        verse: 33,
+        word:6,
+        greek: "θύρᾳ.",
+        english: "the door.",
+        strongs: "G2374",
+        grammar: "N-DSF"
+    },
+    
+    {
+        chapter: 1,
+        verse: 34,
+        word:1,
+        greek: "ἔθεραπεν",
+        english: "He healed",
+        strongs: "G2323",
+        grammar: "V-IAI-3S"
+    },
+
+    {
+        chapter: 1,
+        verse: 34,
+        word:2,
+        greek: "πολλοὺς",
+        english: "many",
+        strongs: "G4183",
+        grammar: "A-APM"
+    },
+
+    {
+        chapter: 1,
+        verse: 34,
+        word:3,
+        greek: "κακῶς",
+        english: "who were sick",
+        strongs: "G2560",
+        grammar: "ADV"
+    },
+
+    {
+        chapter: 1,
+        verse: 34,
+        word:4,
+        greek: "ἔχοντας",
+        english: "with various diseases",
+        strongs: "G2192",
+        grammar: "V-PAP-APM" 
+    },
+
+    {
+        chapter: 1,
+        verse: 34,
+        word:5,
+        greek: "καὶ",
+        english: "and",
+        strongs: "G2532",
+        grammar: "CONJ"
+    },
+    
+    {
+        chapter: 1,
+        verse: 34,
+        word:6,
+        greek: "ἐξέβαλεν",
+        english: "cast",
+        strongs: "G1544",
+        grammar: "V-AAI-3S"  
+    },
+    
+    {
+        chapter: 1,
+        verse: 34,
+        word:7,
+        greek: "ἐκ",
+        english: "out",
+        strongs: "G1537",
+        grammar: "P"
+    },
+
+    {
+        chapter: 1,
+        verse: 34,
+        word:8,
+        greek: "πολλούς",
+        english: "many",
+        strongs: "G4183",
+        grammar: "A-APM"
+    },
+
+    {
+        chapter: 1,
+        verse: 34,
+        word:9,
+        greek: "δαιμόνια",
+        english: "demons.",
+        strongs: "G1140",
+        grammar: "N-ANP" 
+    },
+    
+    {
+        chapter: 1,
+        verse: 34,
+        word:10,
+        greek: "πολλά",
+        english: "He didn’t allow",
+        strongs: "G4183",
+        grammar: "A-APN" 
+    },
+    
+    {
+        chapter: 1,
+        verse: 34,
+        word:11,
+        greek: "λαλεῖν,",
+        english: "the demons to speak,",
+        strongs: "G2980",
+        grammar: "V-PAN"
+    },
+
+    {
+        chapter: 1,
+        verse: 34,
+        word:12,
+        greek: "ὅτι",
+        english: "because",
+        strongs: "G3754",
+        grammar: "CONJ" 
+    },
+    
+    {
+        chapter: 1,
+        verse: 34,
+        word:13,
+        greek: "ᾔδεισαν",
+        english: "they knew",
+        strongs: "G1492",
+        grammar: "V-IAI-3P"
+    },
+
+    {
+        chapter: 1,
+        verse: 34,
+        word:14,
+        greek: "αὐτόν.",
+        english: "him.",
+        strongs: "G846",
+        grammar: "P-ASM" 
+    },
+
+    {
+        chapter: 1,
+        verse: 35,
+        word:1,
+        greek: "ὄρθρου",
+        english: "early in the morning",
+        strongs: "G3722",
+        grammar: "N-GSM"
+    },
+    
+    {
+        chapter: 1,
+        verse: 35,
+        word:2,
+        greek: "ἔτι",
+        english: "while it was still",
+        strongs: "G2089",
+        grammar: "ADV"
+    },
+    
+    {
+        chapter: 1,
+        verse: 35,
+        word:3,
+        greek: "σκότους",
+        english: "dark",
+        strongs: "G4653",
+        grammar: "N-GNS"
+    },
+
+    {
+        chapter: 1,
+        verse: 35,
+        word:4,
+        greek: "αὐτοῦ",
+        english: "he",
+        strongs: "G846",
+        grammar: "PP-GSM" 
+    },
+
+    {
+        chapter: 1,
+        verse: 35,
+        word:5,
+        greek: "ἀναστὰς",
+        english: "rose up",
+        strongs: "G450",
+        grammar: "V-AAP-NSM" 
+    },
+
+    {
+        chapter: 1,
+        verse: 35,
+        word:6,
+        greek: "καὶ",
+        english: "and",
+        strongs: "G2532",
+        grammar: "CONJ"
+    },
+
+    {
+        chapter: 1,
+        verse: 35,
+        word:7,
+        greek: "ἐξῆλθεν",
+        english: "went out",
+        strongs: "G1831",
+        grammar: "V-2AAI-3S"
+    },
+    
+    {
+        chapter: 1,
+        verse: 35,
+        word:8,
+        greek: "καὶ",
+        english: "and",
+        strongs: "G2532",
+        grammar: "CONJ"
+    },
+
+    {
+        chapter: 1,
+        verse: 35,
+        word:9,
+        greek: "ἀπῆλθεν",
+        english: "departed",
+        strongs: "G565",
+        grammar: "V-2AAI-3S"
+    },
+
+    {
+        chapter: 1,
+        verse: 35,
+        word:10,
+        greek: "εἰς",
+        english: "into",
+        strongs: "G1519",
+        grammar: "PREP"
+    },
+
+    {
+        chapter: 1,
+        verse: 35,
+        word:11,
+        greek: "ἔρημον",
+        english: "deserted place",
+        strongs: "G2048",
+        grammar: "N-ASM"
+    
+    },
+
+    {
+        chapter: 1,
+        verse: 35,
+        word:12, 
+        greek: "καὶ",
+        english: "and",
+        strongs: "G2532",
+        grammar: "CONJ"
+    },
+
+    {
+        chapter: 1,
+        verse: 35,
+        word:13, 
+        greek: "προσηύξατο",
+        english: "prayed",
+        strongs: "G4336",
+        grammar: "V-AIM-3S"
+    },
+
+    {
+        chapter: 1,
+        verse: 35,
+        word:14, 
+        greek: "ἐκεῖ",
+        english: "there",
+        strongs: "G1563",
+        grammar: "Adv" 
+    },
+    
+    {
+        chapter: 1,
+        verse: 36,
         word:1, 
-        "greek": "ἐξῆλθεν",
-        "english": "went out",
-        "strongs": "G1831",
-        "grammar": "V-2AAI-3S"
-    }
+        greek: "Πέτρος",
+        english: "Simon",
+        strongs: "G4074",
+        grammar: "N-NSM"
+    },
 
-    {
-        chapter: 1,
-        verse: 28,
-        word:1,
-        "greek": "εὐθὺς",
-        "english": "immediately",
-        "strongs": "G2112",
-        "grammar": "ADV" 
-    }
-
-    {
-        chapter: 1,
-        verse: 28,
-        word:1,
-        "greek": "πανταχοῦ",
-        "english": "everywhere",
-        "strongs": "G3837",
-        "grammar": "ADV"
-    },
-    {
-        chapter: 1,
-        verse: 28,
-        word:1,
-        "greek": "εἰς",
-        "english": "into",
-        "strongs": "G1519",
-        "grammar": "PREP"
-    },
-    {
-        chapter: 1,
-        verse: 28,
-        word:1,
-        "greek": "ὁ",
-        "english": "all",
-        "strongs": "G3588",
-        "grammar": "T-NSM"
-    },
-    {
-        chapter: 1,
-        verse: 28,
-        word:1,
-        "greek": "χώραν",
-        "english": "region",
-        "strongs": "G5561",
-        "grammar": "N-ASF"
-    },
-    {
-        chapter: 1,
-        verse: 28,
-        word:1,
-        "greek": "τῆς",
-        "english": "of",
-        "strongs": "G3588",
-        "grammar": "T-GSF"
-    },
-    {
-        chapter: 1,
-        verse: 28,
-        word:1,
-        "greek": "Γαλιλαίας",
-        "english": "Galilee",
-        "strongs": "G1056",
-        "grammar": "N-GSF"
-    },
-    {
-        chapter: 1,
-        verse: 28,
-        word:1,
-        "greek": "καὶ",
-        "english": "and",
-        "strongs": "G2532",
-        "grammar": "CONJ"
-    },
-    {
-        chapter: 1,
-        verse: 28,
-        word:1,
-        "greek": "ὁ",
-        "english": "its",
-        "strongs": "G3588",
-        "grammar": "T-NSM"
-    },
-    {
-        chapter: 1,
-        verse: 28,
-        word:1,
-        "greek": "περίχωρος",
-        "english": "surrounding area",
-        "strongs": "G4066",
-        "grammar": "N-NSF"
-    }.
-    
-    {
-        chapter: 1,
-        verse: 29,
-        word:1,
-        "greek": "Καὶ",
-        "english": "Immediately, when",
-        "strongs": "G2532",
-        "grammar": "CONJ"
-    },
-    {
-        chapter: 1,
-        verse: 29,
-        word:1,
-        "greek": "ἐξελθόντες",
-        "english": "they had come out",
-        "strongs": "G1831",
-        "grammar": "V-2AAP-NPM"
-    },
-    {
-        chapter: 1,
-        verse: 29,
-        word:1,
-        "greek": "ἀπὸ",
-        "english": "of",
-        "strongs": "G575",
-        "grammar": "PREP"
-    },
-    {
-        chapter: 1,
-        verse: 29,
-        word:1,
-        "greek": "τῆς",
-        "english": "the",
-        "strongs": "G3588",
-        "grammar": "T-GSF"
-    },
-    {
-        chapter: 1,
-        verse: 29,
-        word:1,
-        "greek": "συναγωγῆς,",
-        "english": "synagogue",
-        "strongs": "G4864",
-        "grammar": "N-GSF"
-    },
-    {
-        chapter: 1,
-        verse: 29,
-        word:1,
-        "greek": "ἦλθον",
-        "english": "they came",
-        "strongs": "G2064",
-        "grammar": "V-2AAI-3P"
-    },
-    {
-        chapter: 1,
-        verse: 29,
-        word:1,
-        "greek": "εἰς",
-        "english": "into",
-        "strongs": "G1519",
-        "grammar": "PREP"
-    },
-    {
-        chapter: 1,
-        verse: 29,
-        word:1,
-        "greek": "τὴν",
-        "english": "the",
-        "strongs": "G3588",
-        "grammar": "T-ASF"
-    },
-    {
-        chapter: 1,
-        verse: 29,
-        word:1,
-        "greek": "οἰκίαν",
-        "english": "house",
-        "strongs": "G3614",
-        "grammar": "N-ASF"
-    },
-    {
-        chapter: 1,
-        verse: 29,
-        word:1,
-        "greek": "Σίμωνος",
-        "english": "of Simon",
-        "strongs": "G4613",
-        "grammar": "N-GSM"
-    },
-    {
-        chapter: 1,
-        verse: 29,
-        word:1,
-        "greek": "καὶ",
-        "english": "and",
-        "strongs": "G2532",
-        "grammar": "CONJ"
-    },
-    {
-        chapter: 1,
-        verse: 29,
-        word:1,
-        "greek": "Ἀνδρέου",
-        "english": "Andrew",
-        "strongs": "G406",
-        "grammar": "N-GSM"
-    },
-    {
-        chapter: 1,
-        verse: 29,
-        word:1,
-        "greek": "μετὰ",
-        "english": "with",
-        "strongs": "G3326",
-        "grammar": "PREP"
-    },
-    {
-        chapter: 1,
-        verse: 29,
-        word:1,
-        "greek": "Ἰακώβου",
-        "english": "James",
-        "strongs": "G2385",
-        "grammar": "N-GSM"
-    },
-    {
-        chapter: 1,
-        verse: 29,
-        word:1,
-        "greek": "καὶ",
-        "english": "and",
-        "strongs": "G2532",
-        "grammar": "CONJ"
-    },
-    {
-        chapter: 1,
-        verse: 29,
-        word:1,
-        "greek": "Ἰωάννου.",
-        "english": "John",
-        "strongs": "G2491",
-        "grammar": "N-GSM"
-    }
-
-    {
-        chapter: 1,
-        verse: 30,
-        word:1,
-        "greek": "ἡ",
-        "english": "Now",
-        "strongs": "G3588",
-        "grammar": "T-NSF"
-    },
-    {
-        chapter: 1,
-        verse: 30,
-        word:1,
-        "greek": "πενθερὰ",
-        "english": "Simon's wife's mother",
-        "strongs": "G3994",
-        "grammar": "N-NSF"
-    },
-    {
-        chapter: 1,
-        verse: 30,
-        word:1,
-        "greek": "δὲ",
-        "english": "lay",
-        "strongs": "G2258",
-        "grammar": "V-IXI-3S"
-    },
-    {
-        chapter: 1,
-        verse: 30,
-        word:1,
-        "greek": "κατεκείμενος",
-        "english": "sick",
-        "strongs": "G2621",
-        "grammar": "V-RPP-NSM"
-    },
-    {
-        chapter: 1,
-        verse: 30,
-        word:1,
-        "greek": "πυρέσσουσα,",
-        "english": "with a fever",
-        "strongs": "G4445",
-        "grammar": "N-NSF"
-    },
-    {
-        chapter: 1,
-        verse: 30,
-        word:1,
-        "greek": "εὐθὺς",
-        "english": "and immediately",
-        "strongs": "G2112",
-        "grammar": "ADV"
-    },
-    {
-        chapter: 1,
-        verse: 30,
-        word:1,
-        "greek": "λέγουσιν",
-        "english": "they told",
-        "strongs": "G3004",
-        "grammar": "V-PAI-3P"
-    },
-    {
-        chapter: 1,
-        verse: 30,
-        word:1,
-        "greek": "αὐτῷ",
-        "english": "him",
-        "strongs": "G846",
-        "grammar": "P-DSM"
-    },
-    {
-        chapter: 1,
-        verse: 30,
-        word:1,
-        "greek": "περὶ",
-        "english": "about",
-        "strongs": "G4012",
-        "grammar": "PREP"
-    },
-    {
-        chapter: 1,
-        verse: 30,
-        word:1,
-        "greek": "αὐτῆς.",
-        "english": "her",
-        "strongs": "G846",
-        grammar": "P-GSF"
-    }
-    
-    {
-        chapter: 1,
-        verse: 31,
-        word:1,
-        "greek": "προσλαβόμενος",
-        "english": "He came and took",
-        "strongs": "G4355",
-        "grammar": "V-ADP-NSM"
-    },
-    {
-        chapter: 1,
-        verse: 31,
-        word:1,
-        "greek": "τῆς",
-        "english": "her",
-        "strongs": "G3588",
-        "grammar": "T-GSF"
-    },
-    {
-        chapter: 1,
-        verse: 31,
-        word:1,
-        "greek": "χειρός",
-        "english": "by the hand",
-        "strongs": "G5495",
-        "grammar": "N-GSF"
-    },
-    {
-        chapter: 1,
-        verse: 31,
-        word:1,
-        "greek": "ἠγέρθη,",
-        "english": "and raised her up.",
-        "strongs": "G1453",
-        "grammar": "V-API-3S"
-    },
-    {
-        chapter: 1,
-        verse: 31,
-        word:1,
-        "greek": "καὶ",
-        "english": "The fever",
-        "strongs": "G2532",
-        "grammar": "CONJ"
-    },
-    {
-        chapter: 1,
-        verse: 31,
-        word:1,
-        "greek": "ἀφῆκεν",
-        "english": "left",
-        "strongs": "G863",
-        "grammar": "V-AAI-3S"
-    },
-    {
-        chapter: 1,
-        verse: 31,
-        word:1,
-        "greek": "αὐτήν,",
-        "english": "her",
-        "strongs": "G846",
-        "grammar": "P-ASF"
-    },
-    {
-        chapter: 1,
-        verse: 31,
-        word:1,
-        "greek": "καὶ",
-        "english": "and",
-        "strongs": "G2532",
-        "grammar": "CONJ"
-    },
-    {
-        chapter: 1,
-        verse: 31,
-        word:1,
-        "greek": "διηκόνει",
-        "english": "she served",
-        "strongs": "G1247",
-        "grammar": "V-IAI-3S"
-    },
-    {
-        chapter: 1,
-        verse: 31,
-        word:1,
-        "greek": "αὐτοῖς.",
-        "english": "them.",
-        "strongs": "G846",
-        "grammar": "P-DPM"
-    }
-
-    
-
-    {
-        chapter: 1,
-        verse: 32,
-        word:1,
-        "greek": "Ὀψίας",
-        "english": "At evening,",
-        "strongs": "G3798",
-        "grammar": "N-GSF"
-    },
-    {
-        chapter: 1,
-        verse: 32,
-        word:1,
-        "greek": "δὲ",
-        "english": "when",
-        "strongs": "G1161",
-        "grammar": "CONJ"
-    },
-    {
-        chapter: 1,
-        verse: 32,
-        word:1,
-        "greek": "ἡλίου",
-        "english": "the sun",
-        "strongs": "G2246",
-        "grammar": "N-GSM"
-    },
-    {
-        chapter: 1,
-        verse: 32,
-        word:1,
-        "greek": "δύνοντος",
-        "english": "had set,",
-        "strongs": "G1416",
-        "grammar": "V-PAP-GSM"
-    },
-    {
-        chapter: 1,
-        verse: 32,
-        word:1,
-        "greek": "ἔφερον",
-        "english": "they brought",
-        "strongs": "G5342",
-        "grammar": "V-IAI-3P"
-    },
-    {
-        chapter: 1,
-        verse: 32,
-        word:1,
-        "greek": "πρὸς",
-        "english": "to him",
-        "strongs": "G4314",
-        "grammar": "PREP"
-    },
-    {
-        chapter: 1,
-        verse: 32,
-        word:1,
-        "greek": "αὐτὸν",
-        "english": "all who",
-        "strongs": "G846",
-        "grammar": "P-ASM"
-    },
-    {
-        chapter: 1,
-        verse: 32,
-        word:1,
-        "greek": "ἀσθενοῦντας",
-        "english": "were sick",
-        "strongs": "G770",
-        "grammar": "V-PAP-APM"
-    },
-    {
-        chapter: 1,
-        verse: 32,
-        word:1,
-        "greek": "καὶ",
-        "english": "and",
-        "strongs": "G2532",
-        "grammar": "CONJ"
-    },
-    {
-        chapter: 1,
-        verse: 32,
-        word:1,
-        "greek": "δαιμονιζομένους.",
-        "english": "those who were possessed by demons.",
-        "strongs": "G1139",
-        "grammar": "V-PNP-APM"
-    }
-
-    {
-        chapter: 1,
-        verse: 33,
-        word:1,
-        "greek": "ἅπασα",
-        "english": "All the",
-        "strongs": "G537",
-        "grammar": "A-NSF"
-    },
-    {
-        chapter: 1,
-        verse: 33,
-        word:1,
-        "greek": "δὲ",
-        "english": "city",
-        "strongs": "G4172",
-        "grammar": "N-NSF"
-    },
-    {
-        chapter: 1,
-        verse: 33,
-        word:1,
-        "greek": "ἧν",
-        "english": "was gathered",
-        "strongs": "G2258",
-        "grammar": "V-IXI-3S"
-    },
-    {
-        chapter: 1,
-        verse: 33,
-        word:1,
-        "greek": "ἐπὶ",
-        "english": "together",
-        "strongs": "G1909",
-        "grammar": "PREP"
-    },
-    {
-        chapter: 1,
-        verse: 33,
-        word:1,
-        "greek": "τῇ",
-        "english": "at",
-        "strongs": "G3588",
-        "grammar": "T-DSF"
-    },
-    {
-        chapter: 1,
-        verse: 33,
-        word:1,
-        "greek": "θύρᾳ.",
-        "english": "the door.",
-        "strongs": "G2374",
-        "grammar": "N-DSF"
-    }
-    
-    {
-        chapter: 1,
-        verse: 34,
-        word:1,
-        "greek": "ἔθεραπεν",
-        "english": "He healed",
-        "strongs": "G2323",
-        "grammar": "V-IAI-3S"
-    }
-
-    {
-        chapter: 1,
-        verse: 34,
-        word:1,
-        "greek": "πολλοὺς",
-        "english": "many",
-        "strongs": "G4183",
-        "grammar": "A-APM"
-    }
-
-    {
-        chapter: 1,
-        verse: 34,
-        word:1,
-        "greek": "κακῶς",
-        "english": "who were sick",
-        "strongs": "G2560",
-        "grammar": "ADV"
-    }
-
-    {
-        chapter: 1,
-        verse: 34,
-        word:1,
-        "greek": "ἔχοντας",
-        "english": "with various diseases",
-        "strongs": "G2192",
-        "grammar": "V-PAP-APM" 
-    }
-
-    {
-        chapter: 1,
-        verse: 34,
-        word:1,
-        "greek": "καὶ",
-        "english": "and",
-        "strongs": "G2532",
-        "grammar": "CONJ"
-    }
-    
-    {
-        chapter: 1,
-        verse: 34,
-        word:1,
-        "greek": "ἐξέβαλεν",
-        "english": "cast",
-        "strongs": "G1544",
-        "grammar": "V-AAI-3S"  
-    }
-    
-    {
-        chapter: 1,
-        verse: 34,
-        word:1,
-        "greek": "ἐκ",
-        "english": "out",
-        "strongs": "G1537",
-        "grammar": "P"
-    }
-
-    {
-        chapter: 1,
-        verse: 34,
-        word:1,
-        "greek": "πολλούς",
-        "english": "many",
-        "strongs": "G4183",
-        "grammar": "A-APM"
-    }
-
-    {
-        chapter: 1,
-        verse: 34,
-        word:1,
-        "greek": "δαιμόνια",
-        "english": "demons.",
-        "strongs": "G1140",
-        "grammar": "N-ANP" 
-    }
-    
-    {
-        chapter: 1,
-        verse: 34,
-        word:1,
-        "greek": "πολλά",
-        "english": "He didn’t allow",
-        "strongs": "G4183",
-        "grammar": "A-APN" 
-    }
-    
-    {
-        chapter: 1,
-        verse: 34,
-        word:1,
-        "greek": "λαλεῖν,",
-        "english": "the demons to speak,",
-        "strongs": "G2980",
-        "grammar": "V-PAN"
-    }
-
-    {
-        chapter: 1,
-        verse: 34,
-        word:1,
-        "greek": "ὅτι",
-        "english": "because",
-        "strongs": "G3754",
-        "grammar": "CONJ" 
-    }
-    
-    {
-        chapter: 1,
-        verse: 34,
-        word:1,
-        "greek": "ᾔδεισαν",
-        "english": "they knew",
-        "strongs": "G1492",
-        "grammar": "V-IAI-3P"
-    }
-
-    {
-        chapter: 1,
-        verse: 34,
-        word:1,
-        "greek": "αὐτόν.",
-        "english": "him.",
-        "strongs": "G846",
-        "grammar": "P-ASM" 
-    }
-
-    {
-        chapter: 1,
-        verse: 35,
-        word:1,
-        "greek": "ὄρθρου",
-        "english": "early in the morning",
-        "strongs": "G3722",
-        "grammar": "N-GSM"
-    }
-    
-    {
-        chapter: 1,
-        verse: 35,
-        word:1,
-        "greek": "ἔτι",
-        "english": "while it was still",
-        "strongs": "G2089",
-        "grammar": "ADV"
-    }
-    
-    {
-        chapter: 1,
-        verse: 35,
-        word:1,
-        "greek": "σκότους",
-        "english": "dark",
-        "strongs": "G4653",
-        "grammar": "N-GNS"
-    }
-
-    {
-        chapter: 1,
-        verse: 35,
-        word:1,
-        "greek": "αὐτοῦ",
-        "english": "he",
-        "strongs": "G846",
-        "grammar": "PP-GSM" 
-    }
-
-    {
-        chapter: 1,
-        verse: 35,
-        word:1,
-        "greek": "ἀναστὰς",
-        "english": "rose up",
-        "strongs": "G450",
-        "grammar": "V-AAP-NSM" 
-    }
-
-    {
-        chapter: 1,
-        verse: 35,
-        word:1,
-        "greek": "καὶ",
-        "english": "and",
-        "strongs": "G2532",
-        "grammar": "CONJ"
-    }
-
-    {
-        chapter: 1,
-        verse: 35,
-        word:1,
-        "greek": "ἐξῆλθεν",
-        "english": "went out",
-        "strongs": "G1831",
-        "grammar": "V-2AAI-3S"
-    }
-    
-    {
-        chapter: 1,
-        verse: 35,
-        word:1,
-        "greek": "καὶ",
-        "english": "and",
-        "strongs": "G2532",
-        "grammar": "CONJ"
-    },
-    {
-        chapter: 1,
-        verse: 35,
-        word:1,
-        "greek": "ἀπῆλθεν",
-        "english": "departed",
-        "strongs": "G565",
-        "grammar": "V-2AAI-3S"
-    },
-    {
-        chapter: 1,
-        verse: 35,
-        word:1,
-        "greek": "εἰς",
-        "english": "into",
-        "strongs": "G1519",
-        "grammar": "PREP"
-    },
-    {
-        chapter: 1,
-        verse: 35,
-        word:1,
-        "greek": "ἔρημον",
-        "english": "deserted place",
-        "strongs": "G2048",
-        "grammar": "N-ASM"
-    
-    }
-
-    {
-        chapter: 1,
-        verse: 35,
-        word:1, 
-        "greek": "καὶ",
-        "english": "and",
-        "strongs": "G2532",
-        "grammar": "CONJ"
-    }
-
-    {
-        chapter: 1,
-        verse: 35,
-        word:1, 
-        "greek": "προσηύξατο",
-        "english": "prayed",
-        "strongs": "G4336",
-        "grammar": "V-AIM-3S"
-    }
-
-    {
-        chapter: 1,
-        verse: 35,
-        word:1, 
-        "greek": "ἐκεῖ",
-        "english": "there",
-        "strongs": "G1563",
-        "grammar": "Adv" 
-    }
-    
     {
         chapter: 1,
         verse: 36,
-        word:1, 
-        "greek": "Πέτρος",
-        "english": "Simon",
-        "strongs": "G4074",
-        "grammar": "N-NSM"
+        word:2,
+        greek: "καί",
+        english: "and",
+        strongs: "G2532",
+        grammar: "CONJ"
     },
+
     {
         chapter: 1,
         verse: 36,
-        word:1,
-        "greek": "καί",
-        "english": "and",
-        "strongs": "G2532",
-        "grammar": "CONJ"
+        word:3,
+        greek: "ὁ",
+        english: "those",
+        strongs: "G3588",
+        grammar: "T-NPM"
     },
+
     {
         chapter: 1,
         verse: 36,
-        word:1,
-        "greek": "ὁ",
-        "english": "those",
-        "strongs": "G3588",
-        "grammar": "T-NPM"
+        word:4,
+        greek: "σὺν",
+        english: "who were with",
+        strongs: "G4862",
+        grammar: "PREP"
     },
+
     {
         chapter: 1,
         verse: 36,
-        word:1,
-        "greek": "σὺν",
-        "english": "who were with",
-        "strongs": "G4862",
-        "grammar": "PREP"
+        word:5,
+        greek: "αὐτός",
+        english: "him",
+        strongs: "G846",
+        grammar: "P-GSM"
     },
+
     {
         chapter: 1,
         verse: 36,
-        word:1,
-        "greek": "αὐτός",
-        "english": "him",
-        "strongs": "G846",
-        "grammar": "P-GSM"
+        word:6,
+        greek: "ἀναζητέω",
+        english: "searched",
+        strongs: "G327",
+        grammar: "V-IAI-3P"
     },
+
     {
         chapter: 1,
         verse: 36,
-        word:1,
-        "greek": "ἀναζητέω",
-        "english": "searched",
-        "strongs": "G327",
-        "grammar": "V-IAI-3P"
+        word:7,
+        greek: "αὐτός",
+        english: "for him",
+        strongs: "G846",
+        grammar: "P-3GS"
     },
-    {
-        chapter: 1,
-        verse: 36,
-        word:1,
-        "greek": "αὐτός",
-        "english": "for him",
-        "strongs": "G846",
-        "grammar": "P-3GS"
-    }
     
     {
         chapter: 1,
         verse: 37,
         word:1,
-        "greek": "αὐτός",
-        "english": "they",
-        "strongs": "G846",
-        "grammar": "P-3NP"
-    }
+        greek: "αὐτός",
+        english: "they",
+        strongs: "G846",
+        grammar: "P-3NP"
+    },
     
     {
         chapter: 1,
         verse: 37,
-        word:1,
-        "greek": "εὑρίσκω",
-        "english": "found",
-        "strongs": "G2147",
-        "grammar": "V-2AAI-3P"
+        word:2,
+        greek: "εὑρίσκω",
+        english: "found",
+        strongs: "G2147",
+        grammar: "V-2AAI-3P"
     },
+
     {
         chapter: 1,
         verse: 37,
-        word:1,
-        "greek": "αὐτός",
-        "english": "him",
-        "strongs": "G846",
-        "grammar": "P-3GS"
+        word:3,
+        greek: "αὐτός",
+        english: "him",
+        strongs: "G846",
+        grammar: "P-3GS"
     },
+
     {
         chapter: 1,
         verse: 37,
-        word:1,
-        "greek": "καί",
-        "english": "and",
-        "strongs": "G2532",
-        "grammar": "CONJ"
+        word:4,
+        greek: "καί",
+        english: "and",
+        strongs: "G2532",
+        grammar: "CONJ"
     },
+
     {
         chapter: 1,
         verse: 37,
-        word:1,
-        "greek": "λέγω",
-        "english": "told",
-        "strongs": "G3004",
-        "grammar": "V-2AAI-3P"
+        word:5,
+        greek: "λέγω",
+        english: "told",
+        strongs: "G3004",
+        grammar: "V-2AAI-3P"
     },
+
     {
         chapter: 1,
         verse: 37,
-        word:1,
-        "greek": "αὐτός",
-        "english": "him",
-        "strongs": "G846",
-        "grammar": "P-3GS"
+        word:6,
+        greek: "αὐτός",
+        english: "him",
+        strongs: "G846",
+        grammar: "P-3GS"
     },
+
     {
         chapter: 1,
         verse: 37,
-        word:1,
-        "greek": "πᾶς",
-        "english": "Everyone",
-        "strongs": "G3956",
-        "grammar": "A-NSM"
+        word:7,
+        greek: "πᾶς",
+        english: "Everyone",
+        strongs: "G3956",
+        grammar: "A-NSM"
     },
+
     {
         chapter: 1,
         verse: 37,
-        word:1,
-        "greek": "ζητέω",
-        "english": "is looking",
-        "strongs": "G2212",
-        "grammar": "V-PAI-3S"
+        word:8,
+        greek: "ζητέω",
+        english: "is looking",
+        strongs: "G2212",
+        grammar: "V-PAI-3S"
     },
+
     {
         chapter: 1,
         verse: 37,
-        word:1,
-        "greek": "σύ",
-        "english": "for you",
-        "strongs": "G4771",
-        "grammar": "P-2AS"
-    }
+        word:9,
+        greek: "σύ",
+        english: "for you",
+        strongs: "G4771",
+        grammar: "P-2AS"
+    },
     
    
     {
         chapter: 1,
         verse: 38,
         word:1,
-        "greek": "αὐτοῦ",
-        "english": "he",
-        "strongs": "G846",
-        "grammar": "PP-GSM"
-    }
+        greek: "αὐτοῦ",
+        english: "he",
+        strongs: "G846",
+        grammar: "PP-GSM"
+    },
     
     {    
         chapter: 1,
         verse: 38,
-        word:1,
-        "greek": "εἶπεν",
-        "english": "said",
-        "strongs": "G2036",
-        "grammar": "V-2AAI-3S"
-    },
-    {
-        "number": 205,
-        "greek": "πρὸς",
-        "english": "to",
-        "strongs": "G4314",
-        "grammar": "PREP"
+        word:2,
+        greek: "εἶπεν",
+        english: "said",
+        strongs: "G2036",
+        grammar: "V-2AAI-3S"
     },
     {
         chapter: 1,
         verse: 38,
-        word:1,
-        "greek": "αὐτούς",
-        "english": "them",
-        "strongs": "G846",
-        "grammar": "P-2AP"
+        word:3,
+        greek: "πρὸς",
+        english: "to",
+        strongs: "G4314",
+        grammar: "PREP"
     },
     {
         chapter: 1,
         verse: 38,
-        word:1,
-        "greek": "Ἄγωμεν",
-        "english": "Let's go",
-        "strongs": "G71",
-        "grammar": "V-PAM-1P"
+        word:4,
+        greek: "αὐτούς",
+        english: "them",
+        strongs: "G846",
+        grammar: "P-2AP"
     },
     {
         chapter: 1,
         verse: 38,
-        word:1,
-        "greek": "ἀλλαχοῦ",
-        "english": "elsewhere",
-        "strongs": "G238",
-        "grammar": "ADV"
+        word:5,
+        greek: "Ἄγωμεν",
+        english: "Let's go",
+        strongs: "G71",
+        grammar: "V-PAM-1P"
+    },
+    {
+        chapter: 1,
+        verse: 38,
+        word:6,
+        greek: "ἀλλαχοῦ",
+        english: "elsewhere",
+        strongs: "G238",
+        grammar: "ADV"
         
-    }
-    {
-        chapter: 1,
-        verse: 38,
-        word:1,
-        "greek": "εἰς",
-        "english": "into",
-        "strongs": "G1519",
-        "grammar": "PREP"
     },
     {
         chapter: 1,
         verse: 38,
-        word:1,
-        "greek": "τὰς",
-        "english": "the",
-        "strongs": "G3588",
-        "grammar": "T-APF"
-        
-        
-    }
+        word:7,
+        greek: "εἰς",
+        english: "into",
+        strongs: "G1519",
+        grammar: "PREP"
+    },
     {
         chapter: 1,
         verse: 38,
-        word:1,
-        "greek": "πόλεις",
-        "english": "towns",
-        "strongs": "G4172",
-        "grammar": "N-APF"   
+        word:8,
+        greek: "τὰς",
+        english: "the",
+        strongs: "G3588",
+        grammar: "T-APF"
         
-    }
+        
+    },
+    {
+        chapter: 1,
+        verse: 38,
+        word:9,
+        greek: "πόλεις",
+        english: "towns",
+        strongs: "G4172",
+        grammar: "N-APF"   
+        
+    },
     
     {
         chapter: 1,
         verse: 38,
-        word:1, 
-        "greek": "ἵνα",
-        "english": "that",
-        "strongs": "G2443",
-        "grammar": "CONJ"
-    }
+        word:10, 
+        greek: "ἵνα",
+        english: "that",
+        strongs: "G2443",
+        grammar: "CONJ"
+    },
         
     {
         chapter: 1,
         verse: 38,
-        word:1, 
-        "greek": "πρᾶξαι",
-        "english": "may",
-        "strongs": "G4160",
-        "grammar": "V-2AAS-1S"
-    } 
+        word:11, 
+        greek: "πρᾶξαι",
+        english: "may",
+        strongs: "G4160",
+        grammar: "V-2AAS-1S"
+    }, 
         
     {
         chapter: 1,
         verse: 38,
-        word:1, 
-        "greek": "κηρύξω",
-        "english": "preach",
-        "strongs": "G2784",
-        "grammar": "V-AAS-1S"
+        word:12, 
+        greek: "κηρύξω",
+        english: "preach",
+        strongs: "G2784",
+        grammar: "V-AAS-1S"
     },
     {
         chapter: 1,
         verse: 38,
-        word:1, 
-        "greek": "κἀκεῖ",
-        "english": "there also",
-        "strongs": "G2546",
-        "grammar": "ADV"
-    },
-    {
-        "number": 233,
-        "greek": "γὰρ",
-        "english": "because",
-        "strongs": "G1063",
-        "grammar": "CONJ"
+        word:13, 
+        greek: "κἀκεῖ",
+        english: "there also",
+        strongs: "G2546",
+        grammar: "ADV"
     },
     {
         chapter: 1,
         verse: 38,
-        word:1, 
-        "greek": "εἰς",
-        "english": "I came out",
-        "strongs": "G1519",
-        "grammar": "PREP"
+        word:14,
+        greek: "γὰρ",
+        english: "because",
+        strongs: "G1063",
+        grammar: "CONJ"
     },
     {
         chapter: 1,
         verse: 38,
-        word:1, 
-        "greek": "τοῦτο",
-        "english": "for this reason",
-        "strongs": "G5124",
-        "grammar": "D-ASN"
-    }
+        word:15, 
+        greek: "εἰς",
+        english: "I came out",
+        strongs: "G1519",
+        grammar: "PREP"
+    },
+    {
+        chapter: 1,
+        verse: 38,
+        word:16, 
+        greek: "τοῦτο",
+        english: "for this reason",
+        strongs: "G5124",
+        grammar: "D-ASN"
+    },
 
     {
         chapter: 1,
         verse: 39,
         word:1,
-        "greek": "αὐτοῦ",
-        "english": "he",
-        "strongs": "G846",
-        "grammar": "PP-GSM"  
-    }
+        greek: "αὐτοῦ",
+        english: "he",
+        strongs: "G846",
+        grammar: "PP-GSM"  
+    },
     
     {
         chapter: 1,
         verse: 39,
-        word:1,
-        "greek": "προηγεν",
-        "english": "went",
-        "strongs": "G4291",
-        "grammar": "V-2AAI-3S"
-    }
+        word:2,
+        greek: "προηγεν",
+        english: "went",
+        strongs: "G4291",
+        grammar: "V-2AAI-3S"
+    },
     {
         chapter: 1,
         verse: 39,
-        word:1,
-        "greek": "εἰς",
-        "english": "into",
-        "strongs": "G1519",
-        "grammar": "Prep"
-    }
+        word:3,
+        greek: "εἰς",
+        english: "into",
+        strongs: "G1519",
+        grammar: "Prep"
+    },
     {
         chapter: 1,
         verse: 39,
-        word:1,
-        "greek": "αὐτῶν",
-        "english": "their",
-        "strongs": "G846",
-        "grammar": "P-GPM"
-    }
+        word:4,
+        greek: "αὐτῶν",
+        english: "their",
+        strongs: "G846",
+        grammar: "P-GPM"
+    },
     {
         chapter: 1,
         verse: 39,
-        word:1,
-        "greek": "συναγωγὰς",
-        "english": "synagogues",
-        "strongs": "G4864",
-        "grammar": "N-GPF"
-    }
+        word:5,
+        greek: "συναγωγὰς",
+        english: "synagogues",
+        strongs: "G4864",
+        grammar: "N-GPF"
+    },
     {
         chapter: 1,
         verse: 39,
-        word:1,
-        "greek": "ἐν",
-        "english": "throughout",
-        "strongs": "G1722",
-        "grammar": "Prep"
-    }
+        word:6,
+        greek: "ἐν",
+        english: "throughout",
+        strongs: "G1722",
+        grammar: "Prep"
+    },
     {
         chapter: 1,
         verse: 39,
-        word:1,
-        "greek": "ὅλῃ",
-        "english": "all",
-        "strongs": "G3650",
-        "grammar": "A-DSF"
-    }
+        word:7,
+        greek: "ὅλῃ",
+        english: "all",
+        strongs: "G3650",
+        grammar: "A-DSF"
+    },
     {
         chapter: 1,
         verse: 39,
-        word:1,
-        "greek": "τῇ",
-        "english": "Galilee",
-        "strongs": "G1056",
-        "grammar": "N-DSF"
-    }
+        word:8,
+        greek: "τῇ",
+        english: "Galilee",
+        strongs: "G1056",
+        grammar: "N-DSF"
+    },
     {
         chapter: 1,
         verse: 39,
-        word:1,
-        "greek": "κηρύσσων",
-        "english": "preaching",
-        "strongs": "G2784",
-        "grammar": "V-PAP-NSM"
-    }
+        word:9,
+        greek: "κηρύσσων",
+        english: "preaching",
+        strongs: "G2784",
+        grammar: "V-PAP-NSM"
+    },
     {
         chapter: 1,
         verse: 39,
-        word:1,
-        "greek": "καὶ",
-        "english": "and",
-        "strongs": "G2532",
-        "grammar": "Conj"
-    }
+        word:10,
+        greek: "καὶ",
+        english: "and",
+        strongs: "G2532",
+        grammar: "Conj"
+    },
     {
         chapter: 1,
         verse: 39,
-        word:1,
-        "greek": "ἐκβάλλων",
-        "english": "casting out",
-        "strongs": "G1544",
-        "grammar": "V-PAP-NSM"
-    }
+        word:11,
+        greek: "ἐκβάλλων",
+        english: "casting out",
+        strongs: "G1544",
+        grammar: "V-PAP-NSM"
+    },
     {
         chapter: 1,
         verse: 39,
-        word:1,
-        "greek": "δαιμόνια.",
-        "english": "demons.",
-        "strongs": "G1140",
-        "grammar": "N-ANP"
-    }
+        word:12,
+        greek: "δαιμόνια.",
+        english: "demons.",
+        strongs: "G1140",
+        grammar: "N-ANP"
+    },
     
     {
         chapter: 1,
         verse: 40,
         word:1,
-        "greek": "Λεπρὸς",
-        "english": "A leper",
-        "strongs": "G3015",
-        "grammar": "N-NSM"
-    }
+        greek: "Λεπρὸς",
+        english: "A leper",
+        strongs: "G3015",
+        grammar: "N-NSM"
+    },
     {
         chapter: 1,
         verse: 40,
-        word:1,
-        "greek": "προσῆλθεν",
-        "english": "came",
-        "strongs": "G4334",
-        "grammar": "V-2AAI-3S"
-    }
+        word:2,
+        greek: "προσῆλθεν",
+        english: "came",
+        strongs: "G4334",
+        grammar: "V-2AAI-3S"
+    },
     {
         chapter: 1,
         verse: 40,
-        word:1,
-        "greek": "αὐτῷ",
-        "english": "to him",
-        "strongs": "G846",
-        "grammar": "P-DSM"
-    }
+        word:3,
+        greek: "αὐτῷ",
+        english: "to him",
+        strongs: "G846",
+        grammar: "P-DSM"
+    },
     {
         chapter: 1,
         verse: 40,
-        word:1,
-        "greek": "παρακαλῶν",
-        "english": "begging",
-        "strongs": "G3870",
-        "grammar": "V-PAP-NSM"
-    }
+        word:4,
+        greek: "παρακαλῶν",
+        english: "begging",
+        strongs: "G3870",
+        grammar: "V-PAP-NSM"
+    },
     {
         chapter: 1,
         verse: 40,
-        word:1,
-        "greek": "αὐτὸν",
-        "english": "him",
-        "strongs": "G846",
-        "grammar": "P-ASM"
+        word:5,
+        greek: "αὐτὸν",
+        english: "him",
+        strongs: "G846",
+        grammar: "P-ASM"
     
-    }
+    },
 
     {
         chapter: 1,
         verse: 40,
-        word:1,
-        "greek": "καὶ",
-        "english": "kneeling down",
-        "strongs": "G1120",
-        "grammar": "V-PAP-NSM"
-    }
+        word:6,
+        greek: "καὶ",
+        english: "kneeling down",
+        strongs: "G1120",
+        grammar: "V-PAP-NSM"
+    },
     {
         chapter: 1,
         verse: 40,
-        word:1,
-        "greek": "εἰπὼν",
-        "english": "saying",
-        "strongs": "G3004",
-        "grammar": "V-2AAP-NSM"
-    }
+        word:7,
+        greek: "εἰπὼν",
+        english: "saying",
+        strongs: "G3004",
+        grammar: "V-2AAP-NSM"
+    },
     {
         chapter: 1,
         verse: 40,
-        word:1,
-        "greek": "αὐτῷ",
-        "english": "to him",
-        "strongs": "G846",
-        "grammar": "P-DSM"
-    }
+        word:8,
+        greek: "αὐτῷ",
+        english: "to him",
+        strongs: "G846",
+        grammar: "P-DSM"
+    },
     {
         chapter: 1,
         verse: 40,
-        word:1,
-        "greek": "ὅτι",
-        "english": "If",
-        "strongs": "G3752",
-        "grammar": "Conj"
-    }
+        word:9,
+        greek: "ὅτι",
+        english: "If",
+        strongs: "G3752",
+        grammar: "Conj"
+    },
     {
         chapter: 1,
         verse: 40,
-        word:1,
-        "greek": "θέλεις,",
-        "english": "you want",
-        "strongs": "G2309",
-        "grammar": "V-PAI-2S"
+        word:10,
+        greek: "θέλεις,",
+        english: "you want",
+        strongs: "G2309",
+        grammar: "V-PAI-2S"
     
     
-    }
+    },
 
     {
         chapter: 1,
         verse: 40,
-        word:1,
-        "greek": "ὁ",
-        "english": "You",
-        "strongs": "G4771",
-        "grammar": "P-2NS"
-    }
+        word:11,
+        greek: "ὁ",
+        english: "You",
+        strongs: "G4771",
+        grammar: "P-2NS"
+    },
     {
         chapter: 1,
         verse: 40,
-        word:1,
-        "greek": "δύνασαι",
-        "english": "can",
-        "strongs": "G1410",
-        "grammar": "V-PNI-2S"
-    }
+        word:12,
+        greek: "δύνασαι",
+        english: "can",
+        strongs: "G1410",
+        grammar: "V-PNI-2S"
+    },
     {
         chapter: 1,
         verse: 40,
-        word:1,
-        "greek": "καθαρίσαι",
-        "english": "cleanse",
-        "strongs": "G2511",
-        "grammar": "V-AAN"
-    }
+        word:13,
+        greek: "καθαρίσαι",
+        english: "cleanse",
+        strongs: "G2511",
+        grammar: "V-AAN"
+    },
+
     {
         chapter: 1,
         verse: 40,
-        word:1,
-        "greek": "με.",
-        "english": "me.",
-        "strongs": "G3165",
-        "grammar": "P-1AS"
-    }
+        word:14,
+        greek: "με.",
+        english: "me.",
+        strongs: "G3165",
+        grammar: "P-1AS"
+    },
 
 
     {
         chapter: 1,
         verse: 41,
         word:1,
-        "greek": "σπλαγχνισθεὶς",
-        "english": "Being moved with compassion,",
-        "strongs": "G4697",
-        "grammar": "V-ADP-NMS"
-    }
+        greek: "σπλαγχνισθεὶς",
+        english: "Being moved with compassion,",
+        strongs: "G4697",
+        grammar: "V-ADP-NMS"
+    },
+
     {
         chapter: 1,
         verse: 41,
-        word:1,
-        "greek": "ἐκτείνας",
-        "english": "he stretched out",
-        "strongs": "G1614",
-        "grammar": "V-AAP-NSM"
-    }
+        word:2,
+        greek: "ἐκτείνας",
+        english: "he stretched out",
+        strongs: "G1614",
+        grammar: "V-AAP-NSM"
+    },
+
     {
         chapter: 1,
         verse: 41,
-        word:1,
-        "greek": "τὴν",
-        "english": "his",
-        "strongs": "G3588",
-        "grammar": "T-ASF"
-    }
+        word:3,
+        greek: "τὴν",
+        english: "his",
+        strongs: "G3588",
+        grammar: "T-ASF"
+    },
+
     {
         chapter: 1,
         verse: 41,
-        word:1,
-        "greek": "χεῖρα",
-        "english": "hand,",
-        "strongs": "G5495",
-        "grammar": "N-ASF"
-    }
+        word:4,
+        greek: "χεῖρα",
+        english: "hand,",
+        strongs: "G5495",
+        grammar: "N-ASF"
+    },
+
     {
         chapter: 1,
         verse: 41,
-        word:1,
-        "greek": "ἥψατο",
-        "english": "and touched",
-        "strongs": "G680",
-        "grammar": "V-AAI-3S"
+        word:5,
+        greek: "ἥψατο",
+        english: "and touched",
+        strongs: "G680",
+        grammar: "V-AAI-3S"
         
         
-    }
+    },
     
     {
         chapter: 1,
         verse: 41,
-        word:1,
-        "greek": "αὐτοῦ,",
-        "english": "him,",
-        "strongs": "G846",
-        "grammar": "P-GSM"
-    }
+        word:6,
+        greek: "αὐτοῦ,",
+        english: "him,",
+        strongs: "G846",
+        grammar: "P-GSM"
+    },
 
     {
         chapter: 1,
         verse: 41,
-        word:1,
-        "greek": "καὶ",
-        "english": "and",
-        "strongs": "G2532",
-        "grammar": "CONJ"
-    }
+        word:7,
+        greek: "καὶ",
+        english: "and",
+        strongs: "G2532",
+        grammar: "CONJ"
+    },
     {
         chapter: 1,
         verse: 41,
-        word:1,
-        "greek": "εἶπεν",
-        "english": "said",
-        "strongs": "G3004",
-        "grammar": "V-AAI-3S"
-    }
+        word:8,
+        greek: "εἶπεν",
+        english: "said",
+        strongs: "G3004",
+        grammar: "V-AAI-3S"
+    },
     {
         chapter: 1,
         verse: 41,
-        word:1,
-        "greek": "αὐτῷ,",
-        "english": "to him,",
-        "strongs": "G846",
-        "grammar": "P-DSM"
-    }
+        word:9,
+        greek: "αὐτῷ,",
+        english: "to him,",
+        strongs: "G846",
+        grammar: "P-DSM"
+    },
     {
         chapter: 1,
         verse: 41,
-        word:1,
-        "greek": "θέλω·",
-        "english": "I want to.",
-        "strongs": "G2309",
-        "grammar": "V-PAI-1S"
-    }
+        word:10,
+        greek: "θέλω·",
+        english: "I want to.",
+        strongs: "G2309",
+        grammar: "V-PAI-1S"
+    },
     {
         chapter: 1,
         verse: 41,
-        word:1,
-        "greek": "καθαρίσθητι.",
-        "english": "Be made clean.",
-        "strongs": "G2511",
-        "grammar": "V-APM-2S"
-    }
+        word:11,
+        greek: "καθαρίσθητι.",
+        english: "Be made clean.",
+        strongs: "G2511",
+        grammar: "V-APM-2S"
+    },
 
     {
         chapter: 1,
         verse: 42,
         word:1,
-        "greek": "Καὶ",
-        "english": "When",
-        "strongs": "G2532",
-        "grammar": "CONJ"
-    }
+        greek: "Καὶ",
+        english: "When",
+        strongs: "G2532",
+        grammar: "CONJ"
+    },
     {
         chapter: 1,
         verse: 42,
-        word:1,
-        "greek": "εἰπόντος",
-        "english": "he had said",
-        "strongs": "G2036",
-        "grammar": "V-AAP-GSM"
-    }
+        word:2,
+        greek: "εἰπόντος",
+        english: "he had said",
+        strongs: "G2036",
+        grammar: "V-AAP-GSM"
+    },
     {
         chapter: 1,
         verse: 42,
-        word:1,
-        "greek": "αὐτῷ",
-        "english": "this,",
-        "strongs": "G846",
-        "grammar": "P-DSM"
-    }
+        word:3,
+        greek: "αὐτῷ",
+        english: "this,",
+        strongs: "G846",
+        grammar: "P-DSM"
+    },
     {
         chapter: 1,
         verse: 42,
-        word:1,
-        "greek": "εὐθέως",
-        "english": "immediately",
-        "strongs": "G2112",
-        "grammar": "ADV"
+        word:4,
+        greek: "εὐθέως",
+        english: "immediately",
+        strongs: "G2112",
+        grammar: "ADV"
 
-    }
-
-    {
-        chapter: 1,
-        verse: 42,
-        word:1,
-        "greek": "τὰς",
-        "english": "the",
-        "strongs": "G3588",
-        "grammar": "T-APF"
-    }
+    },
 
     {
         chapter: 1,
         verse: 42,
-        word:1,
-        "greek": "λέπρα,",
-        "english": "leprosy",
-        "strongs": "G3015",
-        "grammar": "N-NSF"
-    }
+        word:5,
+        greek: "τὰς",
+        english: "the",
+        strongs: "G3588",
+        grammar: "T-APF"
+    },
 
     {
         chapter: 1,
         verse: 42,
-        word:1,
-        "greek": "ἀπῆλθεν",
-        "english": "departed",
-        "strongs": "G565",
-        "grammar": "V-2AAI-3S"
-    }
+        word:6,
+        greek: "λέπρα,",
+        english: "leprosy",
+        strongs: "G3015",
+        grammar: "N-NSF"
+    },
 
     {
         chapter: 1,
         verse: 42,
-        word:1,
-        "greek": "ἀπ'",
-        "english": "from",
-        "strongs": "G575",
-        "grammar": "PREP"
-    }
+        word:7,
+        greek: "ἀπῆλθεν",
+        english: "departed",
+        strongs: "G565",
+        grammar: "V-2AAI-3S"
+    },
 
     {
         chapter: 1,
         verse: 42,
-        word:1,
-        "greek": "αὐτοῦ",
-        "english": "him",
-        "strongs": "G846",
-        "grammar": "P-GSM"
-    }
+        word:8,
+        greek: "ἀπ'",
+        english: "from",
+        strongs: "G575",
+        grammar: "PREP"
+    },
 
     {
         chapter: 1,
         verse: 42,
-        word:1,
-        "greek": "καθαρίσθη,",
-        "english": "and",
-        "strongs": "G2511",
-        "grammar": "V-APP-NSM"
-    }
+        word:9,
+        greek: "αὐτοῦ",
+        english: "him",
+        strongs: "G846",
+        grammar: "P-GSM"
+    },
+
     {
         chapter: 1,
         verse: 42,
-        word:1,
+        word:10,
+        greek: "καθαρίσθη,",
+        english: "and",
+        strongs: "G2511",
+        grammar: "V-APP-NSM"
+    },
+    {
+        chapter: 1,
+        verse: 42,
+        word:11,
         greek: "καὶ",
         english: "he",
         strongs: "G2532",
@@ -5378,7 +5498,7 @@ export default [
     {
         chapter: 1,
         verse: 42,
-        word:1,
+        word:12,
         greek: "ἐκαθαρίσθη.",
         english: "was made clean.",
         strongs: "G2511",
@@ -5442,3 +5562,509 @@ export default [
         strongs: "G1544",
         grammar: "V-AAI-3S"
     },
+
+    {
+        chapter: 1,
+        verse: 44,
+        word:1,
+        "greek": "καὶ",
+        "english": "and",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+
+    {
+        chapter: 1,
+        verse: 44,
+        word:2,
+        "greek": "λέγειν",
+        "english": "said",
+        "strongs": "G3004",
+        "grammar": "V-PAN"
+    },
+
+    {
+        chapter: 1,
+        verse: 44,
+        word:3,
+        "greek": "αὐτῷ",
+        "english": "to him,",
+        "strongs": "G846",
+        "grammar": "P-DSM"
+    },
+
+    {
+        chapter: 1,
+        verse: 44,
+        word:4,
+        "greek": "Ὅρα",
+        "english": "See",
+        "strongs": "G3708",
+        "grammar": "V-PAM-2S"
+    },
+
+    {
+        chapter: 1,
+        verse: 44,
+        word:5,
+        "greek": "μηδενὶ",
+        "english": "that you say",
+        "strongs": "G3367",
+        "grammar": "ADV"
+    },
+
+    {
+        chapter: 1,
+        verse: 44,
+        word:6,
+        "greek": "μηδὲν",
+        "english": "nothing",
+        "strongs": "G3367",
+        "grammar": "ADV"
+    },
+
+
+    {
+        chapter: 1,
+        verse: 44,
+        word:7,
+        "greek": "εἴπῃς,",
+        "english": "to anybody,",
+        "strongs": "G2036",
+        "grammar": "V-2AAS-2S"
+    },
+
+    {
+        chapter: 1,
+        verse: 44,
+        word:8,
+        "greek": "ἀλλὰ",
+        "english": "but",
+        "strongs": "G235",
+        "grammar": "CONJ"
+    },
+
+    {
+        chapter: 1,
+        verse: 44,
+        word:9,
+        "greek": "ὕπαγε,",
+        "english": "go",
+        "strongs": "G5217",
+        "grammar": "V-PAM-2S"
+    },
+
+    {
+        chapter: 1,
+        verse: 44,
+        word:10,
+        "greek": "δεῖξον",
+        "english": "show yourself",
+        "strongs": "G1166",
+        "grammar": "V-AAM-2S"
+    },
+
+
+    {
+        chapter: 1,
+        verse: 44,
+        word:11,
+        "greek": "σεαυτὸν",
+        "english": "to the priest",
+        "strongs": "G4572",
+        "grammar": "F-2ASM"
+    },
+
+
+    {
+        chapter: 1,
+        verse: 44,
+        word:12,
+        "greek": "καὶ",
+        "english": "and",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+
+
+    {
+        chapter: 1,
+        verse: 44,
+        word:13,
+        "greek": "προσένεγκε",
+        "english": "offer",
+        "strongs": "G4374",
+    },
+
+
+    {
+        chapter: 1,
+        verse: 44,
+        word:14,
+        "greek": "περὶ",
+        "english": "for",
+        "strongs": "G4012",
+        "grammar": "PREP"
+    },
+
+    {
+        chapter: 1,
+        verse: 44,
+        word:15,
+        "greek": "τοῦ",
+        "english": "your cleansing",
+        "strongs": "G3588",
+        "grammar": "T-GSN"
+    },
+
+
+    {
+        chapter: 1,
+        verse: 44,
+        word:16,
+        "greek": "καθαρισμοῦ",
+        "english": "the things",
+        "strongs": "G2512",
+        "grammar": "N-GSN"
+    },
+
+
+    {
+        chapter: 1,
+        verse: 44,
+        word:17,
+        "greek": "ἃ",
+        "english": "which",
+        "strongs": "G3739",
+        "grammar": "R-APN"
+    },
+
+    {
+        chapter: 1,
+        verse: 44,
+        word:18,
+        "greek": "προσέταξεν",
+        "english": "Moses",
+        "strongs": "G4367",
+        "grammar": "V-AAI-3S"
+    },
+
+
+    {
+        chapter: 1,
+        verse: 44,
+        word:19,
+        "greek": "Μωϋσῆς,",
+        "english": "commanded,",
+        "strongs": "G3475",
+        "grammar": "N-DSM"
+    },
+
+
+    {
+        chapter: 1,
+        verse: 44,
+        word:20,
+        "greek": "εἰς",
+        "english": "for",
+        "strongs": "G1519",
+        "grammar": "PREP"
+    },
+
+
+    {
+        chapter: 1,
+        verse: 44,
+        word:21,
+        "greek": "μαρτύριον",
+        "english": "a testimony",
+        "strongs": "G3142",
+        "grammar": "N-ASN"
+    },
+
+    {
+        chapter: 1,
+        verse: 44,
+        word:22,
+        greek: "αὐτοῖς.",
+        english: "to them.",
+        strongs: "G846",
+        grammar: "P-DPM"
+    },
+
+    {
+        chapter: 1,
+        verse: 45,
+        word:1,
+        "greek": "ὁ",
+        "english": "But",
+        "strongs": "G3588",
+        "grammar": "T-NSM"
+    },
+
+
+    {
+        chapter: 1,
+        verse: 45,
+        word:2,
+        greek: "δὲ",
+        english: "he",
+        strongs: "G1161",
+        grammar: "CONJ"
+    },
+
+    {
+        chapter: 1,
+        verse: 45,
+        word:3,
+        greek: "ἐξελθὼν",
+        english: "went out,",
+        strongs: "G1831",
+        grammar: "V-2AAP-NSM"
+    },
+
+
+    {
+        chapter: 1,
+        verse: 45,
+        word:4,
+        greek: "ἤρξατο",
+        english: "and began",
+        strongs: "G756",
+        grammar: "V-ADI-3S"
+    },
+
+
+    {
+        chapter: 1,
+        verse: 45,
+        word:5,
+        greek: "κηρύσσειν",
+        english: "to proclaim",
+        strongs: "G2784",
+        grammar: "V-PAN"
+    },
+
+    {
+        chapter: 1,
+        verse: 45,
+        word:6,
+        greek: "πολλὰ",
+        english: "it much,",
+        strongs: "G4183",
+        grammar: "A-APN"
+    },
+
+
+    {
+        chapter: 1,
+        verse: 45,
+        word:7,
+        greek: "καὶ",
+        english: "and",
+        strongs: "G2532",
+        grammar: "CONJ"
+    },
+
+    {
+        chapter: 1,
+        verse: 45,
+        word:8,
+        greek: "διαφημίζειν",
+        english: "to spread about",
+        strongs: "G1310",
+        grammar: "V-PAN"
+    },
+
+
+    {
+        chapter: 1,
+        verse: 45,
+        word:9,
+        greek: "τὸν",
+        english: "the matter,",
+        strongs: "G3588",
+        grammar: "T-ASM"
+    },
+
+
+    {
+        chapter: 1,
+        verse: 45,
+        word:10,
+        greek: "λόγον,",
+        english: "so that",
+        strongs: "G3056",
+        grammar: "N-ASM"
+    },
+    
+    {
+        chapter: 1,
+        verse: 45,
+        word:11,
+        greek: "μηκέτι",
+        english: "Jesus",
+        strongs: "G3371",
+        grammar: "ADV"
+    },
+
+
+    {
+        chapter: 1,
+        verse: 45,
+        word:12,
+        greek: "δύναται",
+        english: "could",
+        strongs: "G1410",
+        grammar: "V-PNI-3S"
+    },
+
+
+    {
+        chapter: 1,
+        verse: 45,
+        word:13,
+        greek: "φανερῶς",
+        english: "no more",
+        strongs: "G5318",
+        grammar: "ADV"
+    },
+
+    {
+        chapter: 1,
+        verse: 45,
+        word:14,
+        greek: "εἰς",
+        english: "openly",
+        strongs: "G1519",
+        grammar: "PREP"
+    },
+
+    {
+        chapter: 1,
+        verse: 45,
+        word:15,
+        greek: "πόλιν",
+        english: "enter",
+        strongs: "G4171",
+        grammar: "N-ASF"
+    },
+
+    {
+        chapter: 1,
+        verse: 45,
+        word:16,
+        greek: "ἀλλ᾽",
+        english: "into",
+        strongs: "G235",
+        grammar: "CONJ"
+    },
+
+    {
+        chapter: 1,
+        verse: 45,
+        word:17,
+        greek: "ἦν",
+        english: "a city,",
+        strongs: "G2258",
+        grammar: "V-IXI-3S"
+    },
+
+    {
+        chapter: 1,
+        verse: 45,
+        word:18,
+        greek: "ἔξω",
+        english: "but",
+        strongs: "G1854",
+        grammar: "ADV"
+    },
+
+    {
+        chapter: 1,
+        verse: 45,
+        word:19,
+        greek: "ἐν",
+        english: "was",
+        strongs: "G1722",
+        grammar: "PREP"
+    },
+
+    {
+        chapter: 1,
+        verse: 45,
+        word:20,
+        greek: "ἐρήμοις",
+        english: "outside",
+        strongs: "G2048",
+        grammar: "A-DPF"
+    },
+
+    {
+        chapter: 1,
+        verse: 45,
+        word:21,
+        greek: "τόποις.",
+        english: "in desert",
+        strongs: "G5117",
+        grammar: "N-DPF"
+    },
+
+    {
+        chapter: 1,
+        verse: 45,
+        word:22,
+        greek: "καὶ",
+        english: "places.",
+        strongs: "G2532",
+        grammar: "CONJ"
+    },
+
+    {
+        chapter: 1,
+        verse: 45,
+        word:23,
+        greek: "ἦρχοντο",
+        english: "People",
+        strongs: "G2064",
+        grammar: "V-INI-3P"
+    },
+
+    {
+        chapter: 1,
+        verse: 45,
+        word:24,
+        greek: "πρὸς",
+        english: "came",
+        strongs: "G4314",
+        grammar: "PREP"
+    },
+
+    {
+        chapter: 1,
+        verse: 45,
+        word:25,
+        greek: "αὐτόν",
+        english: "to him",
+        strongs: "G846",
+        grammar: "P-ASM"
+    },
+
+    {
+        chapter: 1,
+        verse: 45,
+        word:26,
+        greek: "πανταχοῦ.",
+        english: "from everywhere.",
+        strongs: "G3840",
+        grammar: "ADV"
+    },
+    
+    
+]
+    
+    
+    
+    
+    
+    
