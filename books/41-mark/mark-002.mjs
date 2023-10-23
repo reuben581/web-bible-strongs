@@ -5217,7 +5217,8 @@ export default [
     greek: "καὶ",
     english: "even",
     strongs: "G2532",
-    grammar: "CONJ"
+    grammar: "CONJ",
+    christ: true
   },
 
   {

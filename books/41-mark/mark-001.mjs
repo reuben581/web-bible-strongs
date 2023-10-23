@@ -156,7 +156,7 @@ export default [
         word:9,
         greek: 'τὸν',
         english: 'my',
-        trongs: 'G3588',
+        strongs: 'G3588',
         grammar: 'T-ASM',
     },
 
