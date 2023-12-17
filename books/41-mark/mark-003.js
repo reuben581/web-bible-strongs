@@ -1,4 +1,4 @@
-export default [
+module.exports = [
 {
   chapter: 3,
   verse: 1,

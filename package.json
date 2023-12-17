@@ -1,0 +1,11 @@
+{
+  "name": "mark",
+  "versoin": "0.1.0",
+  "main": "mark.js",
+  "bin": {
+    "mark": "mark.js"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}

@@ -1,11 +1,11 @@
-export default [
+module.exports = [
 {
-  chapter: 7,
+  chapter: 5,
   verse: 1,
   word: 1,
 },
 {
-  chapter: 7,
+  chapter: 5,
   verse: 1,
   word: 2,
 }

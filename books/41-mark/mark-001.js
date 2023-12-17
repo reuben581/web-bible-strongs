@@ -1,4 +1,4 @@
-export default [
+module.exports = [
     {
         chapter: 1,
         verse: 1,
@@ -35,6 +35,7 @@ export default [
         english: 'of Jesus',
         strongs: '2424',
         grammar: 'N-GSM',
+        christ: true
     },
 
 
