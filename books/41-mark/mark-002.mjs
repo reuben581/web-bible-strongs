@@ -1,4 +1,4 @@
-module.exports = [
+export default [
  {  chapter: 2,
     verse: 1,
     word: 1,
@@ -816,6 +816,7 @@ module.exports = [
 },
 
 {
+    christ: "true",
     chapter: 2,
     verse: 5,
     word: 8,
@@ -825,7 +826,8 @@ module.exports = [
     grammar: "N-VNS"
 },
 
-{
+{   
+    christ: "true",
     chapter: 2,
     verse: 5,
     word: 9,
@@ -836,6 +838,8 @@ module.exports = [
 },
 
 {
+
+    christ: "true",
     chapter: 2,
     verse: 5,
     word:10 ,
@@ -846,6 +850,8 @@ module.exports = [
 },
 
 {
+
+    christ: "true",
     chapter: 2,
     verse: 5,
     word: 11,
@@ -856,6 +862,7 @@ module.exports = [
 },
 
 {
+    christ: "true",
     chapter: 2,
     verse: 5,
     word:12 ,
@@ -1226,6 +1233,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 8,
     word:14 , 
@@ -1236,6 +1244,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 8,
     word: 15, 
@@ -1246,6 +1255,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 8,
     word: 16, 
@@ -1256,6 +1266,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 8,
     word:17 , 
@@ -1266,6 +1277,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 8,
     word: 18, 
@@ -1276,6 +1288,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 8,
     word:19 , 
@@ -1286,6 +1299,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 8,
     word: 20, 
@@ -1296,6 +1310,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 8,
     word:21 , 
@@ -1306,6 +1321,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 9,
     word: 1, 
@@ -1316,6 +1332,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 9,
     word:2 , 
@@ -1326,6 +1343,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 9,
     word: 3, 
@@ -1336,6 +1354,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 9,
     word: 4, 
@@ -1346,6 +1365,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 9,
     word: 5, 
@@ -1356,6 +1376,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 9,
     word:6 , 
@@ -1366,6 +1387,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 9,
     word:7 , 
@@ -1376,6 +1398,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 9,
     word: 8, 
@@ -1386,6 +1409,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 9,
     word: 9, 
@@ -1396,6 +1420,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 9,
     word:10 , 
@@ -1406,6 +1431,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 9,
     word:11 , 
@@ -1416,6 +1442,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 9,
     word:12 , 
@@ -1426,6 +1453,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 9,
     word: 13, 
@@ -1436,6 +1464,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 9,
     word: 14, 
@@ -1446,6 +1475,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 9,
     word:15 , 
@@ -1456,6 +1486,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 9,
     word: 16, 
@@ -1466,6 +1497,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 10,
     word: 1, 
@@ -1476,6 +1508,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 10,
     word:2 ,
@@ -1486,6 +1519,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 10,
     word:3 ,
@@ -1496,6 +1530,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 10,
     word:4 ,
@@ -1506,6 +1541,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 10,
     word:5 ,
@@ -1516,6 +1552,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 10,
     word:6 ,
@@ -1526,6 +1563,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 10,
     word: 7,
@@ -1537,6 +1575,7 @@ module.exports = [
 
 
 {
+  christ: "true",
     chapter: 2,
     verse: 10,
     word: 8,
@@ -1547,6 +1586,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 10,
     word:9 ,
@@ -1557,6 +1597,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 10,
     word:10 ,
@@ -1567,6 +1608,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 10,
     word: 11,
@@ -1577,6 +1619,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 10,
     word:12 ,
@@ -1587,6 +1630,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 10,
     word:13 ,
@@ -1597,6 +1641,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 10,
     word: 14,
@@ -1637,6 +1682,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 11,
     word: 1, 
@@ -1647,6 +1693,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 11,
     word:2 , 
@@ -1657,6 +1704,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 11,
     word: 3, 
@@ -1667,6 +1715,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 11,
     word: 4, 
@@ -1677,6 +1726,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 11,
     word:5 , 
@@ -1687,6 +1737,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 11,
     word: 6, 
@@ -1697,6 +1748,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 11,
     word: 7, 
@@ -1707,6 +1759,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 11,
     word:8 , 
@@ -1717,6 +1770,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 11,
     word: 9, 
@@ -1727,6 +1781,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 11,
     word: 10, 
@@ -1737,6 +1792,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 11,
     word:11 , 
@@ -2318,6 +2374,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 14,
     word: 20,
@@ -2328,6 +2385,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 14,
     word: 21,
@@ -3089,6 +3147,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 17,
     word: 9,
@@ -3099,6 +3158,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 17,
     word:10 ,
@@ -3109,6 +3169,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 17,
     word:11 ,
@@ -3119,6 +3180,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 17,
     word:12 ,
@@ -3129,6 +3191,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 17,
     word:13 ,
@@ -3139,6 +3202,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 17,
     word: 14,
@@ -3149,6 +3213,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 17,
     word:15 ,
@@ -3159,6 +3224,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 17,
     word:16 ,
@@ -3169,6 +3235,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 17,
     word:17 ,
@@ -3179,6 +3246,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 17,
     word: 18,
@@ -3189,6 +3257,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 17,
     word: 19,
@@ -3199,6 +3268,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 17,
     word:20 ,
@@ -3209,6 +3279,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 17,
     word: 21,
@@ -3219,6 +3290,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 17,
     word: 22,
@@ -3229,6 +3301,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 17,
     word: 23,
@@ -3239,6 +3312,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 17,
     word: 24,
@@ -3249,6 +3323,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 17,
     word: 26,
@@ -3259,6 +3334,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 17,
     word: 27,
@@ -3269,6 +3345,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 17,
     word: 28,
@@ -3279,6 +3356,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 17,
     word: 29,
@@ -3289,6 +3367,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 17,
     word:30 ,
@@ -3299,6 +3378,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
     chapter: 2,
     verse: 17,
     word: 31,
@@ -3596,6 +3676,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 19,
     word: 3,
@@ -3606,6 +3687,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 19,
     word: 4,
@@ -3616,6 +3698,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 19,
     word: 5,
@@ -3627,6 +3710,7 @@ module.exports = [
 
 
   {
+    christ: "true",
     chapter: 2,
     verse: 19,
     word:6 ,
@@ -3638,6 +3722,7 @@ module.exports = [
 
 
   {
+    christ: "true",
     chapter: 2,
     verse: 19,
     word: 7,
@@ -3649,6 +3734,7 @@ module.exports = [
 
 
   {
+    christ: "true",
     chapter: 2,
     verse: 19,
     word:8 ,
@@ -3660,6 +3746,7 @@ module.exports = [
 
 
   {
+    christ: "true",
     chapter: 2,
     verse: 19,
     word:9 ,
@@ -3670,6 +3757,7 @@ module.exports = [
   },
   
   {
+    christ: "true",
     chapter: 2,
     verse: 19,
     word: 10,
@@ -3680,6 +3768,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 19,
     word: 11,
@@ -3691,6 +3780,7 @@ module.exports = [
 
 
   {
+    christ: "true",
     chapter: 2,
     verse: 19,
     word: 12,
@@ -3702,6 +3792,7 @@ module.exports = [
 
 
   {
+    christ: "true",
     chapter: 2,
     verse: 19,
     word:13 ,
@@ -3712,6 +3803,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 19,
     word: 14,
@@ -3722,6 +3814,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 19,
     word: 15,
@@ -3732,6 +3825,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 19,
     word: 16,
@@ -3742,6 +3836,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 19,
     word:17 ,
@@ -3752,6 +3847,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 19,
     word: 18,
@@ -3762,6 +3858,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 19,
     word:19 ,
@@ -3772,6 +3869,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 20,
     word: 1,
@@ -3782,6 +3880,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 20,
     word:2 ,
@@ -3792,6 +3891,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 20,
     word: 3,
@@ -3803,6 +3903,7 @@ module.exports = [
 
 
   {
+    christ: "true",
     chapter: 2,
     verse: 20,
     word: 4,
@@ -3813,6 +3914,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 20,
     word: 5,
@@ -3824,6 +3926,7 @@ module.exports = [
 
 
   {
+    christ: "true",
     chapter: 2,
     verse: 20,
     word: 6,
@@ -3834,6 +3937,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 20,
     word:7 ,
@@ -3845,6 +3949,7 @@ module.exports = [
 
 
   {
+    christ: "true",
     chapter: 2,
     verse: 20,
     word: 8,
@@ -3856,6 +3961,7 @@ module.exports = [
 
 
   {
+    christ: "true",
     chapter: 2,
     verse: 20,
     word: 9,
@@ -3867,6 +3973,7 @@ module.exports = [
 
 
   {
+    christ: "true",
     chapter: 2,
     verse: 20,
     word: 10,
@@ -3877,6 +3984,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 20,
     word:11 ,
@@ -3887,6 +3995,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 20,
     word:12 ,
@@ -3897,6 +4006,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 20,
     word: 13,
@@ -3907,6 +4017,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 21,
     word: 1,
@@ -3917,6 +4028,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 21,
     word:2 ,
@@ -3927,6 +4039,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 21,
     word:3,
@@ -3937,6 +4050,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 21,
     word:4,
@@ -3947,6 +4061,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 21,
     word:5,
@@ -3957,6 +4072,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 21,
     word:6,
@@ -3967,6 +4083,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 21,
     word:7,
@@ -3977,6 +4094,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 21,
     word:8,
@@ -3987,6 +4105,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 21,
     word:9,
@@ -3997,6 +4116,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 21,
     word:10,
@@ -4007,6 +4127,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 21,
     word:11,
@@ -4017,6 +4138,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 21,
     word:12,
@@ -4027,6 +4149,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 21,
     word:13,
@@ -4037,6 +4160,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 21,
     word:14,
@@ -4047,6 +4171,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 21,
     word:15,
@@ -4057,6 +4182,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 21,
     word:16,
@@ -4067,6 +4193,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 21,
     word:17,
@@ -4077,6 +4204,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 21,
     word:18,
@@ -4087,6 +4215,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 21,
     word:19,
@@ -4097,6 +4226,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 21,
     word:20,
@@ -4107,6 +4237,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 21,
     word:21,
@@ -4116,6 +4247,7 @@ module.exports = [
     grammar: "V-PNI-3S"
   },
   {
+    christ: "true",
     chapter: 2,
     verse: 22,
     word: 1,
@@ -4126,6 +4258,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     
     chapter: 2,
     verse: 22,
@@ -4137,6 +4270,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 22,
     word: 3,
@@ -4147,6 +4281,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 22,
     word:4 ,
@@ -4157,6 +4292,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 22,
     word:5 ,
@@ -4167,6 +4303,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 22,
     word:6 ,
@@ -4177,6 +4314,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 22,
     word:7 ,
@@ -4187,6 +4325,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 22,
     word: 8,
@@ -4198,6 +4337,7 @@ module.exports = [
 
 
   {
+    christ: "true",
     chapter: 2,
     verse: 22,
     word: 9,
@@ -4209,6 +4349,7 @@ module.exports = [
 
 
   {
+    christ: "true",
     chapter: 2,
     verse: 22,
     word: 10,
@@ -4220,6 +4361,7 @@ module.exports = [
 
 
   {
+    christ: "true",
     chapter: 2,
     verse: 22,
     word:11 ,
@@ -4231,6 +4373,7 @@ module.exports = [
 
 
   {
+    christ: "true",
     chapter: 2,
     verse: 22,
     word:12 ,
@@ -4242,6 +4385,7 @@ module.exports = [
 
 
   {
+    christ: "true",
     chapter: 2,
     verse: 22,
     word:13 ,
@@ -4252,6 +4396,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 22,
     word: 14,
@@ -4263,6 +4408,7 @@ module.exports = [
 
 
   {
+    christ: "true",
     chapter: 2,
     verse: 22,
     word:15 ,
@@ -4273,6 +4419,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 22,
     word:16 ,
@@ -4283,6 +4430,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 22,
     word:17 ,
@@ -4293,6 +4441,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 22,
     word:18 ,
@@ -4303,6 +4452,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 22,
     word: 19,
@@ -4313,6 +4463,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 22,
     word:20 ,
@@ -4323,6 +4474,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 22,
     word:21 ,
@@ -4333,6 +4485,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 22,
     word: 22,
@@ -4343,6 +4496,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 22,
     word: 23,
@@ -4355,6 +4509,7 @@ module.exports = [
 
 
   {
+    christ: "true",
     chapter: 2,
     verse: 22,
     word:24 ,
@@ -4366,6 +4521,7 @@ module.exports = [
 
 
   {
+    christ: "true",
     chapter: 2,
     verse: 22,
     word:25 ,
@@ -4377,6 +4533,7 @@ module.exports = [
 
 
   {
+    christ: "true",
     chapter: 2,
     verse: 22,
     word: 26,
@@ -4388,6 +4545,7 @@ module.exports = [
 
 
   {
+    christ: "true",
     chapter: 2,
     verse: 22,
     word:27 ,
@@ -4399,6 +4557,7 @@ module.exports = [
 
 
   {
+    christ: "true",
     chapter: 2,
     verse: 22,
     word: 28,
@@ -4696,6 +4855,7 @@ module.exports = [
 
 
   {
+    christ: "true",
     chapter: 2,
     verse: 25,
     word:3 ,
@@ -4706,6 +4866,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 25,
     word:4 ,
@@ -4716,6 +4877,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 25,
     word: 5,
@@ -4726,6 +4888,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 25,
     word: 6,
@@ -4737,6 +4900,7 @@ module.exports = [
 
 
   {
+    christ: "true",
     chapter: 2,
     verse: 25,
     word: 7,
@@ -4747,6 +4911,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 25,
     word: 8,
@@ -4757,6 +4922,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 25,
     word:9 ,
@@ -4768,6 +4934,7 @@ module.exports = [
 
 
   {
+    christ: "true",
     chapter: 2,
     verse: 25,
     word:10 ,
@@ -4778,6 +4945,7 @@ module.exports = [
   },
   
   {
+    christ: "true",
     chapter: 2,
     verse: 25,
     word: 11,
@@ -4788,6 +4956,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 25,
     word:12 ,
@@ -4798,6 +4967,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 25,
     word:13 ,
@@ -4809,6 +4979,7 @@ module.exports = [
 
 
   {
+    christ: "true",
     chapter: 2,
     verse: 25,
     word:14 ,
@@ -4820,6 +4991,7 @@ module.exports = [
 
 
   {
+    christ: "true",
     chapter: 2,
     verse: 25,
     word: 15,
@@ -4830,6 +5002,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 25,
     word:16 ,
@@ -4840,6 +5013,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 25,
     word: 17,
@@ -4851,6 +5025,7 @@ module.exports = [
 
 
   {
+    christ: "true",
 
     chapter: 2,
     verse: 26,
@@ -4861,6 +5036,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 26,
     word: 2,
@@ -4871,6 +5047,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 26,
     word: 3,
@@ -4881,6 +5058,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 26,
     word: 4,
@@ -4891,6 +5069,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 26,
     word:5 ,
@@ -4901,6 +5080,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 26,
     word: 6,
@@ -4911,6 +5091,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 26,
     word:7 ,
@@ -4921,6 +5102,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 26,
     word: 8,
@@ -4931,6 +5113,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 26,
     word: 9,
@@ -4941,6 +5124,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 26,
     word:10 ,
@@ -4951,6 +5135,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 26,
     word: 11,
@@ -4961,6 +5146,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 26,
     word:12 ,
@@ -4971,6 +5157,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 26,
     word:13 ,
@@ -4981,6 +5168,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 26,
     word: 14,
@@ -4991,6 +5179,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 26,
     word: 15,
@@ -5001,6 +5190,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 26,
     word: 16,
@@ -5011,6 +5201,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 26,
     word:17 ,
@@ -5021,6 +5212,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 26,
     word: 18,
@@ -5031,6 +5223,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 26,
     word: 19,
@@ -5041,6 +5234,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 26,
     word: 20,
@@ -5051,6 +5245,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 26,
     word: 21,
@@ -5061,6 +5256,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 26,
     word:22 ,
@@ -5071,6 +5267,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 26,
     word: 23,
@@ -5081,6 +5278,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 26,
     word:24 ,
@@ -5091,6 +5289,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 26,
     word: 25,
@@ -5101,6 +5300,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 26,
     word: 26,
@@ -5111,6 +5311,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 26,
     word:27 ,
@@ -5141,6 +5342,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 27,
     word: 3,
@@ -5151,6 +5353,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 27,
     word: 4,
@@ -5161,6 +5364,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 27,
     word:5 ,
@@ -5171,6 +5375,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 27,
     word:6 ,
@@ -5181,6 +5386,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 28,
     word: 1,
@@ -5191,6 +5397,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 28,
     word: 2,
@@ -5201,6 +5408,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 28,
     word: 3,
@@ -5211,6 +5419,7 @@ module.exports = [
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 28,
     word: 4,
@@ -5218,10 +5427,11 @@ module.exports = [
     english: "even",
     strongs: "G2532",
     grammar: "CONJ",
-    christ: true
+    
   },
 
   {
+    christ: "true",
     chapter: 2,
     verse: 28,
     word: 5,

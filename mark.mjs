@@ -8,7 +8,7 @@ const verse = args[1];
 console.log(`Mark ${args[0]}:${verse}`);
 console.log('_____________________________________')
 
-const filePath = `./books/41-mark/mark-${chapter}.js`;
+const filePath = `./books/41-mark/mark-${chapter}.mjs`;
 
 const data = require(filePath);
 

@@ -1,4 +1,4 @@
-module.exports = [
+export default [
 {
   chapter: 3,
   verse: 1,
@@ -258,6 +258,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
   chapter: 3,
   verse: 3,
   word:7,
@@ -295,6 +296,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
   chapter: 3,
   verse: 4,
   word:4,
@@ -304,6 +306,7 @@ module.exports = [
   grammar: "COND"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 4,
   word:5,
@@ -313,6 +316,7 @@ module.exports = [
   grammar: "V-PXI-3S"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 4,
   word:6,
@@ -322,6 +326,7 @@ module.exports = [
   grammar: "Prep"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 4,
   word:7,
@@ -331,6 +336,7 @@ module.exports = [
   grammar: "T-DSM"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 4,
   word:8,
@@ -340,6 +346,7 @@ module.exports = [
   grammar: "N-DSN"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 4,
   word:9,
@@ -349,6 +356,7 @@ module.exports = [
   grammar: "Adv"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 4,
   word:10,
@@ -358,6 +366,7 @@ module.exports = [
   grammar: "V-AAN"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 4,
   word:11,
@@ -367,6 +376,7 @@ module.exports = [
   grammar: "Adv"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 4,
   word:12,
@@ -376,6 +386,7 @@ module.exports = [
   grammar: "V-AAN"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 4,
   word:13,
@@ -385,6 +396,7 @@ module.exports = [
   grammar: "N-ASF"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 4,
   word:14,
@@ -394,6 +406,7 @@ module.exports = [
   grammar: "Conj"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 4,
   word:15,
@@ -549,6 +562,7 @@ module.exports = [
   grammar: "V-PAI-3S"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 5,
   word:14,
@@ -558,6 +572,7 @@ module.exports = [
   grammar: "T-DSM"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 5,
   word:15,
@@ -2513,6 +2528,7 @@ module.exports = [
     grammar: "N-DPF"
   },
   {
+    christ: "true",
     chapter: 3,
     verse: 23,
     word:7,
@@ -2522,6 +2538,7 @@ module.exports = [
     grammar: "ADV"
   },
   {
+    christ: "true",
     chapter: 3,
     verse: 23,
     word:8,
@@ -2531,6 +2548,7 @@ module.exports = [
     grammar: "V-PNI-3S"
   },
   {
+    christ: "true",
     chapter: 3,
     verse: 23,
     word:9,
@@ -2540,6 +2558,7 @@ module.exports = [
     grammar: "N-ASM"
   },
   {
+    christ: "true",
     chapter: 3,
     verse: 23,
     word:10,
@@ -2549,6 +2568,7 @@ module.exports = [
     grammar: "V-PAN"
   },
   {
+    christ: "true",
     chapter: 3,
     verse: 23,
     word:11,
@@ -2559,6 +2579,7 @@ module.exports = [
   },
   
   {
+    christ: "true",
     chapter: 3,
     verse: 24,
     word:1,
@@ -2568,6 +2589,7 @@ module.exports = [
     grammar: "CONJ"
   },
   {
+    christ: "true",
     chapter: 3,
     verse: 24,
     word:2,
@@ -2577,6 +2599,7 @@ module.exports = [
     grammar: "COND"
   },
   {
+    christ: "true",
     chapter: 3,
     verse: 24,
     word:3,
@@ -2586,6 +2609,7 @@ module.exports = [
     grammar: "N-NSF"
   },
   {
+    christ: "true",
     chapter: 3,
     verse: 24,
     word:4,
@@ -2595,6 +2619,7 @@ module.exports = [
     grammar: "V-APS-3S"
   },
   {
+    christ: "true",
     chapter: 3,
     verse: 24,
     word:5,
@@ -2604,6 +2629,7 @@ module.exports = [
     grammar: "PREP"
   },
   {
+    christ: "true",
     chapter: 3,
     verse: 24,
     word:6,
@@ -2613,6 +2639,7 @@ module.exports = [
     grammar: "F-3ASF"
   },
   {
+    christ: "true",
     chapter: 3,
     verse: 24,
     word:7,
@@ -2622,6 +2649,7 @@ module.exports = [
     grammar: "D-NSF"
   },
   {
+    christ: "true",
     chapter: 3,
     verse: 24,
     word:8,
@@ -2631,6 +2659,7 @@ module.exports = [
     grammar: "N-NSF"
   },
   {
+    christ: "true",
     chapter: 3,
     verse: 24,
     word:9,
@@ -2640,6 +2669,7 @@ module.exports = [
     grammar: "PRT-N"
   },
   {
+    christ: "true",
     chapter: 3,
     verse: 24,
     word:10,
@@ -2650,6 +2680,7 @@ module.exports = [
   },
 
 {
+  christ: "true",
   chapter: 3,
   verse: 25,
   word:1,
@@ -2659,6 +2690,7 @@ module.exports = [
   grammar: "COND"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 25,
   word:2,
@@ -2668,6 +2700,7 @@ module.exports = [
   grammar: "N-NSF"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 25,
   word:3,
@@ -2677,6 +2710,7 @@ module.exports = [
   grammar: "V-APP-NSF"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 25,
   word:4,
@@ -2686,6 +2720,7 @@ module.exports = [
   grammar: "PREP"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 25,
   word:5,
@@ -2695,6 +2730,7 @@ module.exports = [
   grammar: "F-3ASF"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 25,
   word:6,
@@ -2704,6 +2740,7 @@ module.exports = [
   grammar: "T-NSF"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 25,
   word:7,
@@ -2713,6 +2750,7 @@ module.exports = [
   grammar: "N-NSF"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 25,
   word:8,
@@ -2722,6 +2760,7 @@ module.exports = [
   grammar: "PRT-N"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 25,
   word:9,
@@ -2733,6 +2772,7 @@ module.exports = [
 
 
 {
+  christ: "true",
   chapter: 3,
   verse: 26,
   word:1,
@@ -2742,6 +2782,7 @@ module.exports = [
   grammar: "COND"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 26,
   word:2,
@@ -2751,6 +2792,7 @@ module.exports = [
   grammar: "T-NSM"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 26,
   word:3,
@@ -2760,6 +2802,7 @@ module.exports = [
   grammar: "V-RIA-3S"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 26,
   word:4,
@@ -2769,6 +2812,7 @@ module.exports = [
   grammar: "PREP"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 26,
   word:5,
@@ -2778,6 +2822,7 @@ module.exports = [
   grammar: "F-3ASM"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 26,
   word:6,
@@ -2787,6 +2832,7 @@ module.exports = [
   grammar: "V-API-3S"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 26,
   word:7,
@@ -2796,6 +2842,7 @@ module.exports = [
   grammar: "PRT-N"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 26,
   word:8,
@@ -2805,6 +2852,7 @@ module.exports = [
   grammar: "V-PNI-3S"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 26,
   word:9,
@@ -2814,6 +2862,7 @@ module.exports = [
   grammar: "V-ANA-3S"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 26,
   word:10,
@@ -2823,6 +2872,7 @@ module.exports = [
   grammar: "CONJ"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 26,
   word:11,
@@ -2832,6 +2882,7 @@ module.exports = [
   grammar: "V-PAI-3S"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 26,
   word:12,
@@ -2842,6 +2893,7 @@ module.exports = [
 },
  
 {
+  christ: "true",
   chapter: 3,
   verse: 27,
   word:1,
@@ -2852,6 +2904,7 @@ module.exports = [
 },
   
 {
+  christ: "true",
   chapter: 3,
   verse: 27,
   word:2,
@@ -2861,6 +2914,7 @@ module.exports = [
   grammar: "P-NS"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 27,
   word:3,
@@ -2871,6 +2925,7 @@ module.exports = [
 },
 {
 
+  christ: "true",
     chapter: 3,
     verse: 27,
     word:4,
@@ -2881,6 +2936,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
   chapter: 3,
   verse: 27,
   word:5,
@@ -2890,6 +2946,7 @@ module.exports = [
   grammar: "PREP"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 27,
   word:6,
@@ -2899,6 +2956,7 @@ module.exports = [
   grammar: "T-ASF"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 27,
   word:7,
@@ -2908,6 +2966,7 @@ module.exports = [
   grammar: "N-ASF"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 27,
   word:8,
@@ -2917,6 +2976,7 @@ module.exports = [
   grammar: "T-GSM"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 27,
   word:9,
@@ -2926,6 +2986,7 @@ module.exports = [
   grammar: "A-GSM"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 27,
   word:10,
@@ -2935,6 +2996,7 @@ module.exports = [
   grammar: "PREP"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 27,
   word:11,
@@ -2944,6 +3006,7 @@ module.exports = [
   grammar: "N-ASN"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 27,
   word:12,
@@ -2953,6 +3016,7 @@ module.exports = [
   grammar: "COND"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 27,
   word:13,
@@ -2962,6 +3026,7 @@ module.exports = [
   grammar: "PRT-N"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 27,
   word:14,
@@ -2971,6 +3036,7 @@ module.exports = [
   grammar: "ADV"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 27,
   word:15,
@@ -2980,6 +3046,7 @@ module.exports = [
   grammar: "V-FAI-3S"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 27,
   word:16,
@@ -2989,6 +3056,7 @@ module.exports = [
   grammar: "T-ASM"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 27,
   word:17,
@@ -2998,6 +3066,7 @@ module.exports = [
   grammar: "A-ASM"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 27,
   word:18,
@@ -3007,6 +3076,7 @@ module.exports = [
   grammar: "CONJ"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 27,
   word:19,
@@ -3016,6 +3086,7 @@ module.exports = [
   grammar: "T-ASF"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 27,
   word:20,
@@ -3025,6 +3096,7 @@ module.exports = [
   grammar: "N-ASF"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 27,
   word:21,
@@ -3035,6 +3107,7 @@ module.exports = [
 },
   
 {
+  christ: "true",
   chapter: 3,
   verse: 28,
   word:1,
@@ -3044,6 +3117,7 @@ module.exports = [
   grammar: "particle"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 28,
   word:2,
@@ -3053,6 +3127,7 @@ module.exports = [
   grammar: "V-PAI-1S"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 28,
   word:3,
@@ -3062,6 +3137,7 @@ module.exports = [
   grammar: "P-2DP"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 28,
   word:4,
@@ -3071,6 +3147,7 @@ module.exports = [
   grammar: "Conj"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 28,
   word:5,
@@ -3080,6 +3157,7 @@ module.exports = [
   grammar: "A-NSF"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 28,
   word:6,
@@ -3089,6 +3167,7 @@ module.exports = [
   grammar: "N-NSF"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 28,
   word:7,
@@ -3098,6 +3177,7 @@ module.exports = [
   grammar: "T-GPM"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 28,
   word:8,
@@ -3107,6 +3187,7 @@ module.exports = [
   grammar: "N-GPM"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 28,
   word:9,
@@ -3116,6 +3197,7 @@ module.exports = [
   grammar: "V-FPI-3P"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 28,
   word:10,
@@ -3125,6 +3207,7 @@ module.exports = [
   grammar: "Conj"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 28,
   word:11,
@@ -3134,6 +3217,7 @@ module.exports = [
   grammar: "T-GPM"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 28,
   word:12,
@@ -3143,6 +3227,7 @@ module.exports = [
   grammar: "N-GPF"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 28,
   word:13,
@@ -3152,6 +3237,7 @@ module.exports = [
   grammar: "COND"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 28,
   word:14,
@@ -3162,6 +3248,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
   chapter: 3,
   verse: 29,
   word:1,
@@ -3171,6 +3258,7 @@ module.exports = [
   grammar: "Conj"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 29,
   word:2,
@@ -3180,6 +3268,7 @@ module.exports = [
   grammar: "COND"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 29,
   word:3,
@@ -3189,6 +3278,7 @@ module.exports = [
   grammar: "V-FAA-3S"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 29,
   word:4,
@@ -3198,6 +3288,7 @@ module.exports = [
   grammar: "Prep"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 29,
   word:5,
@@ -3207,6 +3298,7 @@ module.exports = [
   grammar: "T-ANS"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 29,
   word:6,
@@ -3216,6 +3308,7 @@ module.exports = [
   grammar: "N-ANS"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 29,
   word:7,
@@ -3225,6 +3318,7 @@ module.exports = [
   grammar: "PRT-N"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 29,
   word:8,
@@ -3234,6 +3328,7 @@ module.exports = [
   grammar: "V-PAI-3S"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 29,
   word:9,
@@ -3243,6 +3338,7 @@ module.exports = [
   grammar: "N-ASF"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 29,
   word:10,
@@ -3252,6 +3348,7 @@ module.exports = [
   grammar: "Conj"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 29,
   word:11,
@@ -3261,6 +3358,7 @@ module.exports = [
   grammar: "A-NSM"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 29,
   word:12,
@@ -3270,6 +3368,7 @@ module.exports = [
   grammar: "A-GSF"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 29,
   word:13,
@@ -3673,6 +3772,7 @@ module.exports = [
   grammar: "P-DPM"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 33,
   word:3,
@@ -3682,6 +3782,7 @@ module.exports = [
   grammar: "I-NSM"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 33,
   word:4,
@@ -3691,6 +3792,7 @@ module.exports = [
   grammar: "V-PAI-3P"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 33,
   word:5,
@@ -3700,6 +3802,7 @@ module.exports = [
   grammar: "Pro-G1S"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 33,
   word:6,
@@ -3709,6 +3812,7 @@ module.exports = [
   grammar: "N-NSF"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 33,
   word:7,
@@ -3718,6 +3822,7 @@ module.exports = [
   grammar: "CONJ"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 33,
   word:8,
@@ -3727,6 +3832,7 @@ module.exports = [
   grammar: "Pro-G1S"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 33,
   word:9,
@@ -3782,6 +3888,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
   chapter: 3,
   verse: 34,
   word:6,
@@ -3792,6 +3899,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
   chapter: 3,
   verse: 34,
   word:7,
@@ -3801,6 +3909,7 @@ module.exports = [
   grammar: "Pro-NFS"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 34,
   word:8,
@@ -3810,6 +3919,7 @@ module.exports = [
   grammar: "N-NFS"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 34,
   word:9,
@@ -3819,6 +3929,7 @@ module.exports = [
   grammar: "Conj"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 34,
   word:10,
@@ -3828,6 +3939,7 @@ module.exports = [
   grammar: "Pro-NFS"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 34,
   word:11,
@@ -3837,6 +3949,7 @@ module.exports = [
   grammar: "N-NMP"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 35,
   word:1,
@@ -3846,6 +3959,7 @@ module.exports = [
   grammar: "Conj"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 35,
   word:2,
@@ -3855,6 +3969,7 @@ module.exports = [
   grammar: "Conj"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 35,
   word:3,
@@ -3864,6 +3979,7 @@ module.exports = [
   grammar: "V-ASA-3S"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 35,
   word:4,
@@ -3873,6 +3989,7 @@ module.exports = [
   grammar: "Art-NNS"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 35,
   word:5,
@@ -3882,6 +3999,7 @@ module.exports = [
   grammar: "N-NNS"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 35,
   word:6,
@@ -3891,6 +4009,7 @@ module.exports = [
   grammar: "Art-GMS"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 35,
   word:7,
@@ -3900,6 +4019,7 @@ module.exports = [
   grammar: "N-GMS"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 35,
   word:8,
@@ -3909,6 +4029,7 @@ module.exports = [
   grammar: "P-1GS"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 35,
   word:9,
@@ -3919,6 +4040,7 @@ module.exports = [
 },
 
 {
+  christ: "true",
   chapter: 3,
   verse: 35,
   word:10,
@@ -3928,6 +4050,7 @@ module.exports = [
   grammar: "N-NSM"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 35,
   word:11,
@@ -3937,6 +4060,7 @@ module.exports = [
   grammar: "Pro-G1S"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 35,
   word:12,
@@ -3946,6 +4070,7 @@ module.exports = [
   grammar: "N-NSF"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 35,
   word:13,
@@ -3955,6 +4080,7 @@ module.exports = [
   grammar: "CONJ"
 },
 {
+  christ: "true",
   chapter: 3,
   verse: 35,
   word:14,
