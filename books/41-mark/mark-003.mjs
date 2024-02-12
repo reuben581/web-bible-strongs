@@ -22,6 +22,7 @@ export default [
   chapter: 3,
   verse: 1,
   word: 3,
+  greek: "____EMPTY____",
   english: "again",
   strongs: "G3588",
   grammar: "T-ASF"
@@ -4089,9 +4090,4 @@ export default [
   strongs: "G3384",
   grammar: "N-NSF"
 },
-
-
-
-
-
 ];

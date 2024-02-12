@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-const colors = require('colors');
+import colors from 'colors';
 
 const args = process.argv.slice(2);
 
@@ -10,7 +10,8 @@ console.log('_____________________________________')
 
 const filePath = `./books/41-mark/mark-${chapter}.mjs`;
 
-const data = require(filePath);
+const data = (await import(filePath)).default;
+// console.log(data)
 
 const words = [];
 

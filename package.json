@@ -1,9 +1,10 @@
 {
   "name": "mark",
-  "versoin": "0.1.0",
-  "main": "mark.js",
+  "version": "0.1.0",
+  "main": "mark.mjs",
+  "type": "module",
   "bin": {
-    "mark": "mark.js"
+    "mark": "mark.mjs"
   },
   "dependencies": {
     "colors": "^1.4.0"

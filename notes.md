@@ -20,10 +20,13 @@
 
     https://github.com/F1LT3R/byzantine-majority-text/blob/master/csv-unicode/ccat/no-variants/MAR.csv
 
+5. Hebrew Tanach Unicode/XML Leningrad Codex
 
-5. Bible Reading
+    https://www.tanach.us/Tanach.xml#Technical
 
-    https://bney-files.s3.us-west-2.amazonaws.com/wp-content/uploads/2023/09/26062857/BYNA-Bible-Readings-5784.pdf
+6. Bible Reading
+
+    https://bney-files.s3.uyous-west-2.amazonaws.com/wp-content/uploads/2023/09/26062857/BYNA-Bible-Readings-5784.pdf
 
 
 
