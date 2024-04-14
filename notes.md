@@ -28,6 +28,4 @@
 
     https://bney-files.s3.uyous-west-2.amazonaws.com/wp-content/uploads/2023/09/26062857/BYNA-Bible-Readings-5784.pdf
 
-
-
-6. `sudo apt install ttf-ancient-fonts`
+7. `sudo apt install ttf-ancient-fonts`
