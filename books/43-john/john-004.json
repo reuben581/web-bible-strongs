@@ -1,0 +1,128 @@
+[
+    {
+        "chapter": 4,
+        "verse": 54,
+        "word": 1,
+        "greek": "τουτο",
+        "english": "",
+        "strongs": "G3778",
+        "grammar": "D-ASN"
+    },
+    {
+        "chapter": 4,
+        "verse": 54,
+        "word": 2,
+        "greek": "παλιν",
+        "english": "",
+        "strongs": "G3825",
+        "grammar": "ADV"
+    },
+    {
+        "chapter": 4,
+        "verse": 54,
+        "word": 3,
+        "greek": "δευτερον",
+        "english": "",
+        "strongs": "G1208",
+        "grammar": "A-ASN"
+    },
+    {
+        "chapter": 4,
+        "verse": 54,
+        "word": 4,
+        "greek": "σημειον",
+        "english": "",
+        "strongs": "G4592",
+        "grammar": "N-ASN"
+    },
+    {
+        "chapter": 4,
+        "verse": 54,
+        "word": 5,
+        "greek": "εποιησεν",
+        "english": "",
+        "strongs": "G4160",
+        "grammar": "V-AAI-3S"
+    },
+    {
+        "chapter": 4,
+        "verse": 54,
+        "word": 6,
+        "greek": "ο",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-NSM"
+    },
+    {
+        "chapter": 4,
+        "verse": 54,
+        "word": 7,
+        "greek": "ιησους",
+        "english": "",
+        "strongs": "G2424",
+        "grammar": "N-NSM"
+    },
+    {
+        "chapter": 4,
+        "verse": 54,
+        "word": 8,
+        "greek": "ελθων",
+        "english": "",
+        "strongs": "G2064",
+        "grammar": "V-2AAP-NSM"
+    },
+    {
+        "chapter": 4,
+        "verse": 54,
+        "word": 9,
+        "greek": "εκ",
+        "english": "",
+        "strongs": "G1537",
+        "grammar": "PREP"
+    },
+    {
+        "chapter": 4,
+        "verse": 54,
+        "word": 10,
+        "greek": "της",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-GSF"
+    },
+    {
+        "chapter": 4,
+        "verse": 54,
+        "word": 11,
+        "greek": "ιουδαιας",
+        "english": "",
+        "strongs": "G2449",
+        "grammar": "N-GSF"
+    },
+    {
+        "chapter": 4,
+        "verse": 54,
+        "word": 12,
+        "greek": "εις",
+        "english": "",
+        "strongs": "G1519",
+        "grammar": "PREP"
+    },
+    {
+        "chapter": 4,
+        "verse": 54,
+        "word": 13,
+        "greek": "την",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-ASF"
+    },
+    {
+        "chapter": 4,
+        "verse": 54,
+        "word": 14,
+        "greek": "γαλιλαιαν",
+        "english": "",
+        "strongs": "G1056",
+        "grammar": "N-ASF"
+    }
+]

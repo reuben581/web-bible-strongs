@@ -1,0 +1,173 @@
+[
+    {
+        "chapter": 11,
+        "verse": 57,
+        "word": 1,
+        "greek": "δεδωκεισαν",
+        "english": "",
+        "strongs": "G1325",
+        "grammar": "V-LAI-3P-ATT"
+    },
+    {
+        "chapter": 11,
+        "verse": 57,
+        "word": 2,
+        "greek": "δε",
+        "english": "",
+        "strongs": "G1161",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 11,
+        "verse": 57,
+        "word": 3,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 11,
+        "verse": 57,
+        "word": 4,
+        "greek": "οι",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-NPM"
+    },
+    {
+        "chapter": 11,
+        "verse": 57,
+        "word": 5,
+        "greek": "αρχιερεις",
+        "english": "",
+        "strongs": "G749",
+        "grammar": "N-NPM"
+    },
+    {
+        "chapter": 11,
+        "verse": 57,
+        "word": 6,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 11,
+        "verse": 57,
+        "word": 7,
+        "greek": "οι",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-NPM"
+    },
+    {
+        "chapter": 11,
+        "verse": 57,
+        "word": 8,
+        "greek": "φαρισαιοι",
+        "english": "",
+        "strongs": "G5330",
+        "grammar": "N-NPM"
+    },
+    {
+        "chapter": 11,
+        "verse": 57,
+        "word": 9,
+        "greek": "εντολην",
+        "english": "",
+        "strongs": "G1785",
+        "grammar": "N-ASF"
+    },
+    {
+        "chapter": 11,
+        "verse": 57,
+        "word": 10,
+        "greek": "ινα",
+        "english": "",
+        "strongs": "G2443",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 11,
+        "verse": 57,
+        "word": 11,
+        "greek": "εαν",
+        "english": "",
+        "strongs": "G1437",
+        "grammar": "COND"
+    },
+    {
+        "chapter": 11,
+        "verse": 57,
+        "word": 12,
+        "greek": "τις",
+        "english": "",
+        "strongs": "G5100",
+        "grammar": "X-NSM"
+    },
+    {
+        "chapter": 11,
+        "verse": 57,
+        "word": 13,
+        "greek": "γνω",
+        "english": "",
+        "strongs": "G1097",
+        "grammar": "V-2AAS-3S"
+    },
+    {
+        "chapter": 11,
+        "verse": 57,
+        "word": 14,
+        "greek": "που",
+        "english": "",
+        "strongs": "G4226",
+        "grammar": "ADV-I"
+    },
+    {
+        "chapter": 11,
+        "verse": 57,
+        "word": 15,
+        "greek": "εστιν",
+        "english": "",
+        "strongs": "G1510",
+        "grammar": "V-PAI-3S"
+    },
+    {
+        "chapter": 11,
+        "verse": 57,
+        "word": 16,
+        "greek": "μηνυση",
+        "english": "",
+        "strongs": "G3377",
+        "grammar": "V-AAS-3S"
+    },
+    {
+        "chapter": 11,
+        "verse": 57,
+        "word": 17,
+        "greek": "οπως",
+        "english": "",
+        "strongs": "G3704",
+        "grammar": "ADV"
+    },
+    {
+        "chapter": 11,
+        "verse": 57,
+        "word": 18,
+        "greek": "πιασωσιν",
+        "english": "",
+        "strongs": "G4084",
+        "grammar": "V-AAS-3P"
+    },
+    {
+        "chapter": 11,
+        "verse": 57,
+        "word": 19,
+        "greek": "αυτον",
+        "english": "",
+        "strongs": "G846",
+        "grammar": "P-ASM"
+    }
+]

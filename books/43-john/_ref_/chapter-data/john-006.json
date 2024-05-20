@@ -1,0 +1,146 @@
+[
+    {
+        "chapter": 6,
+        "verse": 71,
+        "word": 1,
+        "greek": "ελεγεν",
+        "english": "",
+        "strongs": "G3004",
+        "grammar": "V-IAI-3S"
+    },
+    {
+        "chapter": 6,
+        "verse": 71,
+        "word": 2,
+        "greek": "δε",
+        "english": "",
+        "strongs": "G1161",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 6,
+        "verse": 71,
+        "word": 3,
+        "greek": "τον",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-ASM"
+    },
+    {
+        "chapter": 6,
+        "verse": 71,
+        "word": 4,
+        "greek": "ιουδαν",
+        "english": "",
+        "strongs": "G2455",
+        "grammar": "N-ASM"
+    },
+    {
+        "chapter": 6,
+        "verse": 71,
+        "word": 5,
+        "greek": "σιμωνος",
+        "english": "",
+        "strongs": "G4613",
+        "grammar": "N-GSM"
+    },
+    {
+        "chapter": 6,
+        "verse": 71,
+        "word": 6,
+        "greek": "ισκαριωτην",
+        "english": "",
+        "strongs": "G2469",
+        "grammar": "N-ASM"
+    },
+    {
+        "chapter": 6,
+        "verse": 71,
+        "word": 7,
+        "greek": "ουτος",
+        "english": "",
+        "strongs": "G3778",
+        "grammar": "D-NSM"
+    },
+    {
+        "chapter": 6,
+        "verse": 71,
+        "word": 8,
+        "greek": "γαρ",
+        "english": "",
+        "strongs": "G1063",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 6,
+        "verse": 71,
+        "word": 9,
+        "greek": "εμελλεν",
+        "english": "",
+        "strongs": "G3195",
+        "grammar": "V-IAI-3S"
+    },
+    {
+        "chapter": 6,
+        "verse": 71,
+        "word": 10,
+        "greek": "αυτον",
+        "english": "",
+        "strongs": "G846",
+        "grammar": "P-ASM"
+    },
+    {
+        "chapter": 6,
+        "verse": 71,
+        "word": 11,
+        "greek": "παραδιδοναι",
+        "english": "",
+        "strongs": "G3860",
+        "grammar": "V-PAN"
+    },
+    {
+        "chapter": 6,
+        "verse": 71,
+        "word": 12,
+        "greek": "εις",
+        "english": "",
+        "strongs": "G1520",
+        "grammar": "A-NSM"
+    },
+    {
+        "chapter": 6,
+        "verse": 71,
+        "word": 13,
+        "greek": "ων",
+        "english": "",
+        "strongs": "G1510",
+        "grammar": "V-PAP-NSM"
+    },
+    {
+        "chapter": 6,
+        "verse": 71,
+        "word": 14,
+        "greek": "εκ",
+        "english": "",
+        "strongs": "G1537",
+        "grammar": "PREP"
+    },
+    {
+        "chapter": 6,
+        "verse": 71,
+        "word": 15,
+        "greek": "των",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-GPM"
+    },
+    {
+        "chapter": 6,
+        "verse": 71,
+        "word": 16,
+        "greek": "δωδεκα",
+        "english": "",
+        "strongs": "G1427",
+        "grammar": "A-NUI"
+    }
+]

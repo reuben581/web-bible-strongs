@@ -1,0 +1,173 @@
+[
+    {
+        "chapter": 16,
+        "verse": 33,
+        "word": 1,
+        "greek": "ταυτα",
+        "english": "",
+        "strongs": "G3778",
+        "grammar": "D-APN"
+    },
+    {
+        "chapter": 16,
+        "verse": 33,
+        "word": 2,
+        "greek": "λελαληκα",
+        "english": "",
+        "strongs": "G2980",
+        "grammar": "V-RAI-1S"
+    },
+    {
+        "chapter": 16,
+        "verse": 33,
+        "word": 3,
+        "greek": "υμιν",
+        "english": "",
+        "strongs": "G4771",
+        "grammar": "P-2DP"
+    },
+    {
+        "chapter": 16,
+        "verse": 33,
+        "word": 4,
+        "greek": "ινα",
+        "english": "",
+        "strongs": "G2443",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 16,
+        "verse": 33,
+        "word": 5,
+        "greek": "εν",
+        "english": "",
+        "strongs": "G1722",
+        "grammar": "PREP"
+    },
+    {
+        "chapter": 16,
+        "verse": 33,
+        "word": 6,
+        "greek": "εμοι",
+        "english": "",
+        "strongs": "G1473",
+        "grammar": "P-1DS"
+    },
+    {
+        "chapter": 16,
+        "verse": 33,
+        "word": 7,
+        "greek": "ειρηνην",
+        "english": "",
+        "strongs": "G1515",
+        "grammar": "N-ASF"
+    },
+    {
+        "chapter": 16,
+        "verse": 33,
+        "word": 8,
+        "greek": "εχητε",
+        "english": "",
+        "strongs": "G2192",
+        "grammar": "V-PAS-2P"
+    },
+    {
+        "chapter": 16,
+        "verse": 33,
+        "word": 9,
+        "greek": "εν",
+        "english": "",
+        "strongs": "G1722",
+        "grammar": "PREP"
+    },
+    {
+        "chapter": 16,
+        "verse": 33,
+        "word": 10,
+        "greek": "τω",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-DSM"
+    },
+    {
+        "chapter": 16,
+        "verse": 33,
+        "word": 11,
+        "greek": "κοσμω",
+        "english": "",
+        "strongs": "G2889",
+        "grammar": "N-DSM"
+    },
+    {
+        "chapter": 16,
+        "verse": 33,
+        "word": 12,
+        "greek": "θλιψιν",
+        "english": "",
+        "strongs": "G2347",
+        "grammar": "N-ASF"
+    },
+    {
+        "chapter": 16,
+        "verse": 33,
+        "word": 13,
+        "greek": "εχετε",
+        "english": "",
+        "strongs": "G2192",
+        "grammar": "V-PAI-2P"
+    },
+    {
+        "chapter": 16,
+        "verse": 33,
+        "word": 14,
+        "greek": "αλλα",
+        "english": "",
+        "strongs": "G235",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 16,
+        "verse": 33,
+        "word": 15,
+        "greek": "θαρσειτε",
+        "english": "",
+        "strongs": "G2293",
+        "grammar": "V-PAM-2P"
+    },
+    {
+        "chapter": 16,
+        "verse": 33,
+        "word": 16,
+        "greek": "εγω",
+        "english": "",
+        "strongs": "G1473",
+        "grammar": "P-1NS"
+    },
+    {
+        "chapter": 16,
+        "verse": 33,
+        "word": 17,
+        "greek": "νενικηκα",
+        "english": "",
+        "strongs": "G3528",
+        "grammar": "V-RAI-1S"
+    },
+    {
+        "chapter": 16,
+        "verse": 33,
+        "word": 18,
+        "greek": "τον",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-ASM"
+    },
+    {
+        "chapter": 16,
+        "verse": 33,
+        "word": 19,
+        "greek": "κοσμον",
+        "english": "",
+        "strongs": "G2889",
+        "grammar": "N-ASM"
+    }
+]

@@ -1,0 +1,236 @@
+[
+    {
+        "chapter": 1,
+        "verse": 51,
+        "word": 1,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 1,
+        "verse": 51,
+        "word": 2,
+        "greek": "λεγει",
+        "english": "",
+        "strongs": "G3004",
+        "grammar": "V-PAI-3S"
+    },
+    {
+        "chapter": 1,
+        "verse": 51,
+        "word": 3,
+        "greek": "αυτω",
+        "english": "",
+        "strongs": "G846",
+        "grammar": "P-DSM"
+    },
+    {
+        "chapter": 1,
+        "verse": 51,
+        "word": 4,
+        "greek": "αμην",
+        "english": "",
+        "strongs": "G281",
+        "grammar": "HEB"
+    },
+    {
+        "chapter": 1,
+        "verse": 51,
+        "word": 5,
+        "greek": "αμην",
+        "english": "",
+        "strongs": "G281",
+        "grammar": "HEB"
+    },
+    {
+        "chapter": 1,
+        "verse": 51,
+        "word": 6,
+        "greek": "λεγω",
+        "english": "",
+        "strongs": "G3004",
+        "grammar": "V-PAI-1S"
+    },
+    {
+        "chapter": 1,
+        "verse": 51,
+        "word": 7,
+        "greek": "υμιν",
+        "english": "",
+        "strongs": "G4771",
+        "grammar": "P-2DP"
+    },
+    {
+        "chapter": 1,
+        "verse": 51,
+        "word": 8,
+        "greek": "απ",
+        "english": "",
+        "strongs": "G575",
+        "grammar": "PREP"
+    },
+    {
+        "chapter": 1,
+        "verse": 51,
+        "word": 9,
+        "greek": "αρτι",
+        "english": "",
+        "strongs": "G737",
+        "grammar": "ADV"
+    },
+    {
+        "chapter": 1,
+        "verse": 51,
+        "word": 10,
+        "greek": "οψεσθε",
+        "english": "",
+        "strongs": "G3708",
+        "grammar": "V-FDI-2P"
+    },
+    {
+        "chapter": 1,
+        "verse": 51,
+        "word": 11,
+        "greek": "τον",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-ASM"
+    },
+    {
+        "chapter": 1,
+        "verse": 51,
+        "word": 12,
+        "greek": "ουρανον",
+        "english": "",
+        "strongs": "G3772",
+        "grammar": "N-ASM"
+    },
+    {
+        "chapter": 1,
+        "verse": 51,
+        "word": 13,
+        "greek": "ανεωγοτα",
+        "english": "",
+        "strongs": "G455",
+        "grammar": "V-2RAP-ASM"
+    },
+    {
+        "chapter": 1,
+        "verse": 51,
+        "word": 14,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 1,
+        "verse": 51,
+        "word": 15,
+        "greek": "τους",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-APM"
+    },
+    {
+        "chapter": 1,
+        "verse": 51,
+        "word": 16,
+        "greek": "αγγελους",
+        "english": "",
+        "strongs": "G32",
+        "grammar": "N-APM"
+    },
+    {
+        "chapter": 1,
+        "verse": 51,
+        "word": 17,
+        "greek": "του",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-GSM"
+    },
+    {
+        "chapter": 1,
+        "verse": 51,
+        "word": 18,
+        "greek": "θεου",
+        "english": "",
+        "strongs": "G2316",
+        "grammar": "N-GSM"
+    },
+    {
+        "chapter": 1,
+        "verse": 51,
+        "word": 19,
+        "greek": "αναβαινοντας",
+        "english": "",
+        "strongs": "G305",
+        "grammar": "V-PAP-APM"
+    },
+    {
+        "chapter": 1,
+        "verse": 51,
+        "word": 20,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 1,
+        "verse": 51,
+        "word": 21,
+        "greek": "καταβαινοντας",
+        "english": "",
+        "strongs": "G2597",
+        "grammar": "V-PAP-APM"
+    },
+    {
+        "chapter": 1,
+        "verse": 51,
+        "word": 22,
+        "greek": "επι",
+        "english": "",
+        "strongs": "G1909",
+        "grammar": "PREP"
+    },
+    {
+        "chapter": 1,
+        "verse": 51,
+        "word": 23,
+        "greek": "τον",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-ASM"
+    },
+    {
+        "chapter": 1,
+        "verse": 51,
+        "word": 24,
+        "greek": "υιον",
+        "english": "",
+        "strongs": "G5207",
+        "grammar": "N-ASM"
+    },
+    {
+        "chapter": 1,
+        "verse": 51,
+        "word": 25,
+        "greek": "του",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-GSM"
+    },
+    {
+        "chapter": 1,
+        "verse": 51,
+        "word": 26,
+        "greek": "ανθρωπου",
+        "english": "",
+        "strongs": "G444",
+        "grammar": "N-GSM"
+    }
+]

@@ -7,6 +7,9 @@
     "mark": "mark.mjs"
   },
   "dependencies": {
-    "colors": "^1.4.0"
+    "colors": "^1.4.0",
+    "csv": "^6.3.9",
+    "csv-parse": "^5.5.6",
+    "csv-parser": "^3.0.0"
   }
 }

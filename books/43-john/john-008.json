@@ -1,0 +1,200 @@
+[
+    {
+        "chapter": 8,
+        "verse": 59,
+        "word": 1,
+        "greek": "ηραν",
+        "english": "",
+        "strongs": "G142",
+        "grammar": "V-AAI-3P"
+    },
+    {
+        "chapter": 8,
+        "verse": 59,
+        "word": 2,
+        "greek": "ουν",
+        "english": "",
+        "strongs": "G3767",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 8,
+        "verse": 59,
+        "word": 3,
+        "greek": "λιθους",
+        "english": "",
+        "strongs": "G3037",
+        "grammar": "N-APM"
+    },
+    {
+        "chapter": 8,
+        "verse": 59,
+        "word": 4,
+        "greek": "ινα",
+        "english": "",
+        "strongs": "G2443",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 8,
+        "verse": 59,
+        "word": 5,
+        "greek": "βαλωσιν",
+        "english": "",
+        "strongs": "G906",
+        "grammar": "V-2AAS-3P"
+    },
+    {
+        "chapter": 8,
+        "verse": 59,
+        "word": 6,
+        "greek": "επ",
+        "english": "",
+        "strongs": "G1909",
+        "grammar": "PREP"
+    },
+    {
+        "chapter": 8,
+        "verse": 59,
+        "word": 7,
+        "greek": "αυτον",
+        "english": "",
+        "strongs": "G846",
+        "grammar": "P-ASM"
+    },
+    {
+        "chapter": 8,
+        "verse": 59,
+        "word": 8,
+        "greek": "ιησους",
+        "english": "",
+        "strongs": "G2424",
+        "grammar": "N-NSM"
+    },
+    {
+        "chapter": 8,
+        "verse": 59,
+        "word": 9,
+        "greek": "δε",
+        "english": "",
+        "strongs": "G1161",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 8,
+        "verse": 59,
+        "word": 10,
+        "greek": "εκρυβη",
+        "english": "",
+        "strongs": "G2928",
+        "grammar": "V-2API-3S"
+    },
+    {
+        "chapter": 8,
+        "verse": 59,
+        "word": 11,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 8,
+        "verse": 59,
+        "word": 12,
+        "greek": "εξηλθεν",
+        "english": "",
+        "strongs": "G1831",
+        "grammar": "V-2AAI-3S"
+    },
+    {
+        "chapter": 8,
+        "verse": 59,
+        "word": 13,
+        "greek": "εκ",
+        "english": "",
+        "strongs": "G1537",
+        "grammar": "PREP"
+    },
+    {
+        "chapter": 8,
+        "verse": 59,
+        "word": 14,
+        "greek": "του",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-GSN"
+    },
+    {
+        "chapter": 8,
+        "verse": 59,
+        "word": 15,
+        "greek": "ιερου",
+        "english": "",
+        "strongs": "G2411",
+        "grammar": "N-GSN"
+    },
+    {
+        "chapter": 8,
+        "verse": 59,
+        "word": 16,
+        "greek": "διελθων",
+        "english": "",
+        "strongs": "G1330",
+        "grammar": "V-2AAP-NSM"
+    },
+    {
+        "chapter": 8,
+        "verse": 59,
+        "word": 17,
+        "greek": "δια",
+        "english": "",
+        "strongs": "G1223",
+        "grammar": "PREP"
+    },
+    {
+        "chapter": 8,
+        "verse": 59,
+        "word": 18,
+        "greek": "μεσου",
+        "english": "",
+        "strongs": "G3319",
+        "grammar": "A-GSN"
+    },
+    {
+        "chapter": 8,
+        "verse": 59,
+        "word": 19,
+        "greek": "αυτων",
+        "english": "",
+        "strongs": "G846",
+        "grammar": "P-GPM"
+    },
+    {
+        "chapter": 8,
+        "verse": 59,
+        "word": 20,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 8,
+        "verse": 59,
+        "word": 21,
+        "greek": "παρηγεν",
+        "english": "",
+        "strongs": "G3855",
+        "grammar": "V-IAI-3S"
+    },
+    {
+        "chapter": 8,
+        "verse": 59,
+        "word": 22,
+        "greek": "ουτως",
+        "english": "",
+        "strongs": "G3779",
+        "grammar": "ADV"
+    }
+]
