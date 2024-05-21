@@ -1,0 +1,3899 @@
+[
+    {
+        "chapter": 2,
+        "verse": 1,
+        "word": 1,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 1,
+        "word": 2,
+        "greek": "τη",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-DSF"
+    },
+    {
+        "chapter": 2,
+        "verse": 1,
+        "word": 3,
+        "greek": "ημερα",
+        "english": "",
+        "strongs": "G2250",
+        "grammar": "N-DSF"
+    },
+    {
+        "chapter": 2,
+        "verse": 1,
+        "word": 4,
+        "greek": "τη",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-DSF"
+    },
+    {
+        "chapter": 2,
+        "verse": 1,
+        "word": 5,
+        "greek": "τριτη",
+        "english": "",
+        "strongs": "G5154",
+        "grammar": "A-DSF"
+    },
+    {
+        "chapter": 2,
+        "verse": 1,
+        "word": 6,
+        "greek": "γαμος",
+        "english": "",
+        "strongs": "G1062",
+        "grammar": "N-NSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 1,
+        "word": 7,
+        "greek": "εγενετο",
+        "english": "",
+        "strongs": "G1096",
+        "grammar": "V-2ADI-3S"
+    },
+    {
+        "chapter": 2,
+        "verse": 1,
+        "word": 8,
+        "greek": "εν",
+        "english": "",
+        "strongs": "G1722",
+        "grammar": "PREP"
+    },
+    {
+        "chapter": 2,
+        "verse": 1,
+        "word": 9,
+        "greek": "κανα",
+        "english": "",
+        "strongs": "G2580",
+        "grammar": "N-PRI"
+    },
+    {
+        "chapter": 2,
+        "verse": 1,
+        "word": 10,
+        "greek": "της",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-GSF"
+    },
+    {
+        "chapter": 2,
+        "verse": 1,
+        "word": 11,
+        "greek": "γαλιλαιας",
+        "english": "",
+        "strongs": "G1056",
+        "grammar": "N-GSF"
+    },
+    {
+        "chapter": 2,
+        "verse": 1,
+        "word": 12,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 1,
+        "word": 13,
+        "greek": "ην",
+        "english": "",
+        "strongs": "G1510",
+        "grammar": "V-IAI-3S"
+    },
+    {
+        "chapter": 2,
+        "verse": 1,
+        "word": 14,
+        "greek": "η",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-NSF"
+    },
+    {
+        "chapter": 2,
+        "verse": 1,
+        "word": 15,
+        "greek": "μητηρ",
+        "english": "",
+        "strongs": "G3384",
+        "grammar": "N-NSF"
+    },
+    {
+        "chapter": 2,
+        "verse": 1,
+        "word": 16,
+        "greek": "του",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-GSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 1,
+        "word": 17,
+        "greek": "ιησου",
+        "english": "",
+        "strongs": "G2424",
+        "grammar": "N-GSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 1,
+        "word": 18,
+        "greek": "εκει",
+        "english": "",
+        "strongs": "G1563",
+        "grammar": "ADV"
+    },
+    {
+        "chapter": 2,
+        "verse": 2,
+        "word": 1,
+        "greek": "εκληθη",
+        "english": "",
+        "strongs": "G2564",
+        "grammar": "V-API-3S"
+    },
+    {
+        "chapter": 2,
+        "verse": 2,
+        "word": 2,
+        "greek": "δε",
+        "english": "",
+        "strongs": "G1161",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 2,
+        "word": 3,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 2,
+        "word": 4,
+        "greek": "ο",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-NSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 2,
+        "word": 5,
+        "greek": "ιησους",
+        "english": "",
+        "strongs": "G2424",
+        "grammar": "N-NSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 2,
+        "word": 6,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 2,
+        "word": 7,
+        "greek": "οι",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-NPM"
+    },
+    {
+        "chapter": 2,
+        "verse": 2,
+        "word": 8,
+        "greek": "μαθηται",
+        "english": "",
+        "strongs": "G3101",
+        "grammar": "N-NPM"
+    },
+    {
+        "chapter": 2,
+        "verse": 2,
+        "word": 9,
+        "greek": "αυτου",
+        "english": "",
+        "strongs": "G846",
+        "grammar": "P-GSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 2,
+        "word": 10,
+        "greek": "εις",
+        "english": "",
+        "strongs": "G1519",
+        "grammar": "PREP"
+    },
+    {
+        "chapter": 2,
+        "verse": 2,
+        "word": 11,
+        "greek": "τον",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-ASM"
+    },
+    {
+        "chapter": 2,
+        "verse": 2,
+        "word": 12,
+        "greek": "γαμον",
+        "english": "",
+        "strongs": "G1062",
+        "grammar": "N-ASM"
+    },
+    {
+        "chapter": 2,
+        "verse": 3,
+        "word": 1,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 3,
+        "word": 2,
+        "greek": "υστερησαντος",
+        "english": "",
+        "strongs": "G5302",
+        "grammar": "V-AAP-GSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 3,
+        "word": 3,
+        "greek": "οινου",
+        "english": "",
+        "strongs": "G3631",
+        "grammar": "N-GSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 3,
+        "word": 4,
+        "greek": "λεγει",
+        "english": "",
+        "strongs": "G3004",
+        "grammar": "V-PAI-3S"
+    },
+    {
+        "chapter": 2,
+        "verse": 3,
+        "word": 5,
+        "greek": "η",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-NSF"
+    },
+    {
+        "chapter": 2,
+        "verse": 3,
+        "word": 6,
+        "greek": "μητηρ",
+        "english": "",
+        "strongs": "G3384",
+        "grammar": "N-NSF"
+    },
+    {
+        "chapter": 2,
+        "verse": 3,
+        "word": 7,
+        "greek": "του",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-GSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 3,
+        "word": 8,
+        "greek": "ιησου",
+        "english": "",
+        "strongs": "G2424",
+        "grammar": "N-GSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 3,
+        "word": 9,
+        "greek": "προς",
+        "english": "",
+        "strongs": "G4314",
+        "grammar": "PREP"
+    },
+    {
+        "chapter": 2,
+        "verse": 3,
+        "word": 10,
+        "greek": "αυτον",
+        "english": "",
+        "strongs": "G846",
+        "grammar": "P-ASM"
+    },
+    {
+        "chapter": 2,
+        "verse": 3,
+        "word": 11,
+        "greek": "οινον",
+        "english": "",
+        "strongs": "G3631",
+        "grammar": "N-ASM"
+    },
+    {
+        "chapter": 2,
+        "verse": 3,
+        "word": 12,
+        "greek": "ουκ",
+        "english": "",
+        "strongs": "G3756",
+        "grammar": "PRT-N"
+    },
+    {
+        "chapter": 2,
+        "verse": 3,
+        "word": 13,
+        "greek": "εχουσιν",
+        "english": "",
+        "strongs": "G2192",
+        "grammar": "V-PAI-3P"
+    },
+    {
+        "chapter": 2,
+        "verse": 4,
+        "word": 1,
+        "greek": "λεγει",
+        "english": "",
+        "strongs": "G3004",
+        "grammar": "V-PAI-3S"
+    },
+    {
+        "chapter": 2,
+        "verse": 4,
+        "word": 2,
+        "greek": "αυτη",
+        "english": "",
+        "strongs": "G846",
+        "grammar": "P-DSF"
+    },
+    {
+        "chapter": 2,
+        "verse": 4,
+        "word": 3,
+        "greek": "ο",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-NSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 4,
+        "word": 4,
+        "greek": "ιησους",
+        "english": "",
+        "strongs": "G2424",
+        "grammar": "N-NSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 4,
+        "word": 5,
+        "greek": "τι",
+        "english": "",
+        "strongs": "G5101",
+        "grammar": "I-NSN"
+    },
+    {
+        "chapter": 2,
+        "verse": 4,
+        "word": 6,
+        "greek": "εμοι",
+        "english": "",
+        "strongs": "G1473",
+        "grammar": "P-1DS"
+    },
+    {
+        "chapter": 2,
+        "verse": 4,
+        "word": 7,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 4,
+        "word": 8,
+        "greek": "σοι",
+        "english": "",
+        "strongs": "G4771",
+        "grammar": "P-2DS"
+    },
+    {
+        "chapter": 2,
+        "verse": 4,
+        "word": 9,
+        "greek": "γυναι",
+        "english": "",
+        "strongs": "G1135",
+        "grammar": "N-VSF"
+    },
+    {
+        "chapter": 2,
+        "verse": 4,
+        "word": 10,
+        "greek": "ουπω",
+        "english": "",
+        "strongs": "G3768",
+        "grammar": "ADV-N"
+    },
+    {
+        "chapter": 2,
+        "verse": 4,
+        "word": 11,
+        "greek": "ηκει",
+        "english": "",
+        "strongs": "G2240",
+        "grammar": "V-PAI-3S"
+    },
+    {
+        "chapter": 2,
+        "verse": 4,
+        "word": 12,
+        "greek": "η",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-NSF"
+    },
+    {
+        "chapter": 2,
+        "verse": 4,
+        "word": 13,
+        "greek": "ωρα",
+        "english": "",
+        "strongs": "G5610",
+        "grammar": "N-NSF"
+    },
+    {
+        "chapter": 2,
+        "verse": 4,
+        "word": 14,
+        "greek": "μου",
+        "english": "",
+        "strongs": "G1473",
+        "grammar": "P-1GS"
+    },
+    {
+        "chapter": 2,
+        "verse": 5,
+        "word": 1,
+        "greek": "λεγει",
+        "english": "",
+        "strongs": "G3004",
+        "grammar": "V-PAI-3S"
+    },
+    {
+        "chapter": 2,
+        "verse": 5,
+        "word": 2,
+        "greek": "η",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-NSF"
+    },
+    {
+        "chapter": 2,
+        "verse": 5,
+        "word": 3,
+        "greek": "μητηρ",
+        "english": "",
+        "strongs": "G3384",
+        "grammar": "N-NSF"
+    },
+    {
+        "chapter": 2,
+        "verse": 5,
+        "word": 4,
+        "greek": "αυτου",
+        "english": "",
+        "strongs": "G846",
+        "grammar": "P-GSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 5,
+        "word": 5,
+        "greek": "τοις",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-DPM"
+    },
+    {
+        "chapter": 2,
+        "verse": 5,
+        "word": 6,
+        "greek": "διακονοις",
+        "english": "",
+        "strongs": "G1249",
+        "grammar": "N-DPM"
+    },
+    {
+        "chapter": 2,
+        "verse": 5,
+        "word": 7,
+        "greek": "ο",
+        "english": "",
+        "strongs": "G3739",
+        "grammar": "R-ASN"
+    },
+    {
+        "chapter": 2,
+        "verse": 5,
+        "word": 8,
+        "greek": "τι",
+        "english": "",
+        "strongs": "G5100",
+        "grammar": "X-ASN"
+    },
+    {
+        "chapter": 2,
+        "verse": 5,
+        "word": 9,
+        "greek": "αν",
+        "english": "",
+        "strongs": "G302",
+        "grammar": "PRT"
+    },
+    {
+        "chapter": 2,
+        "verse": 5,
+        "word": 10,
+        "greek": "λεγη",
+        "english": "",
+        "strongs": "G3004",
+        "grammar": "V-PAS-3S"
+    },
+    {
+        "chapter": 2,
+        "verse": 5,
+        "word": 11,
+        "greek": "υμιν",
+        "english": "",
+        "strongs": "G4771",
+        "grammar": "P-2DP"
+    },
+    {
+        "chapter": 2,
+        "verse": 5,
+        "word": 12,
+        "greek": "ποιησατε",
+        "english": "",
+        "strongs": "G4160",
+        "grammar": "V-AAM-2P"
+    },
+    {
+        "chapter": 2,
+        "verse": 6,
+        "word": 1,
+        "greek": "ησαν",
+        "english": "",
+        "strongs": "G1510",
+        "grammar": "V-IAI-3P"
+    },
+    {
+        "chapter": 2,
+        "verse": 6,
+        "word": 2,
+        "greek": "δε",
+        "english": "",
+        "strongs": "G1161",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 6,
+        "word": 3,
+        "greek": "εκει",
+        "english": "",
+        "strongs": "G1563",
+        "grammar": "ADV"
+    },
+    {
+        "chapter": 2,
+        "verse": 6,
+        "word": 4,
+        "greek": "υδριαι",
+        "english": "",
+        "strongs": "G5201",
+        "grammar": "N-NPF"
+    },
+    {
+        "chapter": 2,
+        "verse": 6,
+        "word": 5,
+        "greek": "λιθιναι",
+        "english": "",
+        "strongs": "G3035",
+        "grammar": "A-NPF"
+    },
+    {
+        "chapter": 2,
+        "verse": 6,
+        "word": 6,
+        "greek": "εξ",
+        "english": "",
+        "strongs": "G1803",
+        "grammar": "A-NUI"
+    },
+    {
+        "chapter": 2,
+        "verse": 6,
+        "word": 7,
+        "greek": "κειμεναι",
+        "english": "",
+        "strongs": "G2749",
+        "grammar": "V-PNP-NPF"
+    },
+    {
+        "chapter": 2,
+        "verse": 6,
+        "word": 8,
+        "greek": "κατα",
+        "english": "",
+        "strongs": "G2596",
+        "grammar": "PREP"
+    },
+    {
+        "chapter": 2,
+        "verse": 6,
+        "word": 9,
+        "greek": "τον",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-ASM"
+    },
+    {
+        "chapter": 2,
+        "verse": 6,
+        "word": 10,
+        "greek": "καθαρισμον",
+        "english": "",
+        "strongs": "G2512",
+        "grammar": "N-ASM"
+    },
+    {
+        "chapter": 2,
+        "verse": 6,
+        "word": 11,
+        "greek": "των",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-GPM"
+    },
+    {
+        "chapter": 2,
+        "verse": 6,
+        "word": 12,
+        "greek": "ιουδαιων",
+        "english": "",
+        "strongs": "G2453",
+        "grammar": "A-GPM"
+    },
+    {
+        "chapter": 2,
+        "verse": 6,
+        "word": 13,
+        "greek": "χωρουσαι",
+        "english": "",
+        "strongs": "G5562",
+        "grammar": "V-PAP-NPF"
+    },
+    {
+        "chapter": 2,
+        "verse": 6,
+        "word": 14,
+        "greek": "ανα",
+        "english": "",
+        "strongs": "G303",
+        "grammar": "PREP"
+    },
+    {
+        "chapter": 2,
+        "verse": 6,
+        "word": 15,
+        "greek": "μετρητας",
+        "english": "",
+        "strongs": "G3355",
+        "grammar": "N-APM"
+    },
+    {
+        "chapter": 2,
+        "verse": 6,
+        "word": 16,
+        "greek": "δυο",
+        "english": "",
+        "strongs": "G1417",
+        "grammar": "A-NUI"
+    },
+    {
+        "chapter": 2,
+        "verse": 6,
+        "word": 17,
+        "greek": "η",
+        "english": "",
+        "strongs": "G2228",
+        "grammar": "PRT"
+    },
+    {
+        "chapter": 2,
+        "verse": 6,
+        "word": 18,
+        "greek": "τρεις",
+        "english": "",
+        "strongs": "G5140",
+        "grammar": "A-APM"
+    },
+    {
+        "chapter": 2,
+        "verse": 7,
+        "word": 1,
+        "greek": "λεγει",
+        "english": "",
+        "strongs": "G3004",
+        "grammar": "V-PAI-3S"
+    },
+    {
+        "chapter": 2,
+        "verse": 7,
+        "word": 2,
+        "greek": "αυτοις",
+        "english": "",
+        "strongs": "G846",
+        "grammar": "P-DPM"
+    },
+    {
+        "chapter": 2,
+        "verse": 7,
+        "word": 3,
+        "greek": "ο",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-NSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 7,
+        "word": 4,
+        "greek": "ιησους",
+        "english": "",
+        "strongs": "G2424",
+        "grammar": "N-NSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 7,
+        "word": 5,
+        "greek": "γεμισατε",
+        "english": "",
+        "strongs": "G1072",
+        "grammar": "V-AAM-2P"
+    },
+    {
+        "chapter": 2,
+        "verse": 7,
+        "word": 6,
+        "greek": "τας",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-APF"
+    },
+    {
+        "chapter": 2,
+        "verse": 7,
+        "word": 7,
+        "greek": "υδριας",
+        "english": "",
+        "strongs": "G5201",
+        "grammar": "N-APF"
+    },
+    {
+        "chapter": 2,
+        "verse": 7,
+        "word": 8,
+        "greek": "υδατος",
+        "english": "",
+        "strongs": "G5204",
+        "grammar": "N-GSN"
+    },
+    {
+        "chapter": 2,
+        "verse": 7,
+        "word": 9,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 7,
+        "word": 10,
+        "greek": "εγεμισαν",
+        "english": "",
+        "strongs": "G1072",
+        "grammar": "V-AAI-3P"
+    },
+    {
+        "chapter": 2,
+        "verse": 7,
+        "word": 11,
+        "greek": "αυτας",
+        "english": "",
+        "strongs": "G846",
+        "grammar": "P-APF"
+    },
+    {
+        "chapter": 2,
+        "verse": 7,
+        "word": 12,
+        "greek": "εως",
+        "english": "",
+        "strongs": "G2193",
+        "grammar": "ADV"
+    },
+    {
+        "chapter": 2,
+        "verse": 7,
+        "word": 13,
+        "greek": "ανω",
+        "english": "",
+        "strongs": "G507",
+        "grammar": "ADV"
+    },
+    {
+        "chapter": 2,
+        "verse": 8,
+        "word": 1,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 8,
+        "word": 2,
+        "greek": "λεγει",
+        "english": "",
+        "strongs": "G3004",
+        "grammar": "V-PAI-3S"
+    },
+    {
+        "chapter": 2,
+        "verse": 8,
+        "word": 3,
+        "greek": "αυτοις",
+        "english": "",
+        "strongs": "G846",
+        "grammar": "P-DPM"
+    },
+    {
+        "chapter": 2,
+        "verse": 8,
+        "word": 4,
+        "greek": "αντλησατε",
+        "english": "",
+        "strongs": "G501",
+        "grammar": "V-AAM-2P"
+    },
+    {
+        "chapter": 2,
+        "verse": 8,
+        "word": 5,
+        "greek": "νυν",
+        "english": "",
+        "strongs": "G3568",
+        "grammar": "ADV"
+    },
+    {
+        "chapter": 2,
+        "verse": 8,
+        "word": 6,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 8,
+        "word": 7,
+        "greek": "φερετε",
+        "english": "",
+        "strongs": "G5342",
+        "grammar": "V-PAM-2P"
+    },
+    {
+        "chapter": 2,
+        "verse": 8,
+        "word": 8,
+        "greek": "τω",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-DSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 8,
+        "word": 9,
+        "greek": "αρχιτρικλινω",
+        "english": "",
+        "strongs": "G755",
+        "grammar": "N-DSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 8,
+        "word": 10,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 8,
+        "word": 11,
+        "greek": "ηνεγκαν",
+        "english": "",
+        "strongs": "G5342",
+        "grammar": "V-AAI-3P"
+    },
+    {
+        "chapter": 2,
+        "verse": 9,
+        "word": 1,
+        "greek": "ως",
+        "english": "",
+        "strongs": "G5613",
+        "grammar": "ADV"
+    },
+    {
+        "chapter": 2,
+        "verse": 9,
+        "word": 2,
+        "greek": "δε",
+        "english": "",
+        "strongs": "G1161",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 9,
+        "word": 3,
+        "greek": "εγευσατο",
+        "english": "",
+        "strongs": "G1089",
+        "grammar": "V-ADI-3S"
+    },
+    {
+        "chapter": 2,
+        "verse": 9,
+        "word": 4,
+        "greek": "ο",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-NSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 9,
+        "word": 5,
+        "greek": "αρχιτρικλινος",
+        "english": "",
+        "strongs": "G755",
+        "grammar": "N-NSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 9,
+        "word": 6,
+        "greek": "το",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-ASN"
+    },
+    {
+        "chapter": 2,
+        "verse": 9,
+        "word": 7,
+        "greek": "υδωρ",
+        "english": "",
+        "strongs": "G5204",
+        "grammar": "N-ASN"
+    },
+    {
+        "chapter": 2,
+        "verse": 9,
+        "word": 8,
+        "greek": "οινον",
+        "english": "",
+        "strongs": "G3631",
+        "grammar": "N-ASM"
+    },
+    {
+        "chapter": 2,
+        "verse": 9,
+        "word": 9,
+        "greek": "γεγενημενον",
+        "english": "",
+        "strongs": "G1096",
+        "grammar": "V-RPP-ASN"
+    },
+    {
+        "chapter": 2,
+        "verse": 9,
+        "word": 10,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 9,
+        "word": 11,
+        "greek": "ουκ",
+        "english": "",
+        "strongs": "G3756",
+        "grammar": "PRT-N"
+    },
+    {
+        "chapter": 2,
+        "verse": 9,
+        "word": 12,
+        "greek": "ηδει",
+        "english": "",
+        "strongs": "G1492",
+        "grammar": "V-2LAI-3S"
+    },
+    {
+        "chapter": 2,
+        "verse": 9,
+        "word": 13,
+        "greek": "ποθεν",
+        "english": "",
+        "strongs": "G4159",
+        "grammar": "ADV-I"
+    },
+    {
+        "chapter": 2,
+        "verse": 9,
+        "word": 14,
+        "greek": "εστιν",
+        "english": "",
+        "strongs": "G1510",
+        "grammar": "V-PAI-3S"
+    },
+    {
+        "chapter": 2,
+        "verse": 9,
+        "word": 15,
+        "greek": "οι",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-NPM"
+    },
+    {
+        "chapter": 2,
+        "verse": 9,
+        "word": 16,
+        "greek": "δε",
+        "english": "",
+        "strongs": "G1161",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 9,
+        "word": 17,
+        "greek": "διακονοι",
+        "english": "",
+        "strongs": "G1249",
+        "grammar": "N-NPM"
+    },
+    {
+        "chapter": 2,
+        "verse": 9,
+        "word": 18,
+        "greek": "ηδεισαν",
+        "english": "",
+        "strongs": "G1492",
+        "grammar": "V-2LAI-3P"
+    },
+    {
+        "chapter": 2,
+        "verse": 9,
+        "word": 19,
+        "greek": "οι",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-NPM"
+    },
+    {
+        "chapter": 2,
+        "verse": 9,
+        "word": 20,
+        "greek": "ηντληκοτες",
+        "english": "",
+        "strongs": "G501",
+        "grammar": "V-RAP-NPM"
+    },
+    {
+        "chapter": 2,
+        "verse": 9,
+        "word": 21,
+        "greek": "το",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-ASN"
+    },
+    {
+        "chapter": 2,
+        "verse": 9,
+        "word": 22,
+        "greek": "υδωρ",
+        "english": "",
+        "strongs": "G5204",
+        "grammar": "N-ASN"
+    },
+    {
+        "chapter": 2,
+        "verse": 9,
+        "word": 23,
+        "greek": "φωνει",
+        "english": "",
+        "strongs": "G5455",
+        "grammar": "V-PAI-3S"
+    },
+    {
+        "chapter": 2,
+        "verse": 9,
+        "word": 24,
+        "greek": "τον",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-ASM"
+    },
+    {
+        "chapter": 2,
+        "verse": 9,
+        "word": 25,
+        "greek": "νυμφιον",
+        "english": "",
+        "strongs": "G3566",
+        "grammar": "N-ASM"
+    },
+    {
+        "chapter": 2,
+        "verse": 9,
+        "word": 26,
+        "greek": "ο",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-NSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 9,
+        "word": 27,
+        "greek": "αρχιτρικλινος",
+        "english": "",
+        "strongs": "G755",
+        "grammar": "N-NSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 10,
+        "word": 1,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 10,
+        "word": 2,
+        "greek": "λεγει",
+        "english": "",
+        "strongs": "G3004",
+        "grammar": "V-PAI-3S"
+    },
+    {
+        "chapter": 2,
+        "verse": 10,
+        "word": 3,
+        "greek": "αυτω",
+        "english": "",
+        "strongs": "G846",
+        "grammar": "P-DSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 10,
+        "word": 4,
+        "greek": "πας",
+        "english": "",
+        "strongs": "G3956",
+        "grammar": "A-NSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 10,
+        "word": 5,
+        "greek": "ανθρωπος",
+        "english": "",
+        "strongs": "G444",
+        "grammar": "N-NSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 10,
+        "word": 6,
+        "greek": "πρωτον",
+        "english": "",
+        "strongs": "G4412",
+        "grammar": "ADV-S"
+    },
+    {
+        "chapter": 2,
+        "verse": 10,
+        "word": 7,
+        "greek": "τον",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-ASM"
+    },
+    {
+        "chapter": 2,
+        "verse": 10,
+        "word": 8,
+        "greek": "καλον",
+        "english": "",
+        "strongs": "G2570",
+        "grammar": "A-ASM"
+    },
+    {
+        "chapter": 2,
+        "verse": 10,
+        "word": 9,
+        "greek": "οινον",
+        "english": "",
+        "strongs": "G3631",
+        "grammar": "N-ASM"
+    },
+    {
+        "chapter": 2,
+        "verse": 10,
+        "word": 10,
+        "greek": "τιθησιν",
+        "english": "",
+        "strongs": "G5087",
+        "grammar": "V-PAI-3S"
+    },
+    {
+        "chapter": 2,
+        "verse": 10,
+        "word": 11,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 10,
+        "word": 12,
+        "greek": "οταν",
+        "english": "",
+        "strongs": "G3752",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 10,
+        "word": 13,
+        "greek": "μεθυσθωσιν",
+        "english": "",
+        "strongs": "G3184",
+        "grammar": "V-APS-3P"
+    },
+    {
+        "chapter": 2,
+        "verse": 10,
+        "word": 14,
+        "greek": "τοτε",
+        "english": "",
+        "strongs": "G5119",
+        "grammar": "ADV"
+    },
+    {
+        "chapter": 2,
+        "verse": 10,
+        "word": 15,
+        "greek": "τον",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-ASM"
+    },
+    {
+        "chapter": 2,
+        "verse": 10,
+        "word": 16,
+        "greek": "ελασσω",
+        "english": "",
+        "strongs": "G1640",
+        "grammar": "A-ASM-C"
+    },
+    {
+        "chapter": 2,
+        "verse": 10,
+        "word": 17,
+        "greek": "συ",
+        "english": "",
+        "strongs": "G4771",
+        "grammar": "P-2NS"
+    },
+    {
+        "chapter": 2,
+        "verse": 10,
+        "word": 18,
+        "greek": "τετηρηκας",
+        "english": "",
+        "strongs": "G5083",
+        "grammar": "V-RAI-2S"
+    },
+    {
+        "chapter": 2,
+        "verse": 10,
+        "word": 19,
+        "greek": "τον",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-ASM"
+    },
+    {
+        "chapter": 2,
+        "verse": 10,
+        "word": 20,
+        "greek": "καλον",
+        "english": "",
+        "strongs": "G2570",
+        "grammar": "A-ASM"
+    },
+    {
+        "chapter": 2,
+        "verse": 10,
+        "word": 21,
+        "greek": "οινον",
+        "english": "",
+        "strongs": "G3631",
+        "grammar": "N-ASM"
+    },
+    {
+        "chapter": 2,
+        "verse": 10,
+        "word": 22,
+        "greek": "εως",
+        "english": "",
+        "strongs": "G2193",
+        "grammar": "ADV"
+    },
+    {
+        "chapter": 2,
+        "verse": 10,
+        "word": 23,
+        "greek": "αρτι",
+        "english": "",
+        "strongs": "G737",
+        "grammar": "ADV"
+    },
+    {
+        "chapter": 2,
+        "verse": 11,
+        "word": 1,
+        "greek": "ταυτην",
+        "english": "",
+        "strongs": "G3778",
+        "grammar": "D-ASF"
+    },
+    {
+        "chapter": 2,
+        "verse": 11,
+        "word": 2,
+        "greek": "εποιησεν",
+        "english": "",
+        "strongs": "G4160",
+        "grammar": "V-AAI-3S"
+    },
+    {
+        "chapter": 2,
+        "verse": 11,
+        "word": 3,
+        "greek": "την",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-ASF"
+    },
+    {
+        "chapter": 2,
+        "verse": 11,
+        "word": 4,
+        "greek": "αρχην",
+        "english": "",
+        "strongs": "G746",
+        "grammar": "N-ASF"
+    },
+    {
+        "chapter": 2,
+        "verse": 11,
+        "word": 5,
+        "greek": "των",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-GPN"
+    },
+    {
+        "chapter": 2,
+        "verse": 11,
+        "word": 6,
+        "greek": "σημειων",
+        "english": "",
+        "strongs": "G4592",
+        "grammar": "N-GPN"
+    },
+    {
+        "chapter": 2,
+        "verse": 11,
+        "word": 7,
+        "greek": "ο",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-NSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 11,
+        "word": 8,
+        "greek": "ιησους",
+        "english": "",
+        "strongs": "G2424",
+        "grammar": "N-NSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 11,
+        "word": 9,
+        "greek": "εν",
+        "english": "",
+        "strongs": "G1722",
+        "grammar": "PREP"
+    },
+    {
+        "chapter": 2,
+        "verse": 11,
+        "word": 10,
+        "greek": "κανα",
+        "english": "",
+        "strongs": "G2580",
+        "grammar": "N-PRI"
+    },
+    {
+        "chapter": 2,
+        "verse": 11,
+        "word": 11,
+        "greek": "της",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-GSF"
+    },
+    {
+        "chapter": 2,
+        "verse": 11,
+        "word": 12,
+        "greek": "γαλιλαιας",
+        "english": "",
+        "strongs": "G1056",
+        "grammar": "N-GSF"
+    },
+    {
+        "chapter": 2,
+        "verse": 11,
+        "word": 13,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 11,
+        "word": 14,
+        "greek": "εφανερωσεν",
+        "english": "",
+        "strongs": "G5319",
+        "grammar": "V-AAI-3S"
+    },
+    {
+        "chapter": 2,
+        "verse": 11,
+        "word": 15,
+        "greek": "την",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-ASF"
+    },
+    {
+        "chapter": 2,
+        "verse": 11,
+        "word": 16,
+        "greek": "δοξαν",
+        "english": "",
+        "strongs": "G1391",
+        "grammar": "N-ASF"
+    },
+    {
+        "chapter": 2,
+        "verse": 11,
+        "word": 17,
+        "greek": "αυτου",
+        "english": "",
+        "strongs": "G846",
+        "grammar": "P-GSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 11,
+        "word": 18,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 11,
+        "word": 19,
+        "greek": "επιστευσαν",
+        "english": "",
+        "strongs": "G4100",
+        "grammar": "V-AAI-3P"
+    },
+    {
+        "chapter": 2,
+        "verse": 11,
+        "word": 20,
+        "greek": "εις",
+        "english": "",
+        "strongs": "G1519",
+        "grammar": "PREP"
+    },
+    {
+        "chapter": 2,
+        "verse": 11,
+        "word": 21,
+        "greek": "αυτον",
+        "english": "",
+        "strongs": "G846",
+        "grammar": "P-ASM"
+    },
+    {
+        "chapter": 2,
+        "verse": 11,
+        "word": 22,
+        "greek": "οι",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-NPM"
+    },
+    {
+        "chapter": 2,
+        "verse": 11,
+        "word": 23,
+        "greek": "μαθηται",
+        "english": "",
+        "strongs": "G3101",
+        "grammar": "N-NPM"
+    },
+    {
+        "chapter": 2,
+        "verse": 11,
+        "word": 24,
+        "greek": "αυτου",
+        "english": "",
+        "strongs": "G846",
+        "grammar": "P-GSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 12,
+        "word": 1,
+        "greek": "μετα",
+        "english": "",
+        "strongs": "G3326",
+        "grammar": "PREP"
+    },
+    {
+        "chapter": 2,
+        "verse": 12,
+        "word": 2,
+        "greek": "τουτο",
+        "english": "",
+        "strongs": "G3778",
+        "grammar": "D-ASN"
+    },
+    {
+        "chapter": 2,
+        "verse": 12,
+        "word": 3,
+        "greek": "κατεβη",
+        "english": "",
+        "strongs": "G2597",
+        "grammar": "V-2AAI-3S"
+    },
+    {
+        "chapter": 2,
+        "verse": 12,
+        "word": 4,
+        "greek": "εις",
+        "english": "",
+        "strongs": "G1519",
+        "grammar": "PREP"
+    },
+    {
+        "chapter": 2,
+        "verse": 12,
+        "word": 5,
+        "greek": "καπερναουμ",
+        "english": "",
+        "strongs": "G2584",
+        "grammar": "N-PRI"
+    },
+    {
+        "chapter": 2,
+        "verse": 12,
+        "word": 6,
+        "greek": "αυτος",
+        "english": "",
+        "strongs": "G846",
+        "grammar": "P-NSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 12,
+        "word": 7,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 12,
+        "word": 8,
+        "greek": "η",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-NSF"
+    },
+    {
+        "chapter": 2,
+        "verse": 12,
+        "word": 9,
+        "greek": "μητηρ",
+        "english": "",
+        "strongs": "G3384",
+        "grammar": "N-NSF"
+    },
+    {
+        "chapter": 2,
+        "verse": 12,
+        "word": 10,
+        "greek": "αυτου",
+        "english": "",
+        "strongs": "G846",
+        "grammar": "P-GSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 12,
+        "word": 11,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 12,
+        "word": 12,
+        "greek": "οι",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-NPM"
+    },
+    {
+        "chapter": 2,
+        "verse": 12,
+        "word": 13,
+        "greek": "αδελφοι",
+        "english": "",
+        "strongs": "G80",
+        "grammar": "N-NPM"
+    },
+    {
+        "chapter": 2,
+        "verse": 12,
+        "word": 14,
+        "greek": "αυτου",
+        "english": "",
+        "strongs": "G846",
+        "grammar": "P-GSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 12,
+        "word": 15,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 12,
+        "word": 16,
+        "greek": "οι",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-NPM"
+    },
+    {
+        "chapter": 2,
+        "verse": 12,
+        "word": 17,
+        "greek": "μαθηται",
+        "english": "",
+        "strongs": "G3101",
+        "grammar": "N-NPM"
+    },
+    {
+        "chapter": 2,
+        "verse": 12,
+        "word": 18,
+        "greek": "αυτου",
+        "english": "",
+        "strongs": "G846",
+        "grammar": "P-GSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 12,
+        "word": 19,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 12,
+        "word": 20,
+        "greek": "εκει",
+        "english": "",
+        "strongs": "G1563",
+        "grammar": "ADV"
+    },
+    {
+        "chapter": 2,
+        "verse": 12,
+        "word": 21,
+        "greek": "εμειναν",
+        "english": "",
+        "strongs": "G3306",
+        "grammar": "V-AAI-3P"
+    },
+    {
+        "chapter": 2,
+        "verse": 12,
+        "word": 22,
+        "greek": "ου",
+        "english": "",
+        "strongs": "G3756",
+        "grammar": "PRT-N"
+    },
+    {
+        "chapter": 2,
+        "verse": 12,
+        "word": 23,
+        "greek": "πολλας",
+        "english": "",
+        "strongs": "G4183",
+        "grammar": "A-APF"
+    },
+    {
+        "chapter": 2,
+        "verse": 12,
+        "word": 24,
+        "greek": "ημερας",
+        "english": "",
+        "strongs": "G2250",
+        "grammar": "N-APF"
+    },
+    {
+        "chapter": 2,
+        "verse": 13,
+        "word": 1,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 13,
+        "word": 2,
+        "greek": "εγγυς",
+        "english": "",
+        "strongs": "G1451",
+        "grammar": "ADV"
+    },
+    {
+        "chapter": 2,
+        "verse": 13,
+        "word": 3,
+        "greek": "ην",
+        "english": "",
+        "strongs": "G1510",
+        "grammar": "V-IAI-3S"
+    },
+    {
+        "chapter": 2,
+        "verse": 13,
+        "word": 4,
+        "greek": "το",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-NSN"
+    },
+    {
+        "chapter": 2,
+        "verse": 13,
+        "word": 5,
+        "greek": "πασχα",
+        "english": "",
+        "strongs": "G3957",
+        "grammar": "ARAM"
+    },
+    {
+        "chapter": 2,
+        "verse": 13,
+        "word": 6,
+        "greek": "των",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-GPM"
+    },
+    {
+        "chapter": 2,
+        "verse": 13,
+        "word": 7,
+        "greek": "ιουδαιων",
+        "english": "",
+        "strongs": "G2453",
+        "grammar": "A-GPM"
+    },
+    {
+        "chapter": 2,
+        "verse": 13,
+        "word": 8,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 13,
+        "word": 9,
+        "greek": "ανεβη",
+        "english": "",
+        "strongs": "G305",
+        "grammar": "V-2AAI-3S"
+    },
+    {
+        "chapter": 2,
+        "verse": 13,
+        "word": 10,
+        "greek": "εις",
+        "english": "",
+        "strongs": "G1519",
+        "grammar": "PREP"
+    },
+    {
+        "chapter": 2,
+        "verse": 13,
+        "word": 11,
+        "greek": "ιεροσολυμα",
+        "english": "",
+        "strongs": "G2414",
+        "grammar": "N-APN"
+    },
+    {
+        "chapter": 2,
+        "verse": 13,
+        "word": 12,
+        "greek": "ο",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-NSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 13,
+        "word": 13,
+        "greek": "ιησους",
+        "english": "",
+        "strongs": "G2424",
+        "grammar": "N-NSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 14,
+        "word": 1,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 14,
+        "word": 2,
+        "greek": "ευρεν",
+        "english": "",
+        "strongs": "G2147",
+        "grammar": "V-2AAI-3S"
+    },
+    {
+        "chapter": 2,
+        "verse": 14,
+        "word": 3,
+        "greek": "εν",
+        "english": "",
+        "strongs": "G1722",
+        "grammar": "PREP"
+    },
+    {
+        "chapter": 2,
+        "verse": 14,
+        "word": 4,
+        "greek": "τω",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-DSN"
+    },
+    {
+        "chapter": 2,
+        "verse": 14,
+        "word": 5,
+        "greek": "ιερω",
+        "english": "",
+        "strongs": "G2411",
+        "grammar": "N-DSN"
+    },
+    {
+        "chapter": 2,
+        "verse": 14,
+        "word": 6,
+        "greek": "τους",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-APM"
+    },
+    {
+        "chapter": 2,
+        "verse": 14,
+        "word": 7,
+        "greek": "πωλουντας",
+        "english": "",
+        "strongs": "G4453",
+        "grammar": "V-PAP-APM"
+    },
+    {
+        "chapter": 2,
+        "verse": 14,
+        "word": 8,
+        "greek": "βοας",
+        "english": "",
+        "strongs": "G1016",
+        "grammar": "N-APM"
+    },
+    {
+        "chapter": 2,
+        "verse": 14,
+        "word": 9,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 14,
+        "word": 10,
+        "greek": "προβατα",
+        "english": "",
+        "strongs": "G4263",
+        "grammar": "N-APN"
+    },
+    {
+        "chapter": 2,
+        "verse": 14,
+        "word": 11,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 14,
+        "word": 12,
+        "greek": "περιστερας",
+        "english": "",
+        "strongs": "G4058",
+        "grammar": "N-APF"
+    },
+    {
+        "chapter": 2,
+        "verse": 14,
+        "word": 13,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 14,
+        "word": 14,
+        "greek": "τους",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-APM"
+    },
+    {
+        "chapter": 2,
+        "verse": 14,
+        "word": 15,
+        "greek": "κερματιστας",
+        "english": "",
+        "strongs": "G2773",
+        "grammar": "N-APM"
+    },
+    {
+        "chapter": 2,
+        "verse": 14,
+        "word": 16,
+        "greek": "καθημενους",
+        "english": "",
+        "strongs": "G2521",
+        "grammar": "V-PNP-APM"
+    },
+    {
+        "chapter": 2,
+        "verse": 15,
+        "word": 1,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 15,
+        "word": 2,
+        "greek": "ποιησας",
+        "english": "",
+        "strongs": "G4160",
+        "grammar": "V-AAP-NSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 15,
+        "word": 3,
+        "greek": "φραγελλιον",
+        "english": "",
+        "strongs": "G5416",
+        "grammar": "N-ASN"
+    },
+    {
+        "chapter": 2,
+        "verse": 15,
+        "word": 4,
+        "greek": "εκ",
+        "english": "",
+        "strongs": "G1537",
+        "grammar": "PREP"
+    },
+    {
+        "chapter": 2,
+        "verse": 15,
+        "word": 5,
+        "greek": "σχοινιων",
+        "english": "",
+        "strongs": "G4979",
+        "grammar": "N-GPN"
+    },
+    {
+        "chapter": 2,
+        "verse": 15,
+        "word": 6,
+        "greek": "παντας",
+        "english": "",
+        "strongs": "G3956",
+        "grammar": "A-APM"
+    },
+    {
+        "chapter": 2,
+        "verse": 15,
+        "word": 7,
+        "greek": "εξεβαλεν",
+        "english": "",
+        "strongs": "G1544",
+        "grammar": "V-2AAI-3S"
+    },
+    {
+        "chapter": 2,
+        "verse": 15,
+        "word": 8,
+        "greek": "εκ",
+        "english": "",
+        "strongs": "G1537",
+        "grammar": "PREP"
+    },
+    {
+        "chapter": 2,
+        "verse": 15,
+        "word": 9,
+        "greek": "του",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-GSN"
+    },
+    {
+        "chapter": 2,
+        "verse": 15,
+        "word": 10,
+        "greek": "ιερου",
+        "english": "",
+        "strongs": "G2411",
+        "grammar": "N-GSN"
+    },
+    {
+        "chapter": 2,
+        "verse": 15,
+        "word": 11,
+        "greek": "τα",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-APN"
+    },
+    {
+        "chapter": 2,
+        "verse": 15,
+        "word": 12,
+        "greek": "τε",
+        "english": "",
+        "strongs": "G5037",
+        "grammar": "PRT"
+    },
+    {
+        "chapter": 2,
+        "verse": 15,
+        "word": 13,
+        "greek": "προβατα",
+        "english": "",
+        "strongs": "G4263",
+        "grammar": "N-APN"
+    },
+    {
+        "chapter": 2,
+        "verse": 15,
+        "word": 14,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 15,
+        "word": 15,
+        "greek": "τους",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-APM"
+    },
+    {
+        "chapter": 2,
+        "verse": 15,
+        "word": 16,
+        "greek": "βοας",
+        "english": "",
+        "strongs": "G1016",
+        "grammar": "N-APM"
+    },
+    {
+        "chapter": 2,
+        "verse": 15,
+        "word": 17,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 15,
+        "word": 18,
+        "greek": "των",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-GPM"
+    },
+    {
+        "chapter": 2,
+        "verse": 15,
+        "word": 19,
+        "greek": "κολλυβιστων",
+        "english": "",
+        "strongs": "G2855",
+        "grammar": "N-GPM"
+    },
+    {
+        "chapter": 2,
+        "verse": 15,
+        "word": 20,
+        "greek": "εξεχεεν",
+        "english": "",
+        "strongs": "G1632",
+        "grammar": "V-AAI-3S"
+    },
+    {
+        "chapter": 2,
+        "verse": 15,
+        "word": 21,
+        "greek": "το",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-ASN"
+    },
+    {
+        "chapter": 2,
+        "verse": 15,
+        "word": 22,
+        "greek": "κερμα",
+        "english": "",
+        "strongs": "G2772",
+        "grammar": "N-ASN"
+    },
+    {
+        "chapter": 2,
+        "verse": 15,
+        "word": 23,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 15,
+        "word": 24,
+        "greek": "τας",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-APF"
+    },
+    {
+        "chapter": 2,
+        "verse": 15,
+        "word": 25,
+        "greek": "τραπεζας",
+        "english": "",
+        "strongs": "G5132",
+        "grammar": "N-APF"
+    },
+    {
+        "chapter": 2,
+        "verse": 15,
+        "word": 26,
+        "greek": "ανεστρεψεν",
+        "english": "",
+        "strongs": "G390",
+        "grammar": "V-AAI-3S"
+    },
+    {
+        "chapter": 2,
+        "verse": 16,
+        "word": 1,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 16,
+        "word": 2,
+        "greek": "τοις",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-DPM"
+    },
+    {
+        "chapter": 2,
+        "verse": 16,
+        "word": 3,
+        "greek": "τας",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-APF"
+    },
+    {
+        "chapter": 2,
+        "verse": 16,
+        "word": 4,
+        "greek": "περιστερας",
+        "english": "",
+        "strongs": "G4058",
+        "grammar": "N-APF"
+    },
+    {
+        "chapter": 2,
+        "verse": 16,
+        "word": 5,
+        "greek": "πωλουσιν",
+        "english": "",
+        "strongs": "G4453",
+        "grammar": "V-PAP-DPM"
+    },
+    {
+        "chapter": 2,
+        "verse": 16,
+        "word": 6,
+        "greek": "ειπεν",
+        "english": "",
+        "strongs": "G3004",
+        "grammar": "V-2AAI-3S"
+    },
+    {
+        "chapter": 2,
+        "verse": 16,
+        "word": 7,
+        "greek": "αρατε",
+        "english": "",
+        "strongs": "G142",
+        "grammar": "V-AAM-2P"
+    },
+    {
+        "chapter": 2,
+        "verse": 16,
+        "word": 8,
+        "greek": "ταυτα",
+        "english": "",
+        "strongs": "G3778",
+        "grammar": "D-APN"
+    },
+    {
+        "chapter": 2,
+        "verse": 16,
+        "word": 9,
+        "greek": "εντευθεν",
+        "english": "",
+        "strongs": "G1782",
+        "grammar": "ADV"
+    },
+    {
+        "chapter": 2,
+        "verse": 16,
+        "word": 10,
+        "greek": "μη",
+        "english": "",
+        "strongs": "G3361",
+        "grammar": "PRT-N"
+    },
+    {
+        "chapter": 2,
+        "verse": 16,
+        "word": 11,
+        "greek": "ποιειτε",
+        "english": "",
+        "strongs": "G4160",
+        "grammar": "V-PAM-2P"
+    },
+    {
+        "chapter": 2,
+        "verse": 16,
+        "word": 12,
+        "greek": "τον",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-ASM"
+    },
+    {
+        "chapter": 2,
+        "verse": 16,
+        "word": 13,
+        "greek": "οικον",
+        "english": "",
+        "strongs": "G3624",
+        "grammar": "N-ASM"
+    },
+    {
+        "chapter": 2,
+        "verse": 16,
+        "word": 14,
+        "greek": "του",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-GSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 16,
+        "word": 15,
+        "greek": "πατρος",
+        "english": "",
+        "strongs": "G3962",
+        "grammar": "N-GSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 16,
+        "word": 16,
+        "greek": "μου",
+        "english": "",
+        "strongs": "G1473",
+        "grammar": "P-1GS"
+    },
+    {
+        "chapter": 2,
+        "verse": 16,
+        "word": 17,
+        "greek": "οικον",
+        "english": "",
+        "strongs": "G3624",
+        "grammar": "N-ASM"
+    },
+    {
+        "chapter": 2,
+        "verse": 16,
+        "word": 18,
+        "greek": "εμποριου",
+        "english": "",
+        "strongs": "G1712",
+        "grammar": "N-GSN"
+    },
+    {
+        "chapter": 2,
+        "verse": 17,
+        "word": 1,
+        "greek": "εμνησθησαν",
+        "english": "",
+        "strongs": "G3403",
+        "grammar": "V-API-3P"
+    },
+    {
+        "chapter": 2,
+        "verse": 17,
+        "word": 2,
+        "greek": "δε",
+        "english": "",
+        "strongs": "G1161",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 17,
+        "word": 3,
+        "greek": "οι",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-NPM"
+    },
+    {
+        "chapter": 2,
+        "verse": 17,
+        "word": 4,
+        "greek": "μαθηται",
+        "english": "",
+        "strongs": "G3101",
+        "grammar": "N-NPM"
+    },
+    {
+        "chapter": 2,
+        "verse": 17,
+        "word": 5,
+        "greek": "αυτου",
+        "english": "",
+        "strongs": "G846",
+        "grammar": "P-GSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 17,
+        "word": 6,
+        "greek": "οτι",
+        "english": "",
+        "strongs": "G3754",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 17,
+        "word": 7,
+        "greek": "γεγραμμενον",
+        "english": "",
+        "strongs": "G1125",
+        "grammar": "V-RPP-NSN"
+    },
+    {
+        "chapter": 2,
+        "verse": 17,
+        "word": 8,
+        "greek": "εστιν",
+        "english": "",
+        "strongs": "G1510",
+        "grammar": "V-PAI-3S"
+    },
+    {
+        "chapter": 2,
+        "verse": 17,
+        "word": 9,
+        "greek": "ο",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-NSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 17,
+        "word": 10,
+        "greek": "ζηλος",
+        "english": "",
+        "strongs": "G2205",
+        "grammar": "N-NSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 17,
+        "word": 11,
+        "greek": "του",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-GSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 17,
+        "word": 12,
+        "greek": "οικου",
+        "english": "",
+        "strongs": "G3624",
+        "grammar": "N-GSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 17,
+        "word": 13,
+        "greek": "σου",
+        "english": "",
+        "strongs": "G4771",
+        "grammar": "P-2GS"
+    },
+    {
+        "chapter": 2,
+        "verse": 17,
+        "word": 14,
+        "greek": "καταφαγεται",
+        "english": "",
+        "strongs": "G2719",
+        "grammar": "V-FDI-3S"
+    },
+    {
+        "chapter": 2,
+        "verse": 17,
+        "word": 15,
+        "greek": "με",
+        "english": "",
+        "strongs": "G1473",
+        "grammar": "P-1AS"
+    },
+    {
+        "chapter": 2,
+        "verse": 18,
+        "word": 1,
+        "greek": "απεκριθησαν",
+        "english": "",
+        "strongs": "G611",
+        "grammar": "V-ADI-3P"
+    },
+    {
+        "chapter": 2,
+        "verse": 18,
+        "word": 2,
+        "greek": "ουν",
+        "english": "",
+        "strongs": "G3767",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 18,
+        "word": 3,
+        "greek": "οι",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-NPM"
+    },
+    {
+        "chapter": 2,
+        "verse": 18,
+        "word": 4,
+        "greek": "ιουδαιοι",
+        "english": "",
+        "strongs": "G2453",
+        "grammar": "A-NPM"
+    },
+    {
+        "chapter": 2,
+        "verse": 18,
+        "word": 5,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 18,
+        "word": 6,
+        "greek": "ειπον",
+        "english": "",
+        "strongs": "G3004",
+        "grammar": "V-2AAI-3P"
+    },
+    {
+        "chapter": 2,
+        "verse": 18,
+        "word": 7,
+        "greek": "αυτω",
+        "english": "",
+        "strongs": "G846",
+        "grammar": "P-DSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 18,
+        "word": 8,
+        "greek": "τι",
+        "english": "",
+        "strongs": "G5101",
+        "grammar": "I-ASN"
+    },
+    {
+        "chapter": 2,
+        "verse": 18,
+        "word": 9,
+        "greek": "σημειον",
+        "english": "",
+        "strongs": "G4592",
+        "grammar": "N-ASN"
+    },
+    {
+        "chapter": 2,
+        "verse": 18,
+        "word": 10,
+        "greek": "δεικνυεις",
+        "english": "",
+        "strongs": "G1166",
+        "grammar": "V-PAI-2S"
+    },
+    {
+        "chapter": 2,
+        "verse": 18,
+        "word": 11,
+        "greek": "ημιν",
+        "english": "",
+        "strongs": "G1473",
+        "grammar": "P-1DP"
+    },
+    {
+        "chapter": 2,
+        "verse": 18,
+        "word": 12,
+        "greek": "οτι",
+        "english": "",
+        "strongs": "G3754",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 18,
+        "word": 13,
+        "greek": "ταυτα",
+        "english": "",
+        "strongs": "G3778",
+        "grammar": "D-APN"
+    },
+    {
+        "chapter": 2,
+        "verse": 18,
+        "word": 14,
+        "greek": "ποιεις",
+        "english": "",
+        "strongs": "G4160",
+        "grammar": "V-PAI-2S"
+    },
+    {
+        "chapter": 2,
+        "verse": 19,
+        "word": 1,
+        "greek": "απεκριθη",
+        "english": "",
+        "strongs": "G611",
+        "grammar": "V-ADI-3S"
+    },
+    {
+        "chapter": 2,
+        "verse": 19,
+        "word": 2,
+        "greek": "ιησους",
+        "english": "",
+        "strongs": "G2424",
+        "grammar": "N-NSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 19,
+        "word": 3,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 19,
+        "word": 4,
+        "greek": "ειπεν",
+        "english": "",
+        "strongs": "G3004",
+        "grammar": "V-2AAI-3S"
+    },
+    {
+        "chapter": 2,
+        "verse": 19,
+        "word": 5,
+        "greek": "αυτοις",
+        "english": "",
+        "strongs": "G846",
+        "grammar": "P-DPM"
+    },
+    {
+        "chapter": 2,
+        "verse": 19,
+        "word": 6,
+        "greek": "λυσατε",
+        "english": "",
+        "strongs": "G3089",
+        "grammar": "V-AAM-2P"
+    },
+    {
+        "chapter": 2,
+        "verse": 19,
+        "word": 7,
+        "greek": "τον",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-ASM"
+    },
+    {
+        "chapter": 2,
+        "verse": 19,
+        "word": 8,
+        "greek": "ναον",
+        "english": "",
+        "strongs": "G3485",
+        "grammar": "N-ASM"
+    },
+    {
+        "chapter": 2,
+        "verse": 19,
+        "word": 9,
+        "greek": "τουτον",
+        "english": "",
+        "strongs": "G3778",
+        "grammar": "D-ASM"
+    },
+    {
+        "chapter": 2,
+        "verse": 19,
+        "word": 10,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 19,
+        "word": 11,
+        "greek": "εν",
+        "english": "",
+        "strongs": "G1722",
+        "grammar": "PREP"
+    },
+    {
+        "chapter": 2,
+        "verse": 19,
+        "word": 12,
+        "greek": "τρισιν",
+        "english": "",
+        "strongs": "G5140",
+        "grammar": "A-DPF"
+    },
+    {
+        "chapter": 2,
+        "verse": 19,
+        "word": 13,
+        "greek": "ημεραις",
+        "english": "",
+        "strongs": "G2250",
+        "grammar": "N-DPF"
+    },
+    {
+        "chapter": 2,
+        "verse": 19,
+        "word": 14,
+        "greek": "εγερω",
+        "english": "",
+        "strongs": "G1453",
+        "grammar": "V-FAI-1S"
+    },
+    {
+        "chapter": 2,
+        "verse": 19,
+        "word": 15,
+        "greek": "αυτον",
+        "english": "",
+        "strongs": "G846",
+        "grammar": "P-ASM"
+    },
+    {
+        "chapter": 2,
+        "verse": 20,
+        "word": 1,
+        "greek": "ειπον",
+        "english": "",
+        "strongs": "G3004",
+        "grammar": "V-2AAI-3P"
+    },
+    {
+        "chapter": 2,
+        "verse": 20,
+        "word": 2,
+        "greek": "ουν",
+        "english": "",
+        "strongs": "G3767",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 20,
+        "word": 3,
+        "greek": "οι",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-NPM"
+    },
+    {
+        "chapter": 2,
+        "verse": 20,
+        "word": 4,
+        "greek": "ιουδαιοι",
+        "english": "",
+        "strongs": "G2453",
+        "grammar": "A-NPM"
+    },
+    {
+        "chapter": 2,
+        "verse": 20,
+        "word": 5,
+        "greek": "τεσσαρακοντα",
+        "english": "",
+        "strongs": "G5062",
+        "grammar": "A-NUI"
+    },
+    {
+        "chapter": 2,
+        "verse": 20,
+        "word": 6,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 20,
+        "word": 7,
+        "greek": "εξ",
+        "english": "",
+        "strongs": "G1803",
+        "grammar": "A-NUI"
+    },
+    {
+        "chapter": 2,
+        "verse": 20,
+        "word": 8,
+        "greek": "ετεσιν",
+        "english": "",
+        "strongs": "G2094",
+        "grammar": "N-DPN"
+    },
+    {
+        "chapter": 2,
+        "verse": 20,
+        "word": 9,
+        "greek": "ωκοδομηθη",
+        "english": "",
+        "strongs": "G3618",
+        "grammar": "V-API-3S"
+    },
+    {
+        "chapter": 2,
+        "verse": 20,
+        "word": 10,
+        "greek": "ο",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-NSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 20,
+        "word": 11,
+        "greek": "ναος",
+        "english": "",
+        "strongs": "G3485",
+        "grammar": "N-NSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 20,
+        "word": 12,
+        "greek": "ουτος",
+        "english": "",
+        "strongs": "G3778",
+        "grammar": "D-NSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 20,
+        "word": 13,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 20,
+        "word": 14,
+        "greek": "συ",
+        "english": "",
+        "strongs": "G4771",
+        "grammar": "P-2NS"
+    },
+    {
+        "chapter": 2,
+        "verse": 20,
+        "word": 15,
+        "greek": "εν",
+        "english": "",
+        "strongs": "G1722",
+        "grammar": "PREP"
+    },
+    {
+        "chapter": 2,
+        "verse": 20,
+        "word": 16,
+        "greek": "τρισιν",
+        "english": "",
+        "strongs": "G5140",
+        "grammar": "A-DPF"
+    },
+    {
+        "chapter": 2,
+        "verse": 20,
+        "word": 17,
+        "greek": "ημεραις",
+        "english": "",
+        "strongs": "G2250",
+        "grammar": "N-DPF"
+    },
+    {
+        "chapter": 2,
+        "verse": 20,
+        "word": 18,
+        "greek": "εγερεις",
+        "english": "",
+        "strongs": "G1453",
+        "grammar": "V-FAI-2S"
+    },
+    {
+        "chapter": 2,
+        "verse": 20,
+        "word": 19,
+        "greek": "αυτον",
+        "english": "",
+        "strongs": "G846",
+        "grammar": "P-ASM"
+    },
+    {
+        "chapter": 2,
+        "verse": 21,
+        "word": 1,
+        "greek": "εκεινος",
+        "english": "",
+        "strongs": "G1565",
+        "grammar": "D-NSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 21,
+        "word": 2,
+        "greek": "δε",
+        "english": "",
+        "strongs": "G1161",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 21,
+        "word": 3,
+        "greek": "ελεγεν",
+        "english": "",
+        "strongs": "G3004",
+        "grammar": "V-IAI-3S"
+    },
+    {
+        "chapter": 2,
+        "verse": 21,
+        "word": 4,
+        "greek": "περι",
+        "english": "",
+        "strongs": "G4012",
+        "grammar": "PREP"
+    },
+    {
+        "chapter": 2,
+        "verse": 21,
+        "word": 5,
+        "greek": "του",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-GSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 21,
+        "word": 6,
+        "greek": "ναου",
+        "english": "",
+        "strongs": "G3485",
+        "grammar": "N-GSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 21,
+        "word": 7,
+        "greek": "του",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-GSN"
+    },
+    {
+        "chapter": 2,
+        "verse": 21,
+        "word": 8,
+        "greek": "σωματος",
+        "english": "",
+        "strongs": "G4983",
+        "grammar": "N-GSN"
+    },
+    {
+        "chapter": 2,
+        "verse": 21,
+        "word": 9,
+        "greek": "αυτου",
+        "english": "",
+        "strongs": "G846",
+        "grammar": "P-GSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 22,
+        "word": 1,
+        "greek": "οτε",
+        "english": "",
+        "strongs": "G3753",
+        "grammar": "ADV"
+    },
+    {
+        "chapter": 2,
+        "verse": 22,
+        "word": 2,
+        "greek": "ουν",
+        "english": "",
+        "strongs": "G3767",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 22,
+        "word": 3,
+        "greek": "ηγερθη",
+        "english": "",
+        "strongs": "G1453",
+        "grammar": "V-API-3S"
+    },
+    {
+        "chapter": 2,
+        "verse": 22,
+        "word": 4,
+        "greek": "εκ",
+        "english": "",
+        "strongs": "G1537",
+        "grammar": "PREP"
+    },
+    {
+        "chapter": 2,
+        "verse": 22,
+        "word": 5,
+        "greek": "νεκρων",
+        "english": "",
+        "strongs": "G3498",
+        "grammar": "A-GPM"
+    },
+    {
+        "chapter": 2,
+        "verse": 22,
+        "word": 6,
+        "greek": "εμνησθησαν",
+        "english": "",
+        "strongs": "G3403",
+        "grammar": "V-API-3P"
+    },
+    {
+        "chapter": 2,
+        "verse": 22,
+        "word": 7,
+        "greek": "οι",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-NPM"
+    },
+    {
+        "chapter": 2,
+        "verse": 22,
+        "word": 8,
+        "greek": "μαθηται",
+        "english": "",
+        "strongs": "G3101",
+        "grammar": "N-NPM"
+    },
+    {
+        "chapter": 2,
+        "verse": 22,
+        "word": 9,
+        "greek": "αυτου",
+        "english": "",
+        "strongs": "G846",
+        "grammar": "P-GSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 22,
+        "word": 10,
+        "greek": "οτι",
+        "english": "",
+        "strongs": "G3754",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 22,
+        "word": 11,
+        "greek": "τουτο",
+        "english": "",
+        "strongs": "G3778",
+        "grammar": "D-ASN"
+    },
+    {
+        "chapter": 2,
+        "verse": 22,
+        "word": 12,
+        "greek": "ελεγεν",
+        "english": "",
+        "strongs": "G3004",
+        "grammar": "V-IAI-3S"
+    },
+    {
+        "chapter": 2,
+        "verse": 22,
+        "word": 13,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 22,
+        "word": 14,
+        "greek": "επιστευσαν",
+        "english": "",
+        "strongs": "G4100",
+        "grammar": "V-AAI-3P"
+    },
+    {
+        "chapter": 2,
+        "verse": 22,
+        "word": 15,
+        "greek": "τη",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-DSF"
+    },
+    {
+        "chapter": 2,
+        "verse": 22,
+        "word": 16,
+        "greek": "γραφη",
+        "english": "",
+        "strongs": "G1124",
+        "grammar": "N-DSF"
+    },
+    {
+        "chapter": 2,
+        "verse": 22,
+        "word": 17,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 22,
+        "word": 18,
+        "greek": "τω",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-DSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 22,
+        "word": 19,
+        "greek": "λογω",
+        "english": "",
+        "strongs": "G3056",
+        "grammar": "N-DSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 22,
+        "word": 20,
+        "greek": "ω",
+        "english": "",
+        "strongs": "G3739",
+        "grammar": "R-DSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 22,
+        "word": 21,
+        "greek": "ειπεν",
+        "english": "",
+        "strongs": "G3004",
+        "grammar": "V-2AAI-3S"
+    },
+    {
+        "chapter": 2,
+        "verse": 22,
+        "word": 22,
+        "greek": "ο",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-NSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 22,
+        "word": 23,
+        "greek": "ιησους",
+        "english": "",
+        "strongs": "G2424",
+        "grammar": "N-NSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 23,
+        "word": 1,
+        "greek": "ως",
+        "english": "",
+        "strongs": "G5613",
+        "grammar": "ADV"
+    },
+    {
+        "chapter": 2,
+        "verse": 23,
+        "word": 2,
+        "greek": "δε",
+        "english": "",
+        "strongs": "G1161",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 23,
+        "word": 3,
+        "greek": "ην",
+        "english": "",
+        "strongs": "G1510",
+        "grammar": "V-IAI-3S"
+    },
+    {
+        "chapter": 2,
+        "verse": 23,
+        "word": 4,
+        "greek": "εν",
+        "english": "",
+        "strongs": "G1722",
+        "grammar": "PREP"
+    },
+    {
+        "chapter": 2,
+        "verse": 23,
+        "word": 5,
+        "greek": "τοις",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-DPN"
+    },
+    {
+        "chapter": 2,
+        "verse": 23,
+        "word": 6,
+        "greek": "ιεροσολυμοις",
+        "english": "",
+        "strongs": "G2414",
+        "grammar": "N-DPN"
+    },
+    {
+        "chapter": 2,
+        "verse": 23,
+        "word": 7,
+        "greek": "εν",
+        "english": "",
+        "strongs": "G1722",
+        "grammar": "PREP"
+    },
+    {
+        "chapter": 2,
+        "verse": 23,
+        "word": 8,
+        "greek": "τω",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-DSN"
+    },
+    {
+        "chapter": 2,
+        "verse": 23,
+        "word": 9,
+        "greek": "πασχα",
+        "english": "",
+        "strongs": "G3957",
+        "grammar": "ARAM"
+    },
+    {
+        "chapter": 2,
+        "verse": 23,
+        "word": 10,
+        "greek": "εν",
+        "english": "",
+        "strongs": "G1722",
+        "grammar": "PREP"
+    },
+    {
+        "chapter": 2,
+        "verse": 23,
+        "word": 11,
+        "greek": "τη",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-DSF"
+    },
+    {
+        "chapter": 2,
+        "verse": 23,
+        "word": 12,
+        "greek": "εορτη",
+        "english": "",
+        "strongs": "G1859",
+        "grammar": "N-DSF"
+    },
+    {
+        "chapter": 2,
+        "verse": 23,
+        "word": 13,
+        "greek": "πολλοι",
+        "english": "",
+        "strongs": "G4183",
+        "grammar": "A-NPM"
+    },
+    {
+        "chapter": 2,
+        "verse": 23,
+        "word": 14,
+        "greek": "επιστευσαν",
+        "english": "",
+        "strongs": "G4100",
+        "grammar": "V-AAI-3P"
+    },
+    {
+        "chapter": 2,
+        "verse": 23,
+        "word": 15,
+        "greek": "εις",
+        "english": "",
+        "strongs": "G1519",
+        "grammar": "PREP"
+    },
+    {
+        "chapter": 2,
+        "verse": 23,
+        "word": 16,
+        "greek": "το",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-ASN"
+    },
+    {
+        "chapter": 2,
+        "verse": 23,
+        "word": 17,
+        "greek": "ονομα",
+        "english": "",
+        "strongs": "G3686",
+        "grammar": "N-ASN"
+    },
+    {
+        "chapter": 2,
+        "verse": 23,
+        "word": 18,
+        "greek": "αυτου",
+        "english": "",
+        "strongs": "G846",
+        "grammar": "P-GSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 23,
+        "word": 19,
+        "greek": "θεωρουντες",
+        "english": "",
+        "strongs": "G2334",
+        "grammar": "V-PAP-NPM"
+    },
+    {
+        "chapter": 2,
+        "verse": 23,
+        "word": 20,
+        "greek": "αυτου",
+        "english": "",
+        "strongs": "G846",
+        "grammar": "P-GSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 23,
+        "word": 21,
+        "greek": "τα",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-APN"
+    },
+    {
+        "chapter": 2,
+        "verse": 23,
+        "word": 22,
+        "greek": "σημεια",
+        "english": "",
+        "strongs": "G4592",
+        "grammar": "N-APN"
+    },
+    {
+        "chapter": 2,
+        "verse": 23,
+        "word": 23,
+        "greek": "α",
+        "english": "",
+        "strongs": "G3739",
+        "grammar": "R-APN"
+    },
+    {
+        "chapter": 2,
+        "verse": 23,
+        "word": 24,
+        "greek": "εποιει",
+        "english": "",
+        "strongs": "G4160",
+        "grammar": "V-IAI-3S"
+    },
+    {
+        "chapter": 2,
+        "verse": 24,
+        "word": 1,
+        "greek": "αυτος",
+        "english": "",
+        "strongs": "G846",
+        "grammar": "P-NSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 24,
+        "word": 2,
+        "greek": "δε",
+        "english": "",
+        "strongs": "G1161",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 24,
+        "word": 3,
+        "greek": "ο",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-NSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 24,
+        "word": 4,
+        "greek": "ιησους",
+        "english": "",
+        "strongs": "G2424",
+        "grammar": "N-NSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 24,
+        "word": 5,
+        "greek": "ουκ",
+        "english": "",
+        "strongs": "G3756",
+        "grammar": "PRT-N"
+    },
+    {
+        "chapter": 2,
+        "verse": 24,
+        "word": 6,
+        "greek": "επιστευεν",
+        "english": "",
+        "strongs": "G4100",
+        "grammar": "V-IAI-3S"
+    },
+    {
+        "chapter": 2,
+        "verse": 24,
+        "word": 7,
+        "greek": "εαυτον",
+        "english": "",
+        "strongs": "G1438",
+        "grammar": "F-3ASM"
+    },
+    {
+        "chapter": 2,
+        "verse": 24,
+        "word": 8,
+        "greek": "αυτοις",
+        "english": "",
+        "strongs": "G846",
+        "grammar": "P-DPM"
+    },
+    {
+        "chapter": 2,
+        "verse": 24,
+        "word": 9,
+        "greek": "δια",
+        "english": "",
+        "strongs": "G1223",
+        "grammar": "PREP"
+    },
+    {
+        "chapter": 2,
+        "verse": 24,
+        "word": 10,
+        "greek": "το",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-ASN"
+    },
+    {
+        "chapter": 2,
+        "verse": 24,
+        "word": 11,
+        "greek": "αυτον",
+        "english": "",
+        "strongs": "G846",
+        "grammar": "P-ASM"
+    },
+    {
+        "chapter": 2,
+        "verse": 24,
+        "word": 12,
+        "greek": "γινωσκειν",
+        "english": "",
+        "strongs": "G1097",
+        "grammar": "V-PAN"
+    },
+    {
+        "chapter": 2,
+        "verse": 24,
+        "word": 13,
+        "greek": "παντας",
+        "english": "",
+        "strongs": "G3956",
+        "grammar": "A-APM"
+    },
+    {
+        "chapter": 2,
+        "verse": 25,
+        "word": 1,
+        "greek": "και",
+        "english": "",
+        "strongs": "G2532",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 25,
+        "word": 2,
+        "greek": "οτι",
+        "english": "",
+        "strongs": "G3754",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 25,
+        "word": 3,
+        "greek": "ου",
+        "english": "",
+        "strongs": "G3756",
+        "grammar": "PRT-N"
+    },
+    {
+        "chapter": 2,
+        "verse": 25,
+        "word": 4,
+        "greek": "χρειαν",
+        "english": "",
+        "strongs": "G5532",
+        "grammar": "N-ASF"
+    },
+    {
+        "chapter": 2,
+        "verse": 25,
+        "word": 5,
+        "greek": "ειχεν",
+        "english": "",
+        "strongs": "G2192",
+        "grammar": "V-IAI-3S"
+    },
+    {
+        "chapter": 2,
+        "verse": 25,
+        "word": 6,
+        "greek": "ινα",
+        "english": "",
+        "strongs": "G2443",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 25,
+        "word": 7,
+        "greek": "τις",
+        "english": "",
+        "strongs": "G5100",
+        "grammar": "X-NSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 25,
+        "word": 8,
+        "greek": "μαρτυρηση",
+        "english": "",
+        "strongs": "G3140",
+        "grammar": "V-AAS-3S"
+    },
+    {
+        "chapter": 2,
+        "verse": 25,
+        "word": 9,
+        "greek": "περι",
+        "english": "",
+        "strongs": "G4012",
+        "grammar": "PREP"
+    },
+    {
+        "chapter": 2,
+        "verse": 25,
+        "word": 10,
+        "greek": "του",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-GSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 25,
+        "word": 11,
+        "greek": "ανθρωπου",
+        "english": "",
+        "strongs": "G444",
+        "grammar": "N-GSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 25,
+        "word": 12,
+        "greek": "αυτος",
+        "english": "",
+        "strongs": "G846",
+        "grammar": "P-NSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 25,
+        "word": 13,
+        "greek": "γαρ",
+        "english": "",
+        "strongs": "G1063",
+        "grammar": "CONJ"
+    },
+    {
+        "chapter": 2,
+        "verse": 25,
+        "word": 14,
+        "greek": "εγινωσκεν",
+        "english": "",
+        "strongs": "G1097",
+        "grammar": "V-IAI-3S"
+    },
+    {
+        "chapter": 2,
+        "verse": 25,
+        "word": 15,
+        "greek": "τι",
+        "english": "",
+        "strongs": "G5101",
+        "grammar": "I-NSN"
+    },
+    {
+        "chapter": 2,
+        "verse": 25,
+        "word": 16,
+        "greek": "ην",
+        "english": "",
+        "strongs": "G1510",
+        "grammar": "V-IAI-3S"
+    },
+    {
+        "chapter": 2,
+        "verse": 25,
+        "word": 17,
+        "greek": "εν",
+        "english": "",
+        "strongs": "G1722",
+        "grammar": "PREP"
+    },
+    {
+        "chapter": 2,
+        "verse": 25,
+        "word": 18,
+        "greek": "τω",
+        "english": "",
+        "strongs": "G3588",
+        "grammar": "T-DSM"
+    },
+    {
+        "chapter": 2,
+        "verse": 25,
+        "word": 19,
+        "greek": "ανθρωπω",
+        "english": "",
+        "strongs": "G444",
+        "grammar": "N-DSM"
+    }
+]
